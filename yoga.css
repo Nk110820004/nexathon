@@ -1,0 +1,427 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #333;
+    color: #f0f0f0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+.bg::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    animation:
+      after-anim-opacity 5s linear infinite,
+      weee 10s linear infinite;
+    background-repeat: repeat-y;
+    background-size:
+      50px 20px,
+      50px 20px,
+      50px 80px,
+      50px 80px,
+      50px 80px,
+      50px 80px,
+      50px 80px,
+      50px 80px;
+    background-position-x: 4px, 54px, calc(var(--w) * 1 + 4px),
+      calc(var(--w) * 1 + 54px), calc(var(--w) * 2 + 4px),
+      calc(var(--w) * 2 + 54px), calc(var(--w) * 3 + 4px),
+      calc(var(--w) * 3 + 54px), calc(var(--w) * 4 + 4px),
+      calc(var(--w) * 4 + 54px);
+    background-image: none, none,
+      linear-gradient(
+        45deg,
+        var(--c) 0% 30.76923076923077%,
+        transparent 30.76923076923077% 61.53846153846154%,
+        var(--c) 61.53846153846154% 92.3076923076923%,
+        transparent 92.3076923076923%
+      ),
+      linear-gradient(
+        -45deg,
+        var(--c) 0% 30.76923076923077%,
+        transparent 30.76923076923077% 61.53846153846154%,
+        var(--c) 61.53846153846154% 92.3076923076923%,
+        transparent 92.3076923076923%
+      ),
+      none, none,
+      linear-gradient(
+        45deg,
+        var(--c) 0% 30.76923076923077%,
+        transparent 30.76923076923077% 61.53846153846154%,
+        var(--c) 61.53846153846154% 92.3076923076923%,
+        transparent 92.3076923076923%
+      ),
+      linear-gradient(
+        -45deg,
+        var(--c) 0% 30.76923076923077%,
+        transparent 30.76923076923077% 61.53846153846154%,
+        var(--c) 61.53846153846154% 92.3076923076923%,
+        transparent 92.3076923076923%
+      );
+  }
+  
+  @keyframes after-anim-opacity {
+    5% {
+      opacity: 1;
+    }
+    0%,
+    4.99%,
+    20%,
+    100% {
+      opacity: 0;
+    }
+  }
+  
+  .bg::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    animation:
+      before-anim-opacity 5s linear infinite,
+      before-anim-bg 5s step-start infinite,
+      weee 10s linear infinite;
+    background-repeat: repeat-y;
+    background-size:
+      50px 20px,
+      50px 20px,
+      50px 80px,
+      50px 80px,
+      50px 80px,
+      50px 80px,
+      50px 80px,
+      50px 80px;
+    background-position-x: 4px, 54px, calc(var(--w) * 1 + 4px),
+      calc(var(--w) * 1 + 54px), calc(var(--w) * 2 + 4px),
+      calc(var(--w) * 2 + 54px), calc(var(--w) * 3 + 4px),
+      calc(var(--w) * 3 + 54px), calc(var(--w) * 4 + 4px),
+      calc(var(--w) * 4 + 54px);
+  }
+  
+  @keyframes before-anim-opacity {
+    0%,
+    10.4% {
+      opacity: 1;
+    }
+    9.9%,
+    10.3999%,
+    30%,
+    100% {
+      opacity: 0;
+    }
+  }
+  
+  @keyframes before-anim-bg {
+    0%,
+    9.9%,
+    99% {
+      background-image: none, none, none, none,
+        linear-gradient(
+          45deg,
+          var(--c) 0% 30.76923076923077%,
+          transparent 30.76923076923077% 61.53846153846154%,
+          var(--c) 61.53846153846154% 92.3076923076923%,
+          transparent 92.3076923076923%
+        ),
+        linear-gradient(
+          -45deg,
+          var(--c) 0% 30.76923076923077%,
+          transparent 30.76923076923077% 61.53846153846154%,
+          var(--c) 61.53846153846154% 92.3076923076923%,
+          transparent 92.3076923076923%
+        );
+    }
+    10%,
+    40% {
+      background-image: linear-gradient(
+          45deg,
+          var(--c) 0% 14.285714285714285%,
+          transparent 14.285714285714285% 28.57142857142857%,
+          var(--c) 28.57142857142857% 42.857142857142854%,
+          transparent 42.857142857142854% 57.14285714285714%,
+          var(--c) 57.14285714285714% 71.42857142857142%,
+          transparent 71.42857142857142% 85.71428571428571%,
+          var(--c) 85.71428571428571% 100%
+        ),
+        linear-gradient(
+          -45deg,
+          var(--c) 0% 14.285714285714285%,
+          transparent 14.285714285714285% 28.57142857142857%,
+          var(--c) 28.57142857142857% 42.857142857142854%,
+          transparent 42.857142857142854% 57.14285714285714%,
+          var(--c) 57.14285714285714% 71.42857142857142%,
+          transparent 71.42857142857142% 85.71428571428571%,
+          var(--c) 85.71428571428571% 100%
+        ),
+        none, none, none, none, none, none,
+        linear-gradient(
+          45deg,
+          var(--c) 0% 14.285714285714285%,
+          transparent 14.285714285714285% 28.57142857142857%,
+          var(--c) 28.57142857142857% 42.857142857142854%,
+          transparent 42.857142857142854% 57.14285714285714%,
+          var(--c) 57.14285714285714% 71.42857142857142%,
+          transparent 71.42857142857142% 85.71428571428571%,
+          var(--c) 85.71428571428571% 100%
+        ),
+        linear-gradient(
+          -45deg,
+          var(--c) 0% 14.285714285714285%,
+          transparent 14.285714285714285% 28.57142857142857%,
+          var(--c) 28.57142857142857% 42.857142857142854%,
+          transparent 42.857142857142854% 57.14285714285714%,
+          var(--c) 57.14285714285714% 71.42857142857142%,
+          transparent 71.42857142857142% 85.71428571428571%,
+          var(--c) 85.71428571428571% 100%
+        );
+    }
+  }
+  
+  .bg {
+    position: absolute;
+    outline: 40em solid var(--b);
+    width: calc(var(--w) * 5 + 4px);
+    height: 100%;
+    --l: #2549ec;
+    --b: #252a29;
+    --c: #b92312;
+    animation: weee 10s linear infinite;
+    background: var(--b);
+    background-image: linear-gradient(
+        45deg,
+        var(--l) 0% 14.285714285714285%,
+        transparent 14.285714285714285% 28.57142857142857%,
+        var(--l) 28.57142857142857% 42.857142857142854%,
+        transparent 42.857142857142854% 57.14285714285714%,
+        var(--l) 57.14285714285714% 71.42857142857142%,
+        transparent 71.42857142857142% 85.71428571428571%,
+        var(--l) 85.71428571428571% 100%
+      ),
+      linear-gradient(
+        -45deg,
+        var(--l) 0% 14.285714285714285%,
+        transparent 14.285714285714285% 28.57142857142857%,
+        var(--l) 28.57142857142857% 42.857142857142854%,
+        transparent 42.857142857142854% 57.14285714285714%,
+        var(--l) 57.14285714285714% 71.42857142857142%,
+        transparent 71.42857142857142% 85.71428571428571%,
+        var(--l) 85.71428571428571% 100%
+      ),
+      linear-gradient(
+        45deg,
+        var(--l) 0% 30.76923076923077%,
+        transparent 30.76923076923077% 61.53846153846154%,
+        var(--l) 61.53846153846154% 92.3076923076923%,
+        transparent 92.3076923076923%
+      ),
+      linear-gradient(
+        -45deg,
+        var(--l) 0% 30.76923076923077%,
+        transparent 30.76923076923077% 61.53846153846154%,
+        var(--l) 61.53846153846154% 92.3076923076923%,
+        transparent 92.3076923076923%
+      ),
+      linear-gradient(
+        45deg,
+        var(--l) 0% 30.76923076923077%,
+        transparent 30.76923076923077% 61.53846153846154%,
+        var(--l) 61.53846153846154% 92.3076923076923%,
+        transparent 92.3076923076923%
+      ),
+      linear-gradient(
+        -45deg,
+        var(--l) 0% 30.76923076923077%,
+        transparent 30.76923076923077% 61.53846153846154%,
+        var(--l) 61.53846153846154% 92.3076923076923%,
+        transparent 92.3076923076923%
+      ),
+      linear-gradient(
+        45deg,
+        var(--l) 0% 30.76923076923077%,
+        transparent 30.76923076923077% 61.53846153846154%,
+        var(--l) 61.53846153846154% 92.3076923076923%,
+        transparent 92.3076923076923%
+      ),
+      linear-gradient(
+        -45deg,
+        var(--l) 0% 30.76923076923077%,
+        transparent 30.76923076923077% 61.53846153846154%,
+        var(--l) 61.53846153846154% 92.3076923076923%,
+        transparent 92.3076923076923%
+      ),
+      linear-gradient(
+        45deg,
+        var(--l) 0% 14.285714285714285%,
+        transparent 14.285714285714285% 28.57142857142857%,
+        var(--l) 28.57142857142857% 42.857142857142854%,
+        transparent 42.857142857142854% 57.14285714285714%,
+        var(--l) 57.14285714285714% 71.42857142857142%,
+        transparent 71.42857142857142% 85.71428571428571%,
+        var(--l) 85.71428571428571% 100%
+      ),
+      linear-gradient(
+        -45deg,
+        var(--l) 0% 14.285714285714285%,
+        transparent 14.285714285714285% 28.57142857142857%,
+        var(--l) 28.57142857142857% 42.857142857142854%,
+        transparent 42.857142857142854% 57.14285714285714%,
+        var(--l) 57.14285714285714% 71.42857142857142%,
+        transparent 71.42857142857142% 85.71428571428571%,
+        var(--l) 85.71428571428571% 100%
+      );
+    background-size:
+      50px 20px,
+      50px 20px,
+      50px 80px,
+      50px 80px,
+      50px 80px,
+      50px 80px,
+      50px 80px,
+      50px 80px;
+    --w: 104px;
+    background-position-x: 4px, 54px, calc(var(--w) * 1 + 4px),
+      calc(var(--w) * 1 + 54px), calc(var(--w) * 2 + 4px),
+      calc(var(--w) * 2 + 54px), calc(var(--w) * 3 + 4px),
+      calc(var(--w) * 3 + 54px), calc(var(--w) * 4 + 4px),
+      calc(var(--w) * 4 + 54px);
+    background-repeat: repeat-y;
+  }
+  
+  @keyframes weee {
+    to {
+      background-position-y: 800px, 800px, 1040px, 1040px, 1360px, 1360px, 1040px,
+        1040px;
+    }
+  }
+  
+.container {
+    text-align: center;
+    max-width: 600px;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.1);
+    border-radius: 10px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(10px);
+    z-index: 10;
+}
+
+h1 {
+    color: crimson;
+}
+
+p {
+    color: black;
+    margin-bottom: 20px;
+    font-size: 1.1em;
+}
+
+button {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    color: white;
+    background-color: crimson;
+    padding: 1em 2em;
+    border: none;
+    border-radius: .6rem;
+    position: relative;
+    cursor: pointer;
+    overflow: hidden;
+    transition: background-color 0.3s ease;
+    font-size: 1.2em;
+}
+
+button:hover {
+    background-color: #c72c2c; 
+}
+
+button span:not(:nth-child(6)) {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    height: 30px;
+    width: 30px;
+    background-color: #0c66ed;
+    border-radius: 50%;
+    transition: .6s ease;
+}
+
+button span:nth-child(6) {
+    position: relative;
+}
+
+button span:nth-child(1) {
+    transform: translate(-3.3em, -4em);
+}
+
+button span:nth-child(2) {
+    transform: translate(-6em, 1.3em);
+}
+
+button span:nth-child(3) {
+    transform: translate(-.2em, 1.8em);
+}
+
+button span:nth-child(4) {
+    transform: translate(3.5em, 1.4em);
+}
+
+button span:nth-child(5) {
+    transform: translate(3.5em, -3.8em);
+}
+
+button:hover span:not(:nth-child(6)) {
+    transform: translate(-50%, -50%) scale(4);
+    transition: 1.5s ease;
+}
+
+.image-preview-container {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 20px;
+}
+
+.image-preview {
+    position: relative;
+    width: 100px; /* Passport size */
+    height: 100px; /* Passport size */
+    margin: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+.image-preview img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Maintain aspect ratio */
+}
+
+.delete-button {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    background-color: crimson;
+    color: white;
+    border: none;
+    border-radius: 100%;
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+}
+
+video {
+    display: none;
+    width: 100%;
+    max-width: 500px;
+    margin-left: 50px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+}

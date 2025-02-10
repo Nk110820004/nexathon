@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="yoga.css">
+    <title>Know Your Form</title>
+</head>
+<body>
+    <div class="bg"></div>
+    <div class="container">
+        <h1>Know Your Form</h1>
+        <p>Form is one of the most crucial aspects of working out because it ensures that exercises are performed safely and effectively. Proper form helps activate the right muscles, preventing unnecessary strain on joints and reducing the risk of injuries such as muscle tears, sprains, or back pain. It also improves workout efficiency, allowing you to lift heavier weights, build strength, and achieve better results over time. Poor form, on the other hand, can lead to imbalances, overcompensation by the wrong muscles, and long-term issues that hinder progress. Whether lifting weights, performing bodyweight exercises, or engaging in cardio, maintaining proper posture, alignment, and technique is key to maximizing performance and staying injury-free.</p>
+        
+        <button id="accessButton">
+            <span class="circle1"></span>
+            <span class="circle2"></span>
+            <span class="circle3"></span>
+            <span class="circle4"></span>
+            <span class="circle5"></span>
+            <span class="text">Give Camera Access</span>
+        </button>
+        <button id="uploadButton">Upload Images</button>
+        <input type="file" id="imageInput" accept="image/*" multiple style="display: none;">
+        <div id="imagePreviewContainer" class="image-preview-container"></div>
+    
+    <div id="preview"></div>
+
+        <video id="video" autoplay></video>
+        <button id="stopButton" style="display: none;">
+            <span class="circle1"></span>
+            <span class="circle2"></span>
+            <span class="circle3"></span>
+            <span class="circle4"></span>
+            <span class="circle5"></span>
+            <span class="text">Stop Camera</span></button>
+    </div>
+
+    
+    <script src="yoga.js"></script>
+</body>
+</html>
