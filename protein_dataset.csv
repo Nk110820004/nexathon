@@ -1,0 +1,5001 @@
+Rate ($/kg),Protein Source,Protein (g per 100g),Calories (kcal per 100g)
+49.0,Chicken Breast,31,165
+11.04,Chicken Breast,31,165
+19.92,Chicken Breast,31,165
+36.67,Tofu,8,76
+16.52,Whey Protein,80,400
+45.6,Eggs,13,155
+24.14,Salmon,25,208
+41.26,Lentils,9,116
+41.14,Almonds,21,579
+16.36,Beef,27,250
+29.14,Chicken Breast,31,165
+43.66,Beef,27,250
+42.14,Lentils,9,116
+46.17,Eggs,13,155
+8.71,Greek Yogurt,10,59
+6.38,Lentils,9,116
+37.83,Tofu,8,76
+43.55,Tofu,8,76
+48.1,Whey Protein,80,400
+29.84,Lentils,9,116
+39.11,Almonds,21,579
+28.89,Lentils,9,116
+22.91,Peanut Butter,25,588
+7.02,Greek Yogurt,10,59
+49.58,Peanut Butter,25,588
+7.31,Almonds,21,579
+19.99,Greek Yogurt,10,59
+43.99,Eggs,13,155
+28.21,Greek Yogurt,10,59
+43.3,Almonds,21,579
+22.26,Greek Yogurt,10,59
+6.18,Tofu,8,76
+5.18,Eggs,13,155
+27.01,Whey Protein,80,400
+7.74,Chicken Breast,31,165
+6.94,Greek Yogurt,10,59
+18.36,Tofu,8,76
+10.99,Greek Yogurt,10,59
+35.15,Eggs,13,155
+12.09,Tofu,8,76
+27.23,Peanut Butter,25,588
+37.04,Whey Protein,80,400
+12.99,Greek Yogurt,10,59
+34.9,Eggs,13,155
+10.64,Lentils,9,116
+33.31,Beef,27,250
+29.48,Peanut Butter,25,588
+13.27,Salmon,25,208
+24.07,Eggs,13,155
+29.91,Peanut Butter,25,588
+33.06,Salmon,25,208
+46.34,Peanut Butter,25,588
+36.51,Peanut Butter,25,588
+47.89,Eggs,13,155
+11.67,Chicken Breast,31,165
+47.45,Greek Yogurt,10,59
+26.37,Beef,27,250
+32.94,Salmon,25,208
+37.25,Tofu,8,76
+5.7,Whey Protein,80,400
+41.44,Greek Yogurt,10,59
+15.06,Almonds,21,579
+40.93,Chicken Breast,31,165
+47.6,Peanut Butter,25,588
+27.66,Eggs,13,155
+37.59,Tofu,8,76
+49.25,Salmon,25,208
+49.75,Chicken Breast,31,165
+27.36,Peanut Butter,25,588
+40.63,Eggs,13,155
+28.12,Beef,27,250
+6.06,Peanut Butter,25,588
+12.94,Tofu,8,76
+30.93,Whey Protein,80,400
+48.63,Salmon,25,208
+35.23,Salmon,25,208
+25.74,Greek Yogurt,10,59
+14.88,Chicken Breast,31,165
+46.45,Chicken Breast,31,165
+43.03,Almonds,21,579
+13.09,Greek Yogurt,10,59
+11.8,Almonds,21,579
+42.69,Tofu,8,76
+16.68,Greek Yogurt,10,59
+15.38,Salmon,25,208
+10.19,Whey Protein,80,400
+36.71,Eggs,13,155
+7.32,Chicken Breast,31,165
+28.7,Greek Yogurt,10,59
+27.22,Salmon,25,208
+15.66,Whey Protein,80,400
+27.54,Almonds,21,579
+20.14,Tofu,8,76
+23.76,Chicken Breast,31,165
+35.29,Beef,27,250
+23.59,Peanut Butter,25,588
+28.55,Salmon,25,208
+6.64,Eggs,13,155
+35.4,Greek Yogurt,10,59
+32.48,Chicken Breast,31,165
+26.53,Lentils,9,116
+20.67,Beef,27,250
+33.97,Eggs,13,155
+20.05,Almonds,21,579
+20.15,Beef,27,250
+22.33,Whey Protein,80,400
+23.64,Peanut Butter,25,588
+22.68,Peanut Butter,25,588
+40.34,Almonds,21,579
+19.37,Eggs,13,155
+33.12,Lentils,9,116
+27.4,Peanut Butter,25,588
+40.5,Peanut Butter,25,588
+32.64,Almonds,21,579
+48.12,Peanut Butter,25,588
+22.51,Almonds,21,579
+37.24,Salmon,25,208
+39.27,Peanut Butter,25,588
+15.54,Eggs,13,155
+29.79,Whey Protein,80,400
+47.67,Tofu,8,76
+49.89,Greek Yogurt,10,59
+38.26,Almonds,21,579
+28.32,Almonds,21,579
+20.99,Beef,27,250
+16.98,Beef,27,250
+49.21,Peanut Butter,25,588
+24.89,Almonds,21,579
+42.89,Chicken Breast,31,165
+19.61,Lentils,9,116
+42.01,Chicken Breast,31,165
+49.15,Almonds,21,579
+25.63,Peanut Butter,25,588
+19.66,Chicken Breast,31,165
+29.34,Lentils,9,116
+48.25,Lentils,9,116
+41.95,Greek Yogurt,10,59
+45.79,Tofu,8,76
+6.6,Tofu,8,76
+19.23,Whey Protein,80,400
+40.89,Whey Protein,80,400
+17.76,Eggs,13,155
+40.21,Chicken Breast,31,165
+28.28,Greek Yogurt,10,59
+7.65,Chicken Breast,31,165
+40.61,Salmon,25,208
+5.1,Almonds,21,579
+47.36,Salmon,25,208
+45.2,Tofu,8,76
+29.93,Lentils,9,116
+48.52,Peanut Butter,25,588
+12.98,Greek Yogurt,10,59
+49.75,Whey Protein,80,400
+39.67,Tofu,8,76
+30.75,Greek Yogurt,10,59
+19.99,Whey Protein,80,400
+38.45,Peanut Butter,25,588
+12.93,Almonds,21,579
+38.2,Tofu,8,76
+26.24,Lentils,9,116
+8.64,Peanut Butter,25,588
+17.0,Chicken Breast,31,165
+22.76,Greek Yogurt,10,59
+8.56,Lentils,9,116
+49.01,Eggs,13,155
+31.36,Tofu,8,76
+5.79,Tofu,8,76
+34.17,Peanut Butter,25,588
+14.61,Greek Yogurt,10,59
+32.36,Peanut Butter,25,588
+35.93,Peanut Butter,25,588
+48.93,Eggs,13,155
+30.99,Whey Protein,80,400
+47.28,Beef,27,250
+39.43,Chicken Breast,31,165
+45.96,Whey Protein,80,400
+6.85,Eggs,13,155
+48.4,Beef,27,250
+19.33,Beef,27,250
+39.55,Tofu,8,76
+25.82,Peanut Butter,25,588
+13.1,Beef,27,250
+27.71,Salmon,25,208
+15.43,Beef,27,250
+39.2,Tofu,8,76
+18.65,Greek Yogurt,10,59
+35.29,Eggs,13,155
+22.67,Beef,27,250
+17.6,Eggs,13,155
+21.65,Chicken Breast,31,165
+7.54,Eggs,13,155
+38.8,Peanut Butter,25,588
+19.25,Tofu,8,76
+21.81,Salmon,25,208
+24.5,Peanut Butter,25,588
+34.51,Salmon,25,208
+24.11,Greek Yogurt,10,59
+35.81,Beef,27,250
+31.83,Lentils,9,116
+6.31,Almonds,21,579
+31.32,Beef,27,250
+5.27,Chicken Breast,31,165
+46.96,Lentils,9,116
+31.37,Chicken Breast,31,165
+37.76,Salmon,25,208
+17.67,Almonds,21,579
+21.58,Greek Yogurt,10,59
+22.56,Chicken Breast,31,165
+47.8,Chicken Breast,31,165
+30.13,Whey Protein,80,400
+9.31,Chicken Breast,31,165
+22.75,Almonds,21,579
+36.95,Salmon,25,208
+49.48,Peanut Butter,25,588
+46.67,Chicken Breast,31,165
+23.89,Beef,27,250
+12.08,Greek Yogurt,10,59
+46.91,Peanut Butter,25,588
+27.06,Eggs,13,155
+7.5,Salmon,25,208
+32.37,Chicken Breast,31,165
+16.9,Beef,27,250
+24.68,Chicken Breast,31,165
+42.88,Eggs,13,155
+18.31,Whey Protein,80,400
+28.66,Beef,27,250
+14.4,Almonds,21,579
+38.61,Almonds,21,579
+5.37,Lentils,9,116
+33.69,Lentils,9,116
+44.93,Beef,27,250
+13.98,Almonds,21,579
+19.95,Peanut Butter,25,588
+26.13,Peanut Butter,25,588
+46.41,Whey Protein,80,400
+32.19,Salmon,25,208
+31.6,Greek Yogurt,10,59
+11.6,Whey Protein,80,400
+38.41,Tofu,8,76
+19.9,Beef,27,250
+9.72,Eggs,13,155
+12.5,Peanut Butter,25,588
+25.9,Tofu,8,76
+34.15,Lentils,9,116
+22.02,Chicken Breast,31,165
+12.32,Chicken Breast,31,165
+49.64,Peanut Butter,25,588
+47.97,Peanut Butter,25,588
+45.38,Eggs,13,155
+25.18,Peanut Butter,25,588
+11.79,Whey Protein,80,400
+35.07,Greek Yogurt,10,59
+32.76,Whey Protein,80,400
+43.71,Eggs,13,155
+16.05,Eggs,13,155
+24.65,Salmon,25,208
+38.88,Peanut Butter,25,588
+23.56,Greek Yogurt,10,59
+49.12,Tofu,8,76
+25.37,Eggs,13,155
+43.79,Tofu,8,76
+29.55,Tofu,8,76
+44.07,Lentils,9,116
+40.31,Chicken Breast,31,165
+26.7,Chicken Breast,31,165
+18.15,Lentils,9,116
+34.15,Tofu,8,76
+17.4,Lentils,9,116
+28.89,Peanut Butter,25,588
+19.82,Salmon,25,208
+25.22,Lentils,9,116
+40.6,Lentils,9,116
+32.47,Lentils,9,116
+26.21,Almonds,21,579
+16.43,Peanut Butter,25,588
+15.56,Greek Yogurt,10,59
+11.04,Lentils,9,116
+37.66,Salmon,25,208
+8.96,Salmon,25,208
+33.67,Lentils,9,116
+20.8,Whey Protein,80,400
+9.38,Beef,27,250
+37.86,Tofu,8,76
+26.96,Lentils,9,116
+40.19,Whey Protein,80,400
+37.1,Whey Protein,80,400
+18.45,Tofu,8,76
+19.16,Greek Yogurt,10,59
+41.37,Salmon,25,208
+22.02,Tofu,8,76
+42.24,Greek Yogurt,10,59
+43.52,Peanut Butter,25,588
+24.38,Salmon,25,208
+8.18,Salmon,25,208
+30.74,Peanut Butter,25,588
+8.19,Whey Protein,80,400
+27.7,Greek Yogurt,10,59
+26.19,Chicken Breast,31,165
+32.65,Eggs,13,155
+40.4,Salmon,25,208
+15.02,Beef,27,250
+21.27,Salmon,25,208
+26.56,Beef,27,250
+32.41,Greek Yogurt,10,59
+15.11,Salmon,25,208
+33.61,Whey Protein,80,400
+24.84,Eggs,13,155
+26.32,Whey Protein,80,400
+22.15,Almonds,21,579
+47.59,Almonds,21,579
+39.46,Chicken Breast,31,165
+15.97,Lentils,9,116
+48.99,Peanut Butter,25,588
+47.23,Almonds,21,579
+38.93,Whey Protein,80,400
+25.31,Peanut Butter,25,588
+33.15,Tofu,8,76
+13.03,Lentils,9,116
+9.46,Eggs,13,155
+12.44,Peanut Butter,25,588
+8.04,Chicken Breast,31,165
+11.03,Tofu,8,76
+29.73,Peanut Butter,25,588
+13.14,Lentils,9,116
+31.75,Salmon,25,208
+46.46,Almonds,21,579
+39.67,Eggs,13,155
+8.3,Peanut Butter,25,588
+42.95,Eggs,13,155
+45.48,Tofu,8,76
+8.23,Whey Protein,80,400
+43.18,Tofu,8,76
+47.13,Tofu,8,76
+30.85,Tofu,8,76
+26.52,Whey Protein,80,400
+13.96,Greek Yogurt,10,59
+11.5,Greek Yogurt,10,59
+27.47,Whey Protein,80,400
+24.38,Beef,27,250
+24.94,Beef,27,250
+29.9,Chicken Breast,31,165
+33.21,Whey Protein,80,400
+21.53,Eggs,13,155
+6.67,Beef,27,250
+41.94,Chicken Breast,31,165
+38.45,Beef,27,250
+13.08,Salmon,25,208
+5.53,Peanut Butter,25,588
+35.33,Beef,27,250
+19.83,Salmon,25,208
+25.19,Salmon,25,208
+43.58,Eggs,13,155
+6.13,Greek Yogurt,10,59
+33.24,Lentils,9,116
+37.72,Beef,27,250
+32.03,Greek Yogurt,10,59
+40.82,Salmon,25,208
+43.49,Lentils,9,116
+15.19,Salmon,25,208
+30.92,Chicken Breast,31,165
+29.32,Lentils,9,116
+27.51,Beef,27,250
+44.33,Beef,27,250
+45.57,Salmon,25,208
+24.12,Eggs,13,155
+10.48,Greek Yogurt,10,59
+24.16,Peanut Butter,25,588
+14.55,Beef,27,250
+11.8,Greek Yogurt,10,59
+45.36,Almonds,21,579
+46.05,Eggs,13,155
+36.75,Eggs,13,155
+42.04,Lentils,9,116
+28.91,Beef,27,250
+21.33,Chicken Breast,31,165
+14.86,Tofu,8,76
+24.99,Salmon,25,208
+46.67,Tofu,8,76
+49.15,Chicken Breast,31,165
+14.27,Peanut Butter,25,588
+28.98,Tofu,8,76
+49.12,Chicken Breast,31,165
+46.61,Greek Yogurt,10,59
+26.17,Lentils,9,116
+31.73,Peanut Butter,25,588
+15.3,Salmon,25,208
+44.63,Salmon,25,208
+21.83,Greek Yogurt,10,59
+24.52,Chicken Breast,31,165
+42.94,Chicken Breast,31,165
+25.22,Eggs,13,155
+34.72,Almonds,21,579
+44.65,Whey Protein,80,400
+16.79,Greek Yogurt,10,59
+40.11,Chicken Breast,31,165
+32.43,Chicken Breast,31,165
+35.82,Chicken Breast,31,165
+42.51,Beef,27,250
+19.38,Lentils,9,116
+7.9,Greek Yogurt,10,59
+30.54,Lentils,9,116
+13.25,Chicken Breast,31,165
+20.28,Eggs,13,155
+45.77,Greek Yogurt,10,59
+14.18,Peanut Butter,25,588
+7.72,Beef,27,250
+50.0,Tofu,8,76
+37.22,Greek Yogurt,10,59
+46.09,Chicken Breast,31,165
+13.16,Tofu,8,76
+39.97,Eggs,13,155
+18.92,Eggs,13,155
+37.16,Eggs,13,155
+22.89,Peanut Butter,25,588
+39.57,Lentils,9,116
+40.43,Chicken Breast,31,165
+16.76,Tofu,8,76
+24.66,Chicken Breast,31,165
+49.18,Greek Yogurt,10,59
+10.31,Peanut Butter,25,588
+30.33,Whey Protein,80,400
+43.8,Salmon,25,208
+30.8,Whey Protein,80,400
+33.77,Greek Yogurt,10,59
+42.45,Peanut Butter,25,588
+39.77,Eggs,13,155
+41.84,Tofu,8,76
+10.64,Peanut Butter,25,588
+45.29,Salmon,25,208
+44.86,Greek Yogurt,10,59
+25.33,Lentils,9,116
+17.93,Peanut Butter,25,588
+19.45,Eggs,13,155
+9.27,Eggs,13,155
+38.55,Almonds,21,579
+12.12,Peanut Butter,25,588
+30.5,Almonds,21,579
+19.74,Tofu,8,76
+44.82,Greek Yogurt,10,59
+13.31,Lentils,9,116
+8.92,Lentils,9,116
+12.75,Salmon,25,208
+46.63,Whey Protein,80,400
+14.95,Salmon,25,208
+31.46,Lentils,9,116
+17.04,Lentils,9,116
+29.95,Eggs,13,155
+32.51,Eggs,13,155
+43.59,Chicken Breast,31,165
+33.27,Eggs,13,155
+42.93,Salmon,25,208
+40.2,Chicken Breast,31,165
+28.23,Peanut Butter,25,588
+14.22,Beef,27,250
+20.62,Beef,27,250
+22.68,Tofu,8,76
+35.56,Chicken Breast,31,165
+10.92,Peanut Butter,25,588
+30.99,Tofu,8,76
+33.63,Almonds,21,579
+5.03,Tofu,8,76
+31.03,Beef,27,250
+27.12,Greek Yogurt,10,59
+44.56,Lentils,9,116
+23.17,Whey Protein,80,400
+23.08,Whey Protein,80,400
+21.93,Chicken Breast,31,165
+39.46,Eggs,13,155
+25.06,Eggs,13,155
+39.71,Beef,27,250
+23.2,Lentils,9,116
+46.24,Tofu,8,76
+6.4,Lentils,9,116
+35.16,Almonds,21,579
+34.84,Whey Protein,80,400
+9.69,Eggs,13,155
+37.61,Whey Protein,80,400
+41.41,Almonds,21,579
+49.51,Tofu,8,76
+36.33,Peanut Butter,25,588
+12.19,Greek Yogurt,10,59
+45.36,Beef,27,250
+15.03,Whey Protein,80,400
+41.84,Salmon,25,208
+18.92,Lentils,9,116
+5.18,Lentils,9,116
+12.5,Beef,27,250
+21.45,Whey Protein,80,400
+25.39,Almonds,21,579
+11.29,Salmon,25,208
+35.28,Whey Protein,80,400
+36.12,Eggs,13,155
+24.04,Greek Yogurt,10,59
+46.43,Greek Yogurt,10,59
+27.34,Salmon,25,208
+6.4,Tofu,8,76
+31.85,Eggs,13,155
+25.65,Peanut Butter,25,588
+45.88,Greek Yogurt,10,59
+16.73,Tofu,8,76
+48.56,Eggs,13,155
+20.11,Lentils,9,116
+30.19,Chicken Breast,31,165
+43.85,Eggs,13,155
+15.2,Salmon,25,208
+47.51,Salmon,25,208
+7.28,Salmon,25,208
+37.09,Peanut Butter,25,588
+18.87,Chicken Breast,31,165
+31.91,Almonds,21,579
+10.87,Salmon,25,208
+11.61,Lentils,9,116
+48.16,Lentils,9,116
+33.21,Whey Protein,80,400
+32.62,Salmon,25,208
+15.93,Peanut Butter,25,588
+25.1,Almonds,21,579
+8.68,Peanut Butter,25,588
+17.67,Tofu,8,76
+6.17,Eggs,13,155
+6.41,Greek Yogurt,10,59
+37.12,Tofu,8,76
+48.65,Tofu,8,76
+33.53,Salmon,25,208
+44.71,Chicken Breast,31,165
+10.42,Whey Protein,80,400
+45.13,Almonds,21,579
+37.28,Greek Yogurt,10,59
+21.3,Beef,27,250
+26.11,Greek Yogurt,10,59
+48.95,Chicken Breast,31,165
+21.97,Greek Yogurt,10,59
+25.32,Salmon,25,208
+23.98,Peanut Butter,25,588
+31.65,Whey Protein,80,400
+42.69,Tofu,8,76
+47.89,Chicken Breast,31,165
+33.21,Eggs,13,155
+45.01,Greek Yogurt,10,59
+29.34,Eggs,13,155
+16.49,Peanut Butter,25,588
+8.37,Greek Yogurt,10,59
+46.19,Tofu,8,76
+32.48,Greek Yogurt,10,59
+44.14,Whey Protein,80,400
+20.46,Salmon,25,208
+22.04,Salmon,25,208
+48.99,Greek Yogurt,10,59
+22.7,Chicken Breast,31,165
+40.67,Beef,27,250
+49.89,Tofu,8,76
+28.22,Peanut Butter,25,588
+9.13,Eggs,13,155
+27.46,Beef,27,250
+38.04,Eggs,13,155
+13.4,Whey Protein,80,400
+16.76,Chicken Breast,31,165
+11.39,Lentils,9,116
+8.12,Peanut Butter,25,588
+18.4,Beef,27,250
+15.91,Eggs,13,155
+32.82,Salmon,25,208
+47.14,Greek Yogurt,10,59
+35.2,Eggs,13,155
+34.19,Chicken Breast,31,165
+12.12,Lentils,9,116
+5.55,Tofu,8,76
+25.12,Almonds,21,579
+5.4,Eggs,13,155
+23.97,Peanut Butter,25,588
+22.55,Whey Protein,80,400
+25.97,Tofu,8,76
+39.61,Beef,27,250
+21.69,Salmon,25,208
+28.49,Whey Protein,80,400
+10.53,Salmon,25,208
+38.57,Chicken Breast,31,165
+8.56,Greek Yogurt,10,59
+7.05,Chicken Breast,31,165
+18.54,Salmon,25,208
+20.96,Eggs,13,155
+42.86,Chicken Breast,31,165
+30.74,Beef,27,250
+35.96,Lentils,9,116
+9.09,Whey Protein,80,400
+40.92,Whey Protein,80,400
+22.23,Whey Protein,80,400
+38.97,Almonds,21,579
+38.72,Salmon,25,208
+41.61,Chicken Breast,31,165
+29.85,Tofu,8,76
+5.8,Peanut Butter,25,588
+13.39,Almonds,21,579
+36.92,Salmon,25,208
+20.7,Lentils,9,116
+36.87,Salmon,25,208
+43.1,Peanut Butter,25,588
+11.94,Tofu,8,76
+41.29,Beef,27,250
+8.9,Greek Yogurt,10,59
+37.26,Tofu,8,76
+30.36,Eggs,13,155
+18.39,Salmon,25,208
+30.62,Beef,27,250
+8.5,Chicken Breast,31,165
+48.48,Almonds,21,579
+23.73,Whey Protein,80,400
+29.1,Beef,27,250
+19.71,Whey Protein,80,400
+31.11,Salmon,25,208
+10.74,Salmon,25,208
+18.29,Chicken Breast,31,165
+17.5,Beef,27,250
+42.96,Almonds,21,579
+26.41,Chicken Breast,31,165
+35.03,Tofu,8,76
+28.94,Almonds,21,579
+35.0,Tofu,8,76
+29.61,Salmon,25,208
+7.08,Whey Protein,80,400
+11.64,Almonds,21,579
+42.3,Salmon,25,208
+15.44,Greek Yogurt,10,59
+49.81,Peanut Butter,25,588
+11.76,Chicken Breast,31,165
+19.36,Tofu,8,76
+12.38,Tofu,8,76
+13.91,Whey Protein,80,400
+31.66,Greek Yogurt,10,59
+28.66,Tofu,8,76
+19.79,Salmon,25,208
+26.82,Greek Yogurt,10,59
+43.81,Salmon,25,208
+18.88,Chicken Breast,31,165
+15.85,Lentils,9,116
+19.62,Tofu,8,76
+49.12,Salmon,25,208
+9.07,Eggs,13,155
+17.21,Almonds,21,579
+48.51,Lentils,9,116
+20.21,Whey Protein,80,400
+27.74,Chicken Breast,31,165
+32.02,Beef,27,250
+38.25,Whey Protein,80,400
+49.61,Beef,27,250
+21.59,Whey Protein,80,400
+29.41,Almonds,21,579
+39.91,Tofu,8,76
+27.86,Tofu,8,76
+8.54,Chicken Breast,31,165
+18.3,Lentils,9,116
+7.04,Salmon,25,208
+32.37,Greek Yogurt,10,59
+9.86,Chicken Breast,31,165
+5.49,Whey Protein,80,400
+39.0,Whey Protein,80,400
+32.54,Greek Yogurt,10,59
+41.74,Peanut Butter,25,588
+41.93,Chicken Breast,31,165
+36.19,Chicken Breast,31,165
+13.56,Almonds,21,579
+33.68,Eggs,13,155
+18.02,Whey Protein,80,400
+29.49,Greek Yogurt,10,59
+49.67,Tofu,8,76
+33.82,Beef,27,250
+39.98,Eggs,13,155
+42.97,Eggs,13,155
+37.23,Beef,27,250
+30.05,Chicken Breast,31,165
+14.71,Eggs,13,155
+11.3,Greek Yogurt,10,59
+13.63,Beef,27,250
+38.74,Tofu,8,76
+16.92,Greek Yogurt,10,59
+7.81,Lentils,9,116
+32.91,Eggs,13,155
+23.31,Beef,27,250
+29.45,Almonds,21,579
+30.55,Chicken Breast,31,165
+40.38,Eggs,13,155
+44.57,Tofu,8,76
+45.95,Salmon,25,208
+33.53,Almonds,21,579
+20.52,Whey Protein,80,400
+10.72,Beef,27,250
+9.74,Beef,27,250
+11.35,Lentils,9,116
+34.99,Peanut Butter,25,588
+10.63,Lentils,9,116
+11.4,Salmon,25,208
+27.51,Tofu,8,76
+33.1,Beef,27,250
+13.96,Greek Yogurt,10,59
+33.72,Greek Yogurt,10,59
+27.66,Beef,27,250
+44.49,Peanut Butter,25,588
+27.18,Peanut Butter,25,588
+48.03,Peanut Butter,25,588
+41.03,Salmon,25,208
+19.57,Tofu,8,76
+32.8,Whey Protein,80,400
+36.12,Lentils,9,116
+15.48,Greek Yogurt,10,59
+14.9,Chicken Breast,31,165
+6.6,Almonds,21,579
+41.78,Chicken Breast,31,165
+44.06,Eggs,13,155
+41.45,Chicken Breast,31,165
+46.52,Whey Protein,80,400
+43.12,Salmon,25,208
+34.08,Chicken Breast,31,165
+20.91,Salmon,25,208
+22.83,Almonds,21,579
+45.23,Chicken Breast,31,165
+22.49,Beef,27,250
+21.19,Beef,27,250
+46.8,Greek Yogurt,10,59
+11.31,Salmon,25,208
+19.18,Lentils,9,116
+18.32,Eggs,13,155
+11.97,Beef,27,250
+32.03,Chicken Breast,31,165
+19.51,Lentils,9,116
+10.63,Tofu,8,76
+37.5,Almonds,21,579
+39.82,Salmon,25,208
+10.31,Salmon,25,208
+46.63,Salmon,25,208
+11.67,Chicken Breast,31,165
+15.07,Salmon,25,208
+23.02,Almonds,21,579
+43.05,Almonds,21,579
+31.89,Lentils,9,116
+47.78,Chicken Breast,31,165
+47.28,Chicken Breast,31,165
+37.04,Whey Protein,80,400
+43.8,Lentils,9,116
+38.8,Almonds,21,579
+45.07,Beef,27,250
+16.37,Tofu,8,76
+28.41,Eggs,13,155
+32.73,Beef,27,250
+7.4,Greek Yogurt,10,59
+30.3,Beef,27,250
+22.84,Lentils,9,116
+44.9,Tofu,8,76
+33.55,Peanut Butter,25,588
+12.71,Beef,27,250
+8.41,Lentils,9,116
+16.14,Salmon,25,208
+11.53,Chicken Breast,31,165
+31.63,Eggs,13,155
+21.8,Salmon,25,208
+10.38,Peanut Butter,25,588
+20.32,Lentils,9,116
+28.22,Peanut Butter,25,588
+7.64,Greek Yogurt,10,59
+17.06,Chicken Breast,31,165
+16.71,Chicken Breast,31,165
+30.4,Chicken Breast,31,165
+25.73,Almonds,21,579
+46.07,Lentils,9,116
+12.05,Lentils,9,116
+30.43,Eggs,13,155
+9.37,Tofu,8,76
+35.23,Tofu,8,76
+33.82,Chicken Breast,31,165
+16.47,Salmon,25,208
+44.54,Chicken Breast,31,165
+13.95,Salmon,25,208
+33.54,Almonds,21,579
+32.13,Almonds,21,579
+20.36,Whey Protein,80,400
+17.21,Lentils,9,116
+8.01,Tofu,8,76
+28.28,Peanut Butter,25,588
+14.12,Eggs,13,155
+48.6,Beef,27,250
+22.58,Greek Yogurt,10,59
+18.46,Eggs,13,155
+42.06,Chicken Breast,31,165
+42.57,Salmon,25,208
+18.3,Eggs,13,155
+5.06,Whey Protein,80,400
+45.87,Chicken Breast,31,165
+35.06,Salmon,25,208
+8.15,Beef,27,250
+19.24,Whey Protein,80,400
+21.58,Eggs,13,155
+45.72,Lentils,9,116
+14.37,Peanut Butter,25,588
+40.64,Tofu,8,76
+35.46,Beef,27,250
+6.9,Almonds,21,579
+46.93,Peanut Butter,25,588
+9.83,Salmon,25,208
+43.06,Salmon,25,208
+35.91,Beef,27,250
+45.43,Beef,27,250
+32.58,Beef,27,250
+34.11,Almonds,21,579
+45.64,Eggs,13,155
+17.39,Chicken Breast,31,165
+41.27,Lentils,9,116
+15.67,Peanut Butter,25,588
+8.97,Eggs,13,155
+34.84,Eggs,13,155
+21.74,Greek Yogurt,10,59
+39.17,Tofu,8,76
+23.72,Salmon,25,208
+17.8,Greek Yogurt,10,59
+8.75,Lentils,9,116
+41.99,Almonds,21,579
+11.78,Chicken Breast,31,165
+34.52,Tofu,8,76
+22.21,Salmon,25,208
+10.13,Tofu,8,76
+44.71,Greek Yogurt,10,59
+29.62,Almonds,21,579
+40.68,Peanut Butter,25,588
+41.9,Lentils,9,116
+19.5,Tofu,8,76
+45.48,Whey Protein,80,400
+27.13,Eggs,13,155
+13.51,Almonds,21,579
+32.97,Whey Protein,80,400
+27.66,Lentils,9,116
+16.13,Eggs,13,155
+45.55,Eggs,13,155
+29.15,Tofu,8,76
+29.2,Peanut Butter,25,588
+39.31,Beef,27,250
+34.26,Beef,27,250
+17.91,Eggs,13,155
+43.34,Eggs,13,155
+41.31,Lentils,9,116
+43.66,Greek Yogurt,10,59
+23.38,Almonds,21,579
+15.86,Peanut Butter,25,588
+41.09,Eggs,13,155
+19.9,Salmon,25,208
+34.67,Chicken Breast,31,165
+45.0,Almonds,21,579
+8.96,Salmon,25,208
+36.96,Lentils,9,116
+6.52,Almonds,21,579
+23.38,Whey Protein,80,400
+16.34,Salmon,25,208
+16.92,Eggs,13,155
+16.17,Whey Protein,80,400
+24.69,Peanut Butter,25,588
+12.72,Greek Yogurt,10,59
+23.78,Tofu,8,76
+22.39,Almonds,21,579
+45.53,Salmon,25,208
+35.42,Whey Protein,80,400
+25.49,Beef,27,250
+44.81,Greek Yogurt,10,59
+44.35,Salmon,25,208
+24.12,Peanut Butter,25,588
+21.64,Lentils,9,116
+24.29,Beef,27,250
+27.28,Almonds,21,579
+48.04,Tofu,8,76
+15.0,Tofu,8,76
+21.48,Tofu,8,76
+14.02,Tofu,8,76
+20.1,Lentils,9,116
+25.3,Peanut Butter,25,588
+26.29,Chicken Breast,31,165
+27.9,Peanut Butter,25,588
+11.04,Beef,27,250
+27.58,Peanut Butter,25,588
+16.73,Lentils,9,116
+47.66,Tofu,8,76
+26.36,Almonds,21,579
+46.98,Chicken Breast,31,165
+21.37,Greek Yogurt,10,59
+30.5,Almonds,21,579
+11.67,Eggs,13,155
+40.8,Lentils,9,116
+36.18,Peanut Butter,25,588
+7.69,Chicken Breast,31,165
+47.38,Eggs,13,155
+27.05,Tofu,8,76
+38.46,Beef,27,250
+25.68,Chicken Breast,31,165
+37.21,Greek Yogurt,10,59
+35.73,Beef,27,250
+25.31,Salmon,25,208
+14.54,Eggs,13,155
+46.76,Greek Yogurt,10,59
+9.44,Peanut Butter,25,588
+11.49,Beef,27,250
+16.84,Whey Protein,80,400
+26.34,Chicken Breast,31,165
+27.93,Beef,27,250
+42.83,Almonds,21,579
+12.09,Almonds,21,579
+49.77,Greek Yogurt,10,59
+41.45,Whey Protein,80,400
+17.62,Lentils,9,116
+24.33,Eggs,13,155
+31.05,Eggs,13,155
+15.89,Beef,27,250
+21.43,Peanut Butter,25,588
+15.56,Lentils,9,116
+17.49,Peanut Butter,25,588
+37.57,Chicken Breast,31,165
+17.57,Almonds,21,579
+24.73,Salmon,25,208
+43.02,Chicken Breast,31,165
+14.51,Whey Protein,80,400
+39.54,Beef,27,250
+22.11,Salmon,25,208
+33.95,Greek Yogurt,10,59
+42.08,Lentils,9,116
+37.9,Chicken Breast,31,165
+9.32,Chicken Breast,31,165
+17.15,Salmon,25,208
+49.41,Salmon,25,208
+38.72,Lentils,9,116
+48.69,Eggs,13,155
+26.87,Chicken Breast,31,165
+33.27,Peanut Butter,25,588
+27.92,Almonds,21,579
+37.84,Beef,27,250
+46.07,Salmon,25,208
+12.59,Chicken Breast,31,165
+39.7,Greek Yogurt,10,59
+39.45,Lentils,9,116
+40.12,Whey Protein,80,400
+9.99,Beef,27,250
+15.9,Whey Protein,80,400
+34.78,Tofu,8,76
+6.58,Greek Yogurt,10,59
+21.49,Greek Yogurt,10,59
+21.48,Lentils,9,116
+23.12,Chicken Breast,31,165
+10.82,Tofu,8,76
+39.99,Peanut Butter,25,588
+36.52,Eggs,13,155
+37.09,Almonds,21,579
+49.16,Salmon,25,208
+39.21,Salmon,25,208
+49.75,Whey Protein,80,400
+23.82,Greek Yogurt,10,59
+20.06,Peanut Butter,25,588
+28.51,Tofu,8,76
+49.07,Almonds,21,579
+30.0,Peanut Butter,25,588
+12.04,Chicken Breast,31,165
+29.17,Eggs,13,155
+24.84,Almonds,21,579
+29.86,Lentils,9,116
+30.88,Tofu,8,76
+26.83,Chicken Breast,31,165
+33.9,Lentils,9,116
+27.49,Chicken Breast,31,165
+21.5,Eggs,13,155
+46.09,Almonds,21,579
+16.86,Tofu,8,76
+35.5,Tofu,8,76
+47.06,Salmon,25,208
+14.82,Salmon,25,208
+17.56,Greek Yogurt,10,59
+32.06,Almonds,21,579
+6.82,Tofu,8,76
+28.34,Tofu,8,76
+7.68,Greek Yogurt,10,59
+9.23,Whey Protein,80,400
+27.24,Tofu,8,76
+41.79,Eggs,13,155
+37.75,Greek Yogurt,10,59
+43.83,Tofu,8,76
+9.16,Salmon,25,208
+33.45,Chicken Breast,31,165
+18.26,Peanut Butter,25,588
+18.92,Beef,27,250
+45.29,Greek Yogurt,10,59
+5.18,Salmon,25,208
+27.23,Tofu,8,76
+32.54,Lentils,9,116
+5.77,Peanut Butter,25,588
+39.18,Chicken Breast,31,165
+27.69,Salmon,25,208
+20.28,Lentils,9,116
+39.92,Salmon,25,208
+21.0,Whey Protein,80,400
+12.68,Chicken Breast,31,165
+18.75,Greek Yogurt,10,59
+11.86,Greek Yogurt,10,59
+33.03,Salmon,25,208
+19.87,Eggs,13,155
+10.87,Eggs,13,155
+16.86,Beef,27,250
+14.0,Whey Protein,80,400
+37.28,Salmon,25,208
+20.86,Whey Protein,80,400
+30.55,Lentils,9,116
+35.11,Eggs,13,155
+12.99,Almonds,21,579
+10.97,Beef,27,250
+15.12,Greek Yogurt,10,59
+9.17,Whey Protein,80,400
+23.23,Chicken Breast,31,165
+31.52,Lentils,9,116
+32.21,Tofu,8,76
+21.52,Chicken Breast,31,165
+16.09,Chicken Breast,31,165
+14.41,Tofu,8,76
+43.39,Whey Protein,80,400
+32.4,Peanut Butter,25,588
+20.67,Almonds,21,579
+12.55,Tofu,8,76
+48.38,Salmon,25,208
+28.79,Eggs,13,155
+18.13,Peanut Butter,25,588
+18.8,Tofu,8,76
+46.7,Greek Yogurt,10,59
+48.48,Tofu,8,76
+9.64,Eggs,13,155
+12.93,Eggs,13,155
+25.03,Beef,27,250
+48.55,Greek Yogurt,10,59
+5.28,Whey Protein,80,400
+47.42,Tofu,8,76
+17.51,Beef,27,250
+31.07,Beef,27,250
+24.16,Beef,27,250
+32.92,Tofu,8,76
+25.35,Eggs,13,155
+24.53,Tofu,8,76
+35.86,Lentils,9,116
+11.47,Lentils,9,116
+43.36,Whey Protein,80,400
+25.61,Lentils,9,116
+41.76,Salmon,25,208
+25.85,Salmon,25,208
+12.38,Lentils,9,116
+10.44,Salmon,25,208
+25.17,Lentils,9,116
+44.17,Whey Protein,80,400
+12.71,Eggs,13,155
+15.18,Chicken Breast,31,165
+42.39,Peanut Butter,25,588
+14.39,Lentils,9,116
+32.15,Peanut Butter,25,588
+19.36,Greek Yogurt,10,59
+9.56,Beef,27,250
+48.16,Whey Protein,80,400
+47.39,Beef,27,250
+10.95,Greek Yogurt,10,59
+11.12,Eggs,13,155
+35.51,Chicken Breast,31,165
+9.11,Peanut Butter,25,588
+20.84,Tofu,8,76
+15.78,Almonds,21,579
+44.69,Almonds,21,579
+41.6,Eggs,13,155
+16.79,Salmon,25,208
+44.16,Eggs,13,155
+44.21,Salmon,25,208
+15.18,Whey Protein,80,400
+49.76,Tofu,8,76
+41.73,Eggs,13,155
+25.47,Salmon,25,208
+11.7,Beef,27,250
+33.34,Greek Yogurt,10,59
+46.46,Beef,27,250
+37.29,Greek Yogurt,10,59
+46.56,Chicken Breast,31,165
+49.4,Whey Protein,80,400
+42.05,Eggs,13,155
+48.47,Beef,27,250
+47.68,Greek Yogurt,10,59
+49.45,Whey Protein,80,400
+19.06,Almonds,21,579
+18.65,Whey Protein,80,400
+49.02,Beef,27,250
+29.96,Peanut Butter,25,588
+33.56,Almonds,21,579
+35.61,Beef,27,250
+48.24,Tofu,8,76
+33.79,Chicken Breast,31,165
+34.2,Whey Protein,80,400
+47.04,Almonds,21,579
+6.99,Salmon,25,208
+19.2,Greek Yogurt,10,59
+12.54,Eggs,13,155
+40.9,Lentils,9,116
+5.99,Lentils,9,116
+46.03,Lentils,9,116
+38.71,Eggs,13,155
+14.12,Eggs,13,155
+7.22,Tofu,8,76
+20.81,Beef,27,250
+48.21,Tofu,8,76
+30.5,Tofu,8,76
+8.07,Beef,27,250
+6.0,Peanut Butter,25,588
+21.54,Chicken Breast,31,165
+18.39,Tofu,8,76
+31.04,Whey Protein,80,400
+23.19,Almonds,21,579
+10.01,Lentils,9,116
+33.55,Peanut Butter,25,588
+48.36,Greek Yogurt,10,59
+32.78,Peanut Butter,25,588
+32.63,Tofu,8,76
+42.16,Peanut Butter,25,588
+16.28,Salmon,25,208
+35.46,Salmon,25,208
+28.42,Whey Protein,80,400
+39.12,Chicken Breast,31,165
+49.24,Lentils,9,116
+17.48,Lentils,9,116
+15.28,Eggs,13,155
+49.51,Greek Yogurt,10,59
+13.77,Chicken Breast,31,165
+41.81,Tofu,8,76
+27.06,Beef,27,250
+34.12,Salmon,25,208
+43.21,Salmon,25,208
+26.07,Salmon,25,208
+35.13,Chicken Breast,31,165
+20.42,Greek Yogurt,10,59
+28.22,Greek Yogurt,10,59
+18.71,Beef,27,250
+40.84,Beef,27,250
+20.67,Eggs,13,155
+37.79,Chicken Breast,31,165
+43.02,Eggs,13,155
+41.04,Salmon,25,208
+27.18,Tofu,8,76
+41.19,Eggs,13,155
+24.35,Eggs,13,155
+22.03,Lentils,9,116
+7.0,Chicken Breast,31,165
+34.75,Whey Protein,80,400
+9.95,Peanut Butter,25,588
+27.72,Whey Protein,80,400
+19.95,Tofu,8,76
+36.94,Eggs,13,155
+6.66,Peanut Butter,25,588
+7.6,Whey Protein,80,400
+36.48,Peanut Butter,25,588
+49.16,Greek Yogurt,10,59
+18.67,Salmon,25,208
+5.4,Salmon,25,208
+46.53,Almonds,21,579
+19.2,Lentils,9,116
+39.11,Almonds,21,579
+49.34,Beef,27,250
+7.71,Tofu,8,76
+13.02,Tofu,8,76
+39.08,Salmon,25,208
+10.33,Greek Yogurt,10,59
+5.79,Peanut Butter,25,588
+45.77,Almonds,21,579
+49.87,Beef,27,250
+9.22,Chicken Breast,31,165
+24.65,Salmon,25,208
+46.34,Greek Yogurt,10,59
+31.72,Eggs,13,155
+31.65,Salmon,25,208
+19.48,Almonds,21,579
+42.35,Beef,27,250
+18.75,Salmon,25,208
+9.72,Chicken Breast,31,165
+18.7,Lentils,9,116
+24.56,Peanut Butter,25,588
+23.6,Greek Yogurt,10,59
+41.4,Lentils,9,116
+18.95,Eggs,13,155
+12.21,Lentils,9,116
+44.94,Peanut Butter,25,588
+23.74,Peanut Butter,25,588
+43.77,Tofu,8,76
+36.9,Tofu,8,76
+7.32,Eggs,13,155
+15.3,Chicken Breast,31,165
+29.69,Peanut Butter,25,588
+47.25,Eggs,13,155
+18.31,Lentils,9,116
+26.19,Eggs,13,155
+19.84,Chicken Breast,31,165
+37.05,Tofu,8,76
+49.05,Eggs,13,155
+34.84,Greek Yogurt,10,59
+24.38,Peanut Butter,25,588
+47.6,Whey Protein,80,400
+21.39,Salmon,25,208
+18.23,Tofu,8,76
+41.23,Whey Protein,80,400
+48.4,Peanut Butter,25,588
+22.29,Almonds,21,579
+44.87,Lentils,9,116
+14.21,Greek Yogurt,10,59
+31.38,Almonds,21,579
+30.88,Eggs,13,155
+5.08,Peanut Butter,25,588
+25.08,Salmon,25,208
+20.11,Peanut Butter,25,588
+36.85,Chicken Breast,31,165
+26.8,Greek Yogurt,10,59
+34.34,Lentils,9,116
+16.01,Greek Yogurt,10,59
+29.88,Greek Yogurt,10,59
+38.45,Tofu,8,76
+26.17,Tofu,8,76
+9.12,Peanut Butter,25,588
+42.39,Eggs,13,155
+16.55,Peanut Butter,25,588
+14.88,Peanut Butter,25,588
+45.82,Tofu,8,76
+42.95,Whey Protein,80,400
+22.59,Chicken Breast,31,165
+18.12,Salmon,25,208
+36.41,Almonds,21,579
+23.07,Beef,27,250
+41.27,Almonds,21,579
+22.78,Salmon,25,208
+48.35,Eggs,13,155
+22.02,Tofu,8,76
+7.96,Beef,27,250
+41.77,Almonds,21,579
+27.37,Beef,27,250
+18.35,Salmon,25,208
+39.06,Chicken Breast,31,165
+9.78,Salmon,25,208
+48.83,Beef,27,250
+12.65,Lentils,9,116
+11.59,Lentils,9,116
+25.06,Salmon,25,208
+15.18,Chicken Breast,31,165
+13.4,Beef,27,250
+26.63,Lentils,9,116
+9.0,Beef,27,250
+48.04,Salmon,25,208
+44.97,Whey Protein,80,400
+23.09,Lentils,9,116
+9.29,Lentils,9,116
+43.0,Salmon,25,208
+27.54,Salmon,25,208
+13.72,Lentils,9,116
+27.02,Chicken Breast,31,165
+11.6,Chicken Breast,31,165
+45.0,Salmon,25,208
+32.98,Lentils,9,116
+42.39,Greek Yogurt,10,59
+21.25,Almonds,21,579
+23.06,Tofu,8,76
+21.77,Lentils,9,116
+42.5,Tofu,8,76
+25.77,Whey Protein,80,400
+40.72,Salmon,25,208
+17.57,Almonds,21,579
+20.51,Chicken Breast,31,165
+16.38,Salmon,25,208
+46.47,Greek Yogurt,10,59
+11.1,Chicken Breast,31,165
+10.46,Whey Protein,80,400
+17.5,Eggs,13,155
+20.18,Salmon,25,208
+26.41,Peanut Butter,25,588
+9.85,Salmon,25,208
+25.1,Beef,27,250
+42.86,Chicken Breast,31,165
+40.08,Salmon,25,208
+49.9,Whey Protein,80,400
+21.97,Greek Yogurt,10,59
+14.54,Beef,27,250
+40.21,Almonds,21,579
+5.78,Tofu,8,76
+31.58,Eggs,13,155
+38.1,Whey Protein,80,400
+24.69,Lentils,9,116
+11.12,Greek Yogurt,10,59
+36.39,Beef,27,250
+38.11,Chicken Breast,31,165
+18.37,Lentils,9,116
+16.27,Greek Yogurt,10,59
+35.56,Chicken Breast,31,165
+18.9,Salmon,25,208
+13.83,Chicken Breast,31,165
+13.8,Almonds,21,579
+46.6,Tofu,8,76
+11.44,Beef,27,250
+42.66,Salmon,25,208
+6.56,Greek Yogurt,10,59
+49.68,Peanut Butter,25,588
+22.89,Whey Protein,80,400
+29.02,Salmon,25,208
+14.94,Lentils,9,116
+10.32,Whey Protein,80,400
+42.52,Whey Protein,80,400
+6.37,Eggs,13,155
+14.54,Chicken Breast,31,165
+39.14,Greek Yogurt,10,59
+11.86,Tofu,8,76
+42.42,Whey Protein,80,400
+31.48,Almonds,21,579
+21.9,Lentils,9,116
+40.34,Beef,27,250
+22.27,Greek Yogurt,10,59
+37.31,Almonds,21,579
+22.33,Almonds,21,579
+41.67,Peanut Butter,25,588
+12.69,Lentils,9,116
+23.37,Chicken Breast,31,165
+6.85,Eggs,13,155
+44.88,Whey Protein,80,400
+29.05,Greek Yogurt,10,59
+35.12,Tofu,8,76
+41.43,Greek Yogurt,10,59
+46.05,Peanut Butter,25,588
+41.96,Eggs,13,155
+20.55,Lentils,9,116
+49.74,Eggs,13,155
+35.12,Eggs,13,155
+7.29,Lentils,9,116
+29.46,Chicken Breast,31,165
+10.75,Chicken Breast,31,165
+40.33,Greek Yogurt,10,59
+26.71,Eggs,13,155
+46.39,Lentils,9,116
+38.86,Eggs,13,155
+49.13,Peanut Butter,25,588
+16.42,Salmon,25,208
+36.67,Lentils,9,116
+41.13,Whey Protein,80,400
+23.95,Chicken Breast,31,165
+40.01,Salmon,25,208
+23.12,Chicken Breast,31,165
+15.89,Beef,27,250
+29.58,Chicken Breast,31,165
+30.5,Eggs,13,155
+14.42,Eggs,13,155
+18.99,Eggs,13,155
+16.11,Beef,27,250
+25.77,Greek Yogurt,10,59
+13.99,Lentils,9,116
+16.48,Eggs,13,155
+32.04,Tofu,8,76
+16.3,Lentils,9,116
+44.89,Salmon,25,208
+23.79,Peanut Butter,25,588
+23.51,Lentils,9,116
+15.47,Greek Yogurt,10,59
+13.97,Almonds,21,579
+13.2,Chicken Breast,31,165
+13.89,Greek Yogurt,10,59
+14.02,Chicken Breast,31,165
+31.45,Greek Yogurt,10,59
+28.93,Beef,27,250
+49.99,Beef,27,250
+32.13,Salmon,25,208
+39.63,Eggs,13,155
+48.38,Greek Yogurt,10,59
+10.04,Lentils,9,116
+37.72,Eggs,13,155
+9.95,Peanut Butter,25,588
+15.14,Almonds,21,579
+30.95,Almonds,21,579
+24.82,Eggs,13,155
+26.1,Salmon,25,208
+49.29,Almonds,21,579
+13.65,Eggs,13,155
+29.38,Beef,27,250
+12.08,Greek Yogurt,10,59
+40.44,Greek Yogurt,10,59
+6.35,Peanut Butter,25,588
+17.2,Lentils,9,116
+43.83,Eggs,13,155
+21.0,Peanut Butter,25,588
+23.46,Peanut Butter,25,588
+22.74,Greek Yogurt,10,59
+33.48,Tofu,8,76
+34.22,Beef,27,250
+24.53,Almonds,21,579
+13.25,Chicken Breast,31,165
+8.28,Peanut Butter,25,588
+40.93,Greek Yogurt,10,59
+11.46,Eggs,13,155
+29.2,Chicken Breast,31,165
+32.57,Chicken Breast,31,165
+24.89,Greek Yogurt,10,59
+37.75,Lentils,9,116
+14.47,Chicken Breast,31,165
+47.84,Chicken Breast,31,165
+35.8,Whey Protein,80,400
+39.89,Lentils,9,116
+46.38,Beef,27,250
+43.82,Chicken Breast,31,165
+48.54,Tofu,8,76
+5.69,Tofu,8,76
+6.29,Greek Yogurt,10,59
+6.25,Almonds,21,579
+16.85,Peanut Butter,25,588
+47.93,Lentils,9,116
+41.11,Whey Protein,80,400
+18.7,Salmon,25,208
+37.77,Lentils,9,116
+22.45,Lentils,9,116
+21.81,Salmon,25,208
+47.39,Chicken Breast,31,165
+14.91,Tofu,8,76
+25.74,Eggs,13,155
+12.45,Beef,27,250
+13.89,Salmon,25,208
+19.54,Salmon,25,208
+49.59,Tofu,8,76
+10.11,Almonds,21,579
+43.31,Beef,27,250
+6.97,Lentils,9,116
+39.76,Beef,27,250
+49.69,Tofu,8,76
+8.32,Chicken Breast,31,165
+6.58,Chicken Breast,31,165
+8.18,Greek Yogurt,10,59
+39.9,Lentils,9,116
+35.09,Peanut Butter,25,588
+27.49,Almonds,21,579
+7.11,Whey Protein,80,400
+21.31,Greek Yogurt,10,59
+30.42,Tofu,8,76
+39.4,Beef,27,250
+12.72,Peanut Butter,25,588
+32.63,Almonds,21,579
+29.25,Almonds,21,579
+37.86,Almonds,21,579
+27.98,Whey Protein,80,400
+29.69,Salmon,25,208
+37.43,Lentils,9,116
+39.48,Chicken Breast,31,165
+12.79,Greek Yogurt,10,59
+20.46,Peanut Butter,25,588
+28.07,Greek Yogurt,10,59
+7.61,Greek Yogurt,10,59
+49.77,Chicken Breast,31,165
+40.19,Lentils,9,116
+46.13,Beef,27,250
+36.15,Greek Yogurt,10,59
+41.06,Greek Yogurt,10,59
+22.23,Lentils,9,116
+5.85,Almonds,21,579
+23.5,Almonds,21,579
+15.38,Almonds,21,579
+17.58,Eggs,13,155
+11.37,Eggs,13,155
+10.73,Almonds,21,579
+6.18,Peanut Butter,25,588
+29.73,Whey Protein,80,400
+28.27,Eggs,13,155
+42.95,Salmon,25,208
+26.87,Chicken Breast,31,165
+40.32,Salmon,25,208
+32.52,Eggs,13,155
+40.48,Salmon,25,208
+25.2,Beef,27,250
+48.63,Greek Yogurt,10,59
+45.34,Lentils,9,116
+29.17,Chicken Breast,31,165
+32.94,Peanut Butter,25,588
+37.4,Tofu,8,76
+46.26,Chicken Breast,31,165
+23.34,Salmon,25,208
+41.19,Almonds,21,579
+17.35,Eggs,13,155
+27.01,Tofu,8,76
+44.25,Tofu,8,76
+35.31,Beef,27,250
+11.62,Almonds,21,579
+23.2,Peanut Butter,25,588
+25.8,Almonds,21,579
+47.86,Salmon,25,208
+47.78,Chicken Breast,31,165
+42.8,Peanut Butter,25,588
+29.87,Salmon,25,208
+7.26,Tofu,8,76
+20.18,Whey Protein,80,400
+6.59,Lentils,9,116
+22.89,Lentils,9,116
+5.3,Salmon,25,208
+24.94,Chicken Breast,31,165
+14.13,Whey Protein,80,400
+37.19,Eggs,13,155
+28.3,Peanut Butter,25,588
+38.74,Whey Protein,80,400
+38.1,Greek Yogurt,10,59
+6.45,Eggs,13,155
+42.47,Peanut Butter,25,588
+48.52,Almonds,21,579
+32.57,Lentils,9,116
+33.99,Chicken Breast,31,165
+18.4,Eggs,13,155
+38.82,Lentils,9,116
+42.02,Salmon,25,208
+25.93,Salmon,25,208
+17.77,Peanut Butter,25,588
+47.33,Salmon,25,208
+20.05,Chicken Breast,31,165
+37.95,Lentils,9,116
+11.18,Lentils,9,116
+41.57,Whey Protein,80,400
+48.71,Greek Yogurt,10,59
+26.81,Eggs,13,155
+46.46,Beef,27,250
+26.15,Greek Yogurt,10,59
+48.15,Chicken Breast,31,165
+33.04,Lentils,9,116
+19.03,Peanut Butter,25,588
+11.48,Tofu,8,76
+21.75,Almonds,21,579
+47.81,Whey Protein,80,400
+40.68,Greek Yogurt,10,59
+29.81,Peanut Butter,25,588
+45.27,Whey Protein,80,400
+27.77,Almonds,21,579
+5.33,Almonds,21,579
+8.82,Salmon,25,208
+24.81,Whey Protein,80,400
+13.44,Eggs,13,155
+26.16,Almonds,21,579
+28.91,Whey Protein,80,400
+17.93,Eggs,13,155
+22.2,Greek Yogurt,10,59
+43.61,Tofu,8,76
+12.47,Peanut Butter,25,588
+33.36,Lentils,9,116
+24.27,Salmon,25,208
+6.41,Lentils,9,116
+12.96,Peanut Butter,25,588
+13.25,Tofu,8,76
+18.0,Eggs,13,155
+36.62,Chicken Breast,31,165
+7.7,Whey Protein,80,400
+11.97,Eggs,13,155
+5.25,Salmon,25,208
+6.23,Eggs,13,155
+32.87,Beef,27,250
+14.55,Almonds,21,579
+29.84,Tofu,8,76
+41.23,Greek Yogurt,10,59
+39.91,Whey Protein,80,400
+7.12,Greek Yogurt,10,59
+20.75,Salmon,25,208
+49.15,Tofu,8,76
+14.91,Greek Yogurt,10,59
+13.72,Eggs,13,155
+46.36,Almonds,21,579
+44.11,Greek Yogurt,10,59
+11.12,Tofu,8,76
+46.2,Peanut Butter,25,588
+29.93,Salmon,25,208
+13.51,Eggs,13,155
+49.57,Salmon,25,208
+42.82,Greek Yogurt,10,59
+39.65,Almonds,21,579
+23.34,Whey Protein,80,400
+37.19,Salmon,25,208
+26.38,Peanut Butter,25,588
+6.11,Lentils,9,116
+31.83,Almonds,21,579
+22.29,Almonds,21,579
+42.29,Eggs,13,155
+10.86,Greek Yogurt,10,59
+25.59,Eggs,13,155
+32.74,Chicken Breast,31,165
+35.69,Whey Protein,80,400
+42.33,Greek Yogurt,10,59
+40.14,Tofu,8,76
+8.24,Salmon,25,208
+26.51,Salmon,25,208
+45.78,Tofu,8,76
+16.06,Almonds,21,579
+26.57,Lentils,9,116
+21.4,Almonds,21,579
+18.08,Lentils,9,116
+36.1,Greek Yogurt,10,59
+21.08,Eggs,13,155
+35.89,Whey Protein,80,400
+9.33,Eggs,13,155
+37.59,Salmon,25,208
+28.6,Almonds,21,579
+30.16,Eggs,13,155
+49.81,Tofu,8,76
+43.42,Greek Yogurt,10,59
+46.18,Whey Protein,80,400
+5.05,Almonds,21,579
+35.92,Eggs,13,155
+7.51,Tofu,8,76
+47.73,Whey Protein,80,400
+23.25,Salmon,25,208
+14.78,Almonds,21,579
+19.24,Whey Protein,80,400
+41.21,Beef,27,250
+21.55,Beef,27,250
+24.31,Eggs,13,155
+26.12,Chicken Breast,31,165
+25.32,Whey Protein,80,400
+18.33,Whey Protein,80,400
+41.25,Peanut Butter,25,588
+49.55,Greek Yogurt,10,59
+18.79,Almonds,21,579
+41.34,Salmon,25,208
+48.14,Lentils,9,116
+19.37,Tofu,8,76
+10.33,Eggs,13,155
+44.46,Almonds,21,579
+29.69,Lentils,9,116
+16.75,Eggs,13,155
+25.15,Greek Yogurt,10,59
+8.03,Chicken Breast,31,165
+17.27,Salmon,25,208
+25.49,Salmon,25,208
+44.63,Whey Protein,80,400
+5.33,Chicken Breast,31,165
+35.03,Peanut Butter,25,588
+13.04,Whey Protein,80,400
+42.27,Beef,27,250
+30.04,Chicken Breast,31,165
+22.02,Peanut Butter,25,588
+22.23,Whey Protein,80,400
+20.79,Peanut Butter,25,588
+39.27,Whey Protein,80,400
+16.3,Salmon,25,208
+22.37,Tofu,8,76
+35.05,Beef,27,250
+48.96,Almonds,21,579
+14.57,Beef,27,250
+19.21,Beef,27,250
+8.12,Whey Protein,80,400
+14.35,Almonds,21,579
+34.77,Almonds,21,579
+29.92,Peanut Butter,25,588
+7.91,Tofu,8,76
+20.75,Whey Protein,80,400
+36.39,Peanut Butter,25,588
+46.41,Whey Protein,80,400
+16.43,Eggs,13,155
+10.08,Eggs,13,155
+22.29,Chicken Breast,31,165
+38.03,Beef,27,250
+35.93,Tofu,8,76
+28.87,Almonds,21,579
+8.39,Greek Yogurt,10,59
+37.71,Chicken Breast,31,165
+48.58,Beef,27,250
+44.14,Greek Yogurt,10,59
+39.59,Eggs,13,155
+25.15,Tofu,8,76
+18.34,Salmon,25,208
+34.45,Whey Protein,80,400
+27.25,Greek Yogurt,10,59
+16.14,Almonds,21,579
+28.77,Salmon,25,208
+21.61,Greek Yogurt,10,59
+39.66,Tofu,8,76
+14.53,Peanut Butter,25,588
+12.07,Salmon,25,208
+40.09,Lentils,9,116
+29.41,Eggs,13,155
+43.88,Eggs,13,155
+49.63,Almonds,21,579
+46.94,Chicken Breast,31,165
+46.11,Tofu,8,76
+6.19,Beef,27,250
+11.02,Salmon,25,208
+45.21,Almonds,21,579
+34.13,Greek Yogurt,10,59
+10.76,Peanut Butter,25,588
+43.35,Almonds,21,579
+32.56,Lentils,9,116
+33.72,Beef,27,250
+22.09,Whey Protein,80,400
+43.57,Whey Protein,80,400
+28.41,Eggs,13,155
+42.08,Lentils,9,116
+27.59,Chicken Breast,31,165
+33.09,Eggs,13,155
+29.02,Lentils,9,116
+29.7,Eggs,13,155
+41.7,Lentils,9,116
+36.66,Eggs,13,155
+49.43,Peanut Butter,25,588
+9.49,Lentils,9,116
+23.91,Almonds,21,579
+24.29,Salmon,25,208
+40.02,Greek Yogurt,10,59
+22.43,Peanut Butter,25,588
+15.2,Chicken Breast,31,165
+22.26,Lentils,9,116
+12.59,Eggs,13,155
+21.17,Beef,27,250
+40.92,Chicken Breast,31,165
+42.48,Beef,27,250
+46.0,Peanut Butter,25,588
+47.33,Salmon,25,208
+29.89,Beef,27,250
+38.2,Almonds,21,579
+44.56,Lentils,9,116
+13.5,Tofu,8,76
+39.57,Greek Yogurt,10,59
+26.78,Lentils,9,116
+11.78,Peanut Butter,25,588
+14.7,Almonds,21,579
+35.45,Greek Yogurt,10,59
+24.34,Tofu,8,76
+19.79,Whey Protein,80,400
+17.83,Tofu,8,76
+44.75,Lentils,9,116
+32.92,Tofu,8,76
+36.74,Eggs,13,155
+38.74,Eggs,13,155
+43.72,Eggs,13,155
+25.45,Greek Yogurt,10,59
+17.66,Greek Yogurt,10,59
+41.74,Almonds,21,579
+20.81,Greek Yogurt,10,59
+39.0,Salmon,25,208
+21.99,Peanut Butter,25,588
+12.12,Beef,27,250
+38.54,Peanut Butter,25,588
+38.36,Eggs,13,155
+42.73,Greek Yogurt,10,59
+28.47,Greek Yogurt,10,59
+36.23,Salmon,25,208
+13.82,Lentils,9,116
+6.6,Peanut Butter,25,588
+43.0,Whey Protein,80,400
+40.2,Chicken Breast,31,165
+20.95,Peanut Butter,25,588
+41.98,Greek Yogurt,10,59
+46.32,Peanut Butter,25,588
+47.5,Eggs,13,155
+23.88,Peanut Butter,25,588
+30.21,Tofu,8,76
+47.5,Whey Protein,80,400
+12.27,Greek Yogurt,10,59
+23.9,Lentils,9,116
+27.52,Almonds,21,579
+38.64,Tofu,8,76
+46.34,Whey Protein,80,400
+42.93,Tofu,8,76
+38.89,Salmon,25,208
+47.31,Beef,27,250
+31.11,Salmon,25,208
+36.72,Beef,27,250
+21.8,Greek Yogurt,10,59
+35.24,Salmon,25,208
+20.36,Lentils,9,116
+39.64,Lentils,9,116
+23.2,Chicken Breast,31,165
+35.62,Eggs,13,155
+39.63,Chicken Breast,31,165
+9.43,Almonds,21,579
+23.7,Salmon,25,208
+44.96,Almonds,21,579
+9.55,Chicken Breast,31,165
+35.41,Peanut Butter,25,588
+8.05,Almonds,21,579
+6.7,Salmon,25,208
+26.37,Greek Yogurt,10,59
+37.77,Beef,27,250
+42.65,Salmon,25,208
+24.88,Eggs,13,155
+11.91,Lentils,9,116
+31.91,Almonds,21,579
+5.22,Beef,27,250
+37.17,Chicken Breast,31,165
+20.05,Beef,27,250
+19.9,Beef,27,250
+29.76,Almonds,21,579
+27.23,Peanut Butter,25,588
+13.22,Chicken Breast,31,165
+15.06,Salmon,25,208
+15.44,Whey Protein,80,400
+16.25,Lentils,9,116
+48.9,Whey Protein,80,400
+5.49,Eggs,13,155
+25.89,Tofu,8,76
+18.04,Peanut Butter,25,588
+11.46,Eggs,13,155
+36.05,Salmon,25,208
+13.28,Almonds,21,579
+38.51,Eggs,13,155
+9.58,Greek Yogurt,10,59
+41.77,Beef,27,250
+16.26,Chicken Breast,31,165
+10.78,Salmon,25,208
+49.12,Greek Yogurt,10,59
+28.99,Chicken Breast,31,165
+17.18,Almonds,21,579
+19.12,Almonds,21,579
+8.18,Chicken Breast,31,165
+17.34,Salmon,25,208
+46.07,Eggs,13,155
+6.7,Greek Yogurt,10,59
+20.48,Tofu,8,76
+18.53,Almonds,21,579
+44.68,Whey Protein,80,400
+44.11,Lentils,9,116
+25.51,Greek Yogurt,10,59
+45.5,Beef,27,250
+29.29,Tofu,8,76
+12.8,Chicken Breast,31,165
+47.74,Tofu,8,76
+44.62,Eggs,13,155
+12.23,Whey Protein,80,400
+20.48,Salmon,25,208
+28.45,Peanut Butter,25,588
+16.06,Tofu,8,76
+19.22,Peanut Butter,25,588
+44.1,Chicken Breast,31,165
+36.15,Peanut Butter,25,588
+12.36,Eggs,13,155
+11.1,Lentils,9,116
+41.83,Beef,27,250
+37.15,Beef,27,250
+32.72,Tofu,8,76
+8.53,Greek Yogurt,10,59
+24.67,Chicken Breast,31,165
+20.79,Greek Yogurt,10,59
+45.81,Chicken Breast,31,165
+11.67,Tofu,8,76
+17.84,Salmon,25,208
+20.23,Almonds,21,579
+48.39,Almonds,21,579
+49.44,Lentils,9,116
+41.39,Eggs,13,155
+44.91,Beef,27,250
+18.19,Beef,27,250
+42.78,Eggs,13,155
+13.2,Eggs,13,155
+35.11,Lentils,9,116
+9.09,Whey Protein,80,400
+15.14,Greek Yogurt,10,59
+45.43,Eggs,13,155
+39.31,Peanut Butter,25,588
+27.72,Salmon,25,208
+20.11,Tofu,8,76
+43.34,Beef,27,250
+11.6,Beef,27,250
+26.93,Salmon,25,208
+26.28,Lentils,9,116
+15.51,Beef,27,250
+25.37,Salmon,25,208
+28.52,Lentils,9,116
+13.65,Lentils,9,116
+35.85,Chicken Breast,31,165
+42.15,Peanut Butter,25,588
+9.93,Chicken Breast,31,165
+10.58,Lentils,9,116
+29.25,Beef,27,250
+8.56,Tofu,8,76
+36.36,Eggs,13,155
+26.27,Salmon,25,208
+21.75,Almonds,21,579
+5.88,Eggs,13,155
+19.12,Peanut Butter,25,588
+42.69,Peanut Butter,25,588
+30.27,Beef,27,250
+15.77,Greek Yogurt,10,59
+29.36,Eggs,13,155
+37.45,Eggs,13,155
+49.04,Eggs,13,155
+29.92,Greek Yogurt,10,59
+49.21,Tofu,8,76
+41.05,Salmon,25,208
+16.55,Chicken Breast,31,165
+45.53,Whey Protein,80,400
+25.64,Chicken Breast,31,165
+39.03,Salmon,25,208
+24.57,Eggs,13,155
+36.16,Beef,27,250
+42.35,Tofu,8,76
+17.64,Beef,27,250
+18.35,Whey Protein,80,400
+44.29,Beef,27,250
+16.37,Lentils,9,116
+31.81,Tofu,8,76
+6.47,Eggs,13,155
+10.81,Peanut Butter,25,588
+35.88,Peanut Butter,25,588
+24.96,Whey Protein,80,400
+15.22,Whey Protein,80,400
+9.51,Beef,27,250
+19.33,Salmon,25,208
+26.35,Tofu,8,76
+20.02,Beef,27,250
+14.81,Whey Protein,80,400
+22.65,Whey Protein,80,400
+27.8,Almonds,21,579
+9.01,Greek Yogurt,10,59
+32.38,Almonds,21,579
+24.36,Beef,27,250
+19.37,Whey Protein,80,400
+5.46,Beef,27,250
+22.24,Salmon,25,208
+26.94,Salmon,25,208
+34.12,Peanut Butter,25,588
+34.46,Peanut Butter,25,588
+37.92,Almonds,21,579
+17.49,Chicken Breast,31,165
+40.82,Greek Yogurt,10,59
+37.18,Lentils,9,116
+30.23,Beef,27,250
+28.07,Salmon,25,208
+10.75,Greek Yogurt,10,59
+28.37,Greek Yogurt,10,59
+28.23,Salmon,25,208
+36.06,Greek Yogurt,10,59
+27.1,Lentils,9,116
+48.99,Eggs,13,155
+37.99,Whey Protein,80,400
+5.24,Lentils,9,116
+23.71,Eggs,13,155
+23.94,Salmon,25,208
+40.39,Almonds,21,579
+25.66,Greek Yogurt,10,59
+12.64,Tofu,8,76
+27.66,Eggs,13,155
+6.47,Greek Yogurt,10,59
+27.53,Salmon,25,208
+43.58,Peanut Butter,25,588
+30.9,Tofu,8,76
+37.34,Almonds,21,579
+6.47,Whey Protein,80,400
+47.72,Salmon,25,208
+45.57,Eggs,13,155
+45.44,Tofu,8,76
+9.53,Peanut Butter,25,588
+24.82,Almonds,21,579
+45.27,Greek Yogurt,10,59
+16.54,Greek Yogurt,10,59
+35.9,Tofu,8,76
+35.34,Whey Protein,80,400
+21.3,Salmon,25,208
+13.3,Tofu,8,76
+26.48,Salmon,25,208
+31.61,Salmon,25,208
+7.33,Chicken Breast,31,165
+19.68,Lentils,9,116
+20.8,Lentils,9,116
+23.82,Tofu,8,76
+16.4,Almonds,21,579
+5.05,Eggs,13,155
+43.87,Beef,27,250
+48.47,Almonds,21,579
+33.21,Chicken Breast,31,165
+43.52,Beef,27,250
+39.88,Lentils,9,116
+42.0,Peanut Butter,25,588
+25.32,Peanut Butter,25,588
+22.54,Almonds,21,579
+41.15,Chicken Breast,31,165
+17.79,Chicken Breast,31,165
+33.07,Beef,27,250
+48.63,Lentils,9,116
+43.1,Whey Protein,80,400
+25.44,Greek Yogurt,10,59
+25.33,Almonds,21,579
+28.56,Peanut Butter,25,588
+46.93,Eggs,13,155
+17.03,Whey Protein,80,400
+9.33,Salmon,25,208
+10.82,Almonds,21,579
+31.35,Tofu,8,76
+8.57,Greek Yogurt,10,59
+36.92,Whey Protein,80,400
+27.98,Eggs,13,155
+13.09,Beef,27,250
+45.5,Greek Yogurt,10,59
+41.25,Chicken Breast,31,165
+23.55,Greek Yogurt,10,59
+21.28,Whey Protein,80,400
+38.59,Beef,27,250
+9.27,Peanut Butter,25,588
+9.78,Eggs,13,155
+48.45,Almonds,21,579
+44.39,Almonds,21,579
+36.46,Greek Yogurt,10,59
+40.06,Greek Yogurt,10,59
+25.42,Chicken Breast,31,165
+46.16,Peanut Butter,25,588
+47.56,Whey Protein,80,400
+28.2,Peanut Butter,25,588
+34.4,Salmon,25,208
+12.58,Almonds,21,579
+41.04,Salmon,25,208
+6.61,Eggs,13,155
+43.27,Lentils,9,116
+21.85,Eggs,13,155
+16.91,Peanut Butter,25,588
+28.63,Lentils,9,116
+44.6,Beef,27,250
+13.34,Lentils,9,116
+5.38,Greek Yogurt,10,59
+49.28,Whey Protein,80,400
+47.1,Whey Protein,80,400
+30.44,Salmon,25,208
+49.93,Chicken Breast,31,165
+39.35,Tofu,8,76
+36.56,Peanut Butter,25,588
+8.73,Whey Protein,80,400
+15.16,Chicken Breast,31,165
+15.32,Lentils,9,116
+20.67,Whey Protein,80,400
+28.84,Eggs,13,155
+28.1,Greek Yogurt,10,59
+34.46,Greek Yogurt,10,59
+36.2,Salmon,25,208
+28.42,Beef,27,250
+5.82,Peanut Butter,25,588
+11.83,Greek Yogurt,10,59
+31.47,Beef,27,250
+43.2,Chicken Breast,31,165
+16.48,Eggs,13,155
+31.15,Almonds,21,579
+5.26,Greek Yogurt,10,59
+35.9,Whey Protein,80,400
+34.29,Almonds,21,579
+8.32,Almonds,21,579
+17.01,Chicken Breast,31,165
+47.08,Almonds,21,579
+17.08,Lentils,9,116
+20.48,Greek Yogurt,10,59
+14.86,Eggs,13,155
+17.8,Chicken Breast,31,165
+21.09,Lentils,9,116
+42.22,Beef,27,250
+18.82,Lentils,9,116
+36.34,Greek Yogurt,10,59
+45.73,Greek Yogurt,10,59
+16.47,Eggs,13,155
+49.4,Lentils,9,116
+6.1,Greek Yogurt,10,59
+5.62,Chicken Breast,31,165
+49.7,Tofu,8,76
+49.46,Peanut Butter,25,588
+9.49,Eggs,13,155
+36.41,Chicken Breast,31,165
+28.19,Greek Yogurt,10,59
+15.17,Chicken Breast,31,165
+39.32,Tofu,8,76
+46.85,Lentils,9,116
+49.66,Salmon,25,208
+29.92,Lentils,9,116
+25.01,Whey Protein,80,400
+23.39,Salmon,25,208
+41.4,Tofu,8,76
+34.53,Whey Protein,80,400
+6.03,Beef,27,250
+43.3,Tofu,8,76
+36.32,Peanut Butter,25,588
+32.79,Eggs,13,155
+33.32,Peanut Butter,25,588
+20.65,Greek Yogurt,10,59
+13.93,Peanut Butter,25,588
+11.24,Beef,27,250
+16.51,Beef,27,250
+46.07,Chicken Breast,31,165
+27.72,Almonds,21,579
+5.91,Salmon,25,208
+11.68,Whey Protein,80,400
+38.91,Whey Protein,80,400
+29.43,Whey Protein,80,400
+31.34,Tofu,8,76
+7.94,Eggs,13,155
+36.76,Eggs,13,155
+40.21,Beef,27,250
+27.89,Almonds,21,579
+23.59,Whey Protein,80,400
+6.77,Peanut Butter,25,588
+18.06,Almonds,21,579
+45.64,Salmon,25,208
+40.72,Tofu,8,76
+18.45,Whey Protein,80,400
+21.86,Chicken Breast,31,165
+39.26,Whey Protein,80,400
+35.75,Eggs,13,155
+28.34,Tofu,8,76
+44.89,Tofu,8,76
+27.71,Lentils,9,116
+17.31,Salmon,25,208
+7.26,Almonds,21,579
+13.46,Beef,27,250
+35.61,Almonds,21,579
+48.91,Eggs,13,155
+21.63,Tofu,8,76
+42.89,Greek Yogurt,10,59
+45.18,Chicken Breast,31,165
+48.56,Beef,27,250
+6.07,Peanut Butter,25,588
+27.85,Almonds,21,579
+42.86,Salmon,25,208
+16.5,Chicken Breast,31,165
+20.34,Eggs,13,155
+9.15,Chicken Breast,31,165
+12.78,Tofu,8,76
+42.19,Whey Protein,80,400
+34.76,Beef,27,250
+22.48,Whey Protein,80,400
+20.53,Almonds,21,579
+49.25,Chicken Breast,31,165
+33.93,Eggs,13,155
+43.36,Chicken Breast,31,165
+16.1,Salmon,25,208
+36.89,Eggs,13,155
+16.28,Peanut Butter,25,588
+26.51,Eggs,13,155
+25.01,Chicken Breast,31,165
+27.62,Beef,27,250
+44.0,Peanut Butter,25,588
+18.58,Tofu,8,76
+41.01,Beef,27,250
+21.32,Lentils,9,116
+36.08,Lentils,9,116
+47.95,Salmon,25,208
+43.54,Peanut Butter,25,588
+45.95,Tofu,8,76
+7.18,Peanut Butter,25,588
+46.08,Lentils,9,116
+21.88,Chicken Breast,31,165
+25.0,Tofu,8,76
+44.26,Chicken Breast,31,165
+19.42,Chicken Breast,31,165
+36.34,Almonds,21,579
+8.34,Eggs,13,155
+45.26,Eggs,13,155
+14.12,Greek Yogurt,10,59
+38.1,Almonds,21,579
+45.48,Almonds,21,579
+44.77,Lentils,9,116
+12.83,Greek Yogurt,10,59
+11.47,Salmon,25,208
+28.89,Greek Yogurt,10,59
+41.99,Lentils,9,116
+16.81,Beef,27,250
+21.3,Greek Yogurt,10,59
+13.51,Peanut Butter,25,588
+21.48,Tofu,8,76
+7.07,Almonds,21,579
+44.03,Whey Protein,80,400
+12.13,Almonds,21,579
+43.82,Almonds,21,579
+49.89,Peanut Butter,25,588
+16.75,Salmon,25,208
+11.79,Greek Yogurt,10,59
+45.16,Eggs,13,155
+9.1,Whey Protein,80,400
+13.52,Eggs,13,155
+49.22,Whey Protein,80,400
+45.4,Lentils,9,116
+29.22,Beef,27,250
+28.91,Greek Yogurt,10,59
+25.19,Greek Yogurt,10,59
+48.59,Peanut Butter,25,588
+19.4,Peanut Butter,25,588
+42.11,Chicken Breast,31,165
+40.02,Lentils,9,116
+25.25,Greek Yogurt,10,59
+26.63,Greek Yogurt,10,59
+11.26,Greek Yogurt,10,59
+5.26,Salmon,25,208
+25.62,Chicken Breast,31,165
+22.27,Eggs,13,155
+26.52,Peanut Butter,25,588
+34.0,Chicken Breast,31,165
+47.01,Lentils,9,116
+43.7,Eggs,13,155
+24.05,Chicken Breast,31,165
+31.66,Salmon,25,208
+12.48,Salmon,25,208
+27.48,Eggs,13,155
+27.29,Beef,27,250
+10.25,Salmon,25,208
+18.68,Chicken Breast,31,165
+34.9,Greek Yogurt,10,59
+11.34,Greek Yogurt,10,59
+40.73,Peanut Butter,25,588
+33.39,Salmon,25,208
+12.45,Whey Protein,80,400
+15.61,Beef,27,250
+25.25,Beef,27,250
+18.95,Greek Yogurt,10,59
+24.4,Salmon,25,208
+26.48,Beef,27,250
+17.17,Salmon,25,208
+17.14,Almonds,21,579
+19.99,Beef,27,250
+18.39,Almonds,21,579
+41.11,Salmon,25,208
+19.83,Chicken Breast,31,165
+42.36,Chicken Breast,31,165
+39.0,Eggs,13,155
+17.79,Whey Protein,80,400
+16.37,Tofu,8,76
+5.04,Whey Protein,80,400
+31.11,Almonds,21,579
+20.6,Peanut Butter,25,588
+47.74,Lentils,9,116
+24.02,Eggs,13,155
+46.38,Lentils,9,116
+19.86,Peanut Butter,25,588
+42.61,Eggs,13,155
+42.44,Almonds,21,579
+24.92,Peanut Butter,25,588
+14.0,Peanut Butter,25,588
+11.28,Greek Yogurt,10,59
+37.83,Eggs,13,155
+5.29,Almonds,21,579
+36.72,Salmon,25,208
+31.05,Chicken Breast,31,165
+26.62,Almonds,21,579
+40.03,Eggs,13,155
+25.61,Salmon,25,208
+12.4,Whey Protein,80,400
+38.97,Salmon,25,208
+40.26,Chicken Breast,31,165
+47.47,Tofu,8,76
+45.87,Greek Yogurt,10,59
+46.66,Greek Yogurt,10,59
+34.02,Chicken Breast,31,165
+18.03,Chicken Breast,31,165
+28.08,Peanut Butter,25,588
+29.66,Greek Yogurt,10,59
+22.3,Chicken Breast,31,165
+23.62,Salmon,25,208
+23.53,Peanut Butter,25,588
+44.61,Eggs,13,155
+39.06,Chicken Breast,31,165
+13.22,Lentils,9,116
+36.33,Whey Protein,80,400
+35.65,Beef,27,250
+17.45,Lentils,9,116
+44.24,Peanut Butter,25,588
+35.54,Chicken Breast,31,165
+37.43,Whey Protein,80,400
+6.46,Salmon,25,208
+18.33,Tofu,8,76
+14.97,Chicken Breast,31,165
+37.81,Tofu,8,76
+35.07,Peanut Butter,25,588
+11.64,Tofu,8,76
+5.84,Beef,27,250
+23.01,Peanut Butter,25,588
+9.71,Almonds,21,579
+32.52,Chicken Breast,31,165
+6.63,Whey Protein,80,400
+43.13,Whey Protein,80,400
+27.98,Almonds,21,579
+11.48,Chicken Breast,31,165
+42.2,Beef,27,250
+43.52,Almonds,21,579
+25.19,Chicken Breast,31,165
+12.35,Almonds,21,579
+38.22,Peanut Butter,25,588
+25.29,Almonds,21,579
+30.93,Salmon,25,208
+45.46,Beef,27,250
+16.62,Beef,27,250
+40.13,Salmon,25,208
+34.09,Salmon,25,208
+45.28,Eggs,13,155
+49.33,Almonds,21,579
+10.99,Greek Yogurt,10,59
+19.89,Tofu,8,76
+14.55,Lentils,9,116
+22.87,Chicken Breast,31,165
+9.44,Lentils,9,116
+19.94,Tofu,8,76
+48.79,Beef,27,250
+37.53,Greek Yogurt,10,59
+21.98,Greek Yogurt,10,59
+16.46,Peanut Butter,25,588
+34.63,Whey Protein,80,400
+15.42,Beef,27,250
+23.67,Whey Protein,80,400
+20.45,Eggs,13,155
+46.42,Peanut Butter,25,588
+41.58,Salmon,25,208
+41.87,Salmon,25,208
+32.91,Greek Yogurt,10,59
+39.82,Salmon,25,208
+45.37,Almonds,21,579
+12.69,Almonds,21,579
+14.87,Whey Protein,80,400
+40.95,Beef,27,250
+16.99,Beef,27,250
+46.54,Beef,27,250
+7.58,Greek Yogurt,10,59
+18.93,Lentils,9,116
+15.34,Chicken Breast,31,165
+12.68,Almonds,21,579
+25.25,Peanut Butter,25,588
+10.39,Beef,27,250
+32.92,Peanut Butter,25,588
+27.59,Peanut Butter,25,588
+43.6,Eggs,13,155
+16.7,Almonds,21,579
+6.85,Lentils,9,116
+8.73,Peanut Butter,25,588
+29.03,Eggs,13,155
+35.05,Tofu,8,76
+30.25,Salmon,25,208
+46.64,Whey Protein,80,400
+31.44,Greek Yogurt,10,59
+21.38,Almonds,21,579
+24.7,Peanut Butter,25,588
+30.88,Beef,27,250
+12.31,Eggs,13,155
+12.17,Chicken Breast,31,165
+41.71,Chicken Breast,31,165
+21.57,Greek Yogurt,10,59
+41.27,Tofu,8,76
+31.94,Beef,27,250
+43.9,Peanut Butter,25,588
+32.25,Tofu,8,76
+40.82,Whey Protein,80,400
+20.11,Salmon,25,208
+37.35,Salmon,25,208
+47.53,Eggs,13,155
+32.14,Salmon,25,208
+38.91,Beef,27,250
+22.05,Chicken Breast,31,165
+16.51,Salmon,25,208
+41.41,Peanut Butter,25,588
+30.1,Almonds,21,579
+23.97,Salmon,25,208
+36.02,Tofu,8,76
+36.86,Chicken Breast,31,165
+36.78,Lentils,9,116
+47.12,Eggs,13,155
+41.49,Salmon,25,208
+29.86,Chicken Breast,31,165
+39.96,Whey Protein,80,400
+23.2,Almonds,21,579
+22.41,Eggs,13,155
+31.03,Chicken Breast,31,165
+9.51,Almonds,21,579
+31.51,Eggs,13,155
+31.78,Salmon,25,208
+16.19,Beef,27,250
+12.79,Peanut Butter,25,588
+13.36,Greek Yogurt,10,59
+11.04,Whey Protein,80,400
+45.42,Eggs,13,155
+18.48,Lentils,9,116
+6.89,Tofu,8,76
+43.61,Whey Protein,80,400
+15.73,Beef,27,250
+11.71,Chicken Breast,31,165
+41.27,Almonds,21,579
+47.06,Tofu,8,76
+11.89,Eggs,13,155
+38.64,Peanut Butter,25,588
+11.56,Chicken Breast,31,165
+45.33,Beef,27,250
+27.68,Beef,27,250
+21.2,Chicken Breast,31,165
+18.24,Eggs,13,155
+39.39,Chicken Breast,31,165
+23.78,Almonds,21,579
+26.73,Almonds,21,579
+39.01,Almonds,21,579
+48.86,Eggs,13,155
+15.28,Chicken Breast,31,165
+20.27,Eggs,13,155
+48.9,Whey Protein,80,400
+42.79,Tofu,8,76
+8.64,Lentils,9,116
+20.98,Beef,27,250
+23.75,Tofu,8,76
+26.05,Whey Protein,80,400
+13.91,Peanut Butter,25,588
+13.75,Eggs,13,155
+14.45,Eggs,13,155
+41.69,Tofu,8,76
+23.77,Greek Yogurt,10,59
+12.47,Beef,27,250
+23.9,Eggs,13,155
+9.51,Eggs,13,155
+24.61,Lentils,9,116
+27.69,Almonds,21,579
+43.48,Eggs,13,155
+5.93,Tofu,8,76
+28.18,Tofu,8,76
+17.25,Peanut Butter,25,588
+41.57,Whey Protein,80,400
+23.11,Eggs,13,155
+42.85,Lentils,9,116
+49.97,Salmon,25,208
+36.51,Greek Yogurt,10,59
+49.45,Almonds,21,579
+47.04,Lentils,9,116
+43.72,Tofu,8,76
+39.22,Chicken Breast,31,165
+15.4,Greek Yogurt,10,59
+11.06,Beef,27,250
+33.48,Whey Protein,80,400
+43.17,Salmon,25,208
+34.75,Eggs,13,155
+16.46,Whey Protein,80,400
+26.98,Peanut Butter,25,588
+33.97,Chicken Breast,31,165
+40.45,Greek Yogurt,10,59
+25.47,Lentils,9,116
+23.7,Beef,27,250
+13.56,Chicken Breast,31,165
+17.62,Peanut Butter,25,588
+11.01,Greek Yogurt,10,59
+44.46,Almonds,21,579
+29.83,Whey Protein,80,400
+44.61,Lentils,9,116
+47.24,Lentils,9,116
+12.91,Almonds,21,579
+42.19,Beef,27,250
+36.23,Peanut Butter,25,588
+9.86,Greek Yogurt,10,59
+24.17,Beef,27,250
+49.13,Greek Yogurt,10,59
+36.74,Lentils,9,116
+6.5,Whey Protein,80,400
+35.83,Chicken Breast,31,165
+11.73,Almonds,21,579
+18.01,Greek Yogurt,10,59
+10.07,Salmon,25,208
+10.74,Salmon,25,208
+44.89,Chicken Breast,31,165
+20.23,Almonds,21,579
+21.52,Whey Protein,80,400
+19.77,Greek Yogurt,10,59
+36.75,Eggs,13,155
+26.84,Peanut Butter,25,588
+42.66,Salmon,25,208
+20.82,Peanut Butter,25,588
+5.56,Peanut Butter,25,588
+29.45,Greek Yogurt,10,59
+9.73,Peanut Butter,25,588
+31.0,Tofu,8,76
+48.06,Beef,27,250
+24.24,Chicken Breast,31,165
+23.43,Salmon,25,208
+43.7,Almonds,21,579
+33.95,Peanut Butter,25,588
+48.47,Almonds,21,579
+34.64,Beef,27,250
+31.89,Greek Yogurt,10,59
+18.88,Whey Protein,80,400
+31.22,Greek Yogurt,10,59
+17.14,Salmon,25,208
+33.95,Greek Yogurt,10,59
+22.37,Tofu,8,76
+31.17,Peanut Butter,25,588
+48.62,Beef,27,250
+22.85,Chicken Breast,31,165
+12.62,Peanut Butter,25,588
+15.47,Greek Yogurt,10,59
+6.19,Greek Yogurt,10,59
+19.0,Lentils,9,116
+8.67,Tofu,8,76
+25.44,Salmon,25,208
+14.25,Chicken Breast,31,165
+36.21,Chicken Breast,31,165
+34.83,Lentils,9,116
+16.52,Almonds,21,579
+44.8,Greek Yogurt,10,59
+6.45,Chicken Breast,31,165
+14.45,Salmon,25,208
+44.23,Tofu,8,76
+17.1,Tofu,8,76
+24.13,Lentils,9,116
+42.26,Chicken Breast,31,165
+16.52,Whey Protein,80,400
+35.76,Whey Protein,80,400
+31.68,Lentils,9,116
+47.26,Chicken Breast,31,165
+7.3,Salmon,25,208
+45.98,Chicken Breast,31,165
+31.16,Tofu,8,76
+20.29,Beef,27,250
+46.25,Greek Yogurt,10,59
+7.97,Peanut Butter,25,588
+40.67,Peanut Butter,25,588
+32.71,Greek Yogurt,10,59
+14.09,Tofu,8,76
+7.45,Peanut Butter,25,588
+26.83,Chicken Breast,31,165
+49.56,Chicken Breast,31,165
+32.45,Lentils,9,116
+7.11,Whey Protein,80,400
+14.43,Almonds,21,579
+13.98,Tofu,8,76
+15.98,Whey Protein,80,400
+21.95,Greek Yogurt,10,59
+33.37,Beef,27,250
+44.69,Greek Yogurt,10,59
+6.92,Whey Protein,80,400
+38.47,Whey Protein,80,400
+36.81,Whey Protein,80,400
+36.67,Beef,27,250
+47.5,Salmon,25,208
+27.95,Beef,27,250
+12.13,Peanut Butter,25,588
+15.32,Salmon,25,208
+38.55,Tofu,8,76
+34.89,Eggs,13,155
+23.69,Chicken Breast,31,165
+42.34,Tofu,8,76
+14.32,Chicken Breast,31,165
+23.74,Lentils,9,116
+5.22,Chicken Breast,31,165
+37.14,Greek Yogurt,10,59
+12.43,Greek Yogurt,10,59
+26.18,Whey Protein,80,400
+11.17,Eggs,13,155
+17.79,Tofu,8,76
+9.51,Whey Protein,80,400
+38.52,Lentils,9,116
+37.16,Tofu,8,76
+35.35,Beef,27,250
+36.34,Almonds,21,579
+41.63,Eggs,13,155
+16.75,Beef,27,250
+27.22,Beef,27,250
+10.79,Eggs,13,155
+36.53,Tofu,8,76
+31.22,Eggs,13,155
+42.0,Lentils,9,116
+13.8,Eggs,13,155
+14.46,Whey Protein,80,400
+33.47,Salmon,25,208
+20.73,Tofu,8,76
+24.97,Chicken Breast,31,165
+49.56,Lentils,9,116
+20.93,Tofu,8,76
+30.34,Eggs,13,155
+10.88,Eggs,13,155
+30.9,Lentils,9,116
+11.85,Almonds,21,579
+21.06,Tofu,8,76
+10.16,Whey Protein,80,400
+32.2,Beef,27,250
+30.46,Peanut Butter,25,588
+23.51,Beef,27,250
+19.35,Lentils,9,116
+38.9,Lentils,9,116
+31.41,Eggs,13,155
+15.22,Salmon,25,208
+19.29,Lentils,9,116
+10.79,Eggs,13,155
+42.48,Chicken Breast,31,165
+22.09,Greek Yogurt,10,59
+48.56,Peanut Butter,25,588
+11.08,Eggs,13,155
+16.49,Lentils,9,116
+20.45,Greek Yogurt,10,59
+20.11,Eggs,13,155
+45.57,Greek Yogurt,10,59
+8.35,Beef,27,250
+23.69,Chicken Breast,31,165
+15.65,Lentils,9,116
+34.38,Beef,27,250
+28.49,Whey Protein,80,400
+41.78,Salmon,25,208
+34.45,Almonds,21,579
+38.12,Whey Protein,80,400
+42.26,Chicken Breast,31,165
+37.01,Lentils,9,116
+27.98,Almonds,21,579
+20.75,Tofu,8,76
+12.66,Tofu,8,76
+45.36,Chicken Breast,31,165
+42.94,Almonds,21,579
+7.93,Eggs,13,155
+27.98,Salmon,25,208
+30.97,Salmon,25,208
+36.91,Salmon,25,208
+29.69,Whey Protein,80,400
+28.13,Greek Yogurt,10,59
+13.9,Greek Yogurt,10,59
+28.59,Whey Protein,80,400
+15.05,Salmon,25,208
+27.08,Whey Protein,80,400
+44.69,Lentils,9,116
+38.17,Lentils,9,116
+21.86,Beef,27,250
+11.82,Greek Yogurt,10,59
+29.45,Salmon,25,208
+23.87,Lentils,9,116
+7.17,Chicken Breast,31,165
+42.32,Peanut Butter,25,588
+49.97,Salmon,25,208
+31.27,Greek Yogurt,10,59
+23.41,Almonds,21,579
+49.77,Eggs,13,155
+14.68,Tofu,8,76
+30.44,Peanut Butter,25,588
+14.04,Tofu,8,76
+40.86,Greek Yogurt,10,59
+32.19,Greek Yogurt,10,59
+31.94,Almonds,21,579
+32.83,Lentils,9,116
+23.74,Greek Yogurt,10,59
+14.81,Greek Yogurt,10,59
+8.14,Eggs,13,155
+36.88,Eggs,13,155
+28.81,Beef,27,250
+46.39,Tofu,8,76
+15.18,Chicken Breast,31,165
+42.5,Whey Protein,80,400
+7.51,Lentils,9,116
+46.77,Beef,27,250
+44.35,Peanut Butter,25,588
+16.62,Tofu,8,76
+40.58,Whey Protein,80,400
+14.82,Chicken Breast,31,165
+32.27,Tofu,8,76
+34.73,Eggs,13,155
+14.29,Chicken Breast,31,165
+6.96,Chicken Breast,31,165
+37.86,Chicken Breast,31,165
+13.49,Lentils,9,116
+26.53,Tofu,8,76
+24.93,Lentils,9,116
+36.96,Salmon,25,208
+14.41,Beef,27,250
+9.92,Greek Yogurt,10,59
+22.8,Beef,27,250
+5.59,Salmon,25,208
+8.5,Almonds,21,579
+12.84,Eggs,13,155
+28.19,Tofu,8,76
+16.59,Tofu,8,76
+18.27,Beef,27,250
+38.37,Almonds,21,579
+9.09,Eggs,13,155
+11.99,Peanut Butter,25,588
+18.85,Chicken Breast,31,165
+7.03,Lentils,9,116
+43.87,Beef,27,250
+13.98,Whey Protein,80,400
+5.89,Beef,27,250
+21.73,Almonds,21,579
+18.2,Whey Protein,80,400
+27.62,Eggs,13,155
+20.96,Eggs,13,155
+9.2,Beef,27,250
+47.15,Eggs,13,155
+44.67,Greek Yogurt,10,59
+27.16,Tofu,8,76
+8.6,Whey Protein,80,400
+10.95,Beef,27,250
+49.51,Almonds,21,579
+23.99,Salmon,25,208
+47.33,Salmon,25,208
+27.0,Lentils,9,116
+19.62,Chicken Breast,31,165
+34.04,Lentils,9,116
+10.08,Salmon,25,208
+15.44,Eggs,13,155
+38.09,Almonds,21,579
+15.28,Greek Yogurt,10,59
+38.49,Lentils,9,116
+36.21,Whey Protein,80,400
+17.62,Tofu,8,76
+20.06,Salmon,25,208
+30.66,Salmon,25,208
+22.62,Beef,27,250
+31.17,Chicken Breast,31,165
+24.53,Tofu,8,76
+28.63,Tofu,8,76
+18.79,Beef,27,250
+31.19,Tofu,8,76
+48.65,Salmon,25,208
+46.23,Peanut Butter,25,588
+41.32,Almonds,21,579
+18.01,Whey Protein,80,400
+5.41,Beef,27,250
+47.27,Whey Protein,80,400
+29.14,Greek Yogurt,10,59
+18.83,Beef,27,250
+36.72,Tofu,8,76
+17.11,Peanut Butter,25,588
+44.62,Lentils,9,116
+34.06,Chicken Breast,31,165
+18.72,Greek Yogurt,10,59
+26.81,Eggs,13,155
+30.14,Tofu,8,76
+35.04,Salmon,25,208
+29.74,Greek Yogurt,10,59
+5.96,Tofu,8,76
+24.66,Almonds,21,579
+45.31,Lentils,9,116
+7.43,Beef,27,250
+43.57,Salmon,25,208
+16.55,Eggs,13,155
+42.45,Almonds,21,579
+11.14,Almonds,21,579
+23.42,Eggs,13,155
+17.37,Greek Yogurt,10,59
+37.14,Chicken Breast,31,165
+39.01,Tofu,8,76
+48.3,Almonds,21,579
+21.9,Whey Protein,80,400
+15.75,Lentils,9,116
+25.51,Beef,27,250
+34.87,Beef,27,250
+20.61,Salmon,25,208
+37.42,Lentils,9,116
+12.5,Chicken Breast,31,165
+36.52,Tofu,8,76
+6.67,Peanut Butter,25,588
+40.68,Greek Yogurt,10,59
+16.76,Peanut Butter,25,588
+20.96,Whey Protein,80,400
+22.49,Almonds,21,579
+18.93,Beef,27,250
+13.13,Whey Protein,80,400
+43.4,Greek Yogurt,10,59
+5.92,Whey Protein,80,400
+22.56,Eggs,13,155
+7.96,Whey Protein,80,400
+12.3,Peanut Butter,25,588
+36.07,Peanut Butter,25,588
+17.93,Peanut Butter,25,588
+34.78,Eggs,13,155
+26.61,Peanut Butter,25,588
+40.68,Chicken Breast,31,165
+35.16,Peanut Butter,25,588
+48.24,Greek Yogurt,10,59
+16.24,Almonds,21,579
+11.69,Whey Protein,80,400
+8.59,Tofu,8,76
+37.92,Greek Yogurt,10,59
+6.91,Whey Protein,80,400
+36.77,Beef,27,250
+22.24,Chicken Breast,31,165
+39.15,Salmon,25,208
+20.76,Peanut Butter,25,588
+37.98,Eggs,13,155
+34.62,Eggs,13,155
+29.72,Greek Yogurt,10,59
+32.63,Chicken Breast,31,165
+40.36,Eggs,13,155
+38.23,Salmon,25,208
+13.2,Greek Yogurt,10,59
+33.85,Tofu,8,76
+35.04,Chicken Breast,31,165
+42.8,Beef,27,250
+38.57,Peanut Butter,25,588
+27.43,Eggs,13,155
+28.32,Peanut Butter,25,588
+41.58,Whey Protein,80,400
+13.2,Salmon,25,208
+20.62,Tofu,8,76
+7.06,Peanut Butter,25,588
+14.71,Peanut Butter,25,588
+12.47,Eggs,13,155
+30.23,Whey Protein,80,400
+34.71,Lentils,9,116
+39.24,Salmon,25,208
+17.47,Whey Protein,80,400
+39.13,Whey Protein,80,400
+48.78,Greek Yogurt,10,59
+20.87,Eggs,13,155
+24.59,Beef,27,250
+23.64,Almonds,21,579
+38.3,Beef,27,250
+36.03,Chicken Breast,31,165
+27.19,Beef,27,250
+14.25,Eggs,13,155
+9.17,Whey Protein,80,400
+30.53,Chicken Breast,31,165
+27.8,Lentils,9,116
+21.59,Peanut Butter,25,588
+8.17,Eggs,13,155
+7.38,Whey Protein,80,400
+24.29,Chicken Breast,31,165
+36.12,Lentils,9,116
+22.34,Chicken Breast,31,165
+31.35,Greek Yogurt,10,59
+39.7,Whey Protein,80,400
+39.61,Peanut Butter,25,588
+31.93,Salmon,25,208
+22.36,Beef,27,250
+20.13,Lentils,9,116
+15.53,Salmon,25,208
+7.26,Whey Protein,80,400
+43.37,Salmon,25,208
+12.11,Lentils,9,116
+19.46,Beef,27,250
+8.74,Lentils,9,116
+32.5,Greek Yogurt,10,59
+25.57,Peanut Butter,25,588
+19.68,Almonds,21,579
+48.18,Eggs,13,155
+30.41,Whey Protein,80,400
+31.1,Whey Protein,80,400
+34.54,Beef,27,250
+28.68,Eggs,13,155
+23.31,Eggs,13,155
+41.23,Salmon,25,208
+6.24,Greek Yogurt,10,59
+26.9,Salmon,25,208
+10.61,Tofu,8,76
+41.17,Lentils,9,116
+18.59,Peanut Butter,25,588
+6.66,Whey Protein,80,400
+32.53,Whey Protein,80,400
+33.66,Eggs,13,155
+36.99,Salmon,25,208
+30.11,Tofu,8,76
+43.77,Whey Protein,80,400
+43.23,Tofu,8,76
+46.33,Peanut Butter,25,588
+8.31,Lentils,9,116
+23.87,Lentils,9,116
+28.08,Chicken Breast,31,165
+26.54,Peanut Butter,25,588
+43.03,Chicken Breast,31,165
+14.69,Lentils,9,116
+46.49,Chicken Breast,31,165
+49.11,Almonds,21,579
+7.56,Tofu,8,76
+11.0,Tofu,8,76
+42.47,Greek Yogurt,10,59
+7.35,Beef,27,250
+17.57,Greek Yogurt,10,59
+32.83,Peanut Butter,25,588
+36.82,Lentils,9,116
+48.22,Greek Yogurt,10,59
+33.15,Tofu,8,76
+48.72,Tofu,8,76
+49.18,Salmon,25,208
+25.52,Chicken Breast,31,165
+12.04,Greek Yogurt,10,59
+35.57,Almonds,21,579
+14.24,Lentils,9,116
+35.28,Greek Yogurt,10,59
+27.32,Eggs,13,155
+18.58,Tofu,8,76
+45.72,Tofu,8,76
+21.55,Lentils,9,116
+16.48,Salmon,25,208
+46.27,Beef,27,250
+5.96,Tofu,8,76
+38.32,Beef,27,250
+40.67,Almonds,21,579
+6.39,Greek Yogurt,10,59
+41.69,Beef,27,250
+31.14,Eggs,13,155
+32.64,Whey Protein,80,400
+5.92,Beef,27,250
+28.3,Peanut Butter,25,588
+10.97,Tofu,8,76
+8.48,Whey Protein,80,400
+29.2,Beef,27,250
+41.11,Peanut Butter,25,588
+49.72,Almonds,21,579
+5.67,Peanut Butter,25,588
+25.48,Almonds,21,579
+16.87,Salmon,25,208
+27.98,Greek Yogurt,10,59
+15.71,Beef,27,250
+7.5,Peanut Butter,25,588
+40.94,Beef,27,250
+7.37,Chicken Breast,31,165
+22.86,Whey Protein,80,400
+6.45,Salmon,25,208
+34.95,Eggs,13,155
+25.39,Beef,27,250
+21.25,Salmon,25,208
+48.99,Chicken Breast,31,165
+32.9,Tofu,8,76
+13.17,Whey Protein,80,400
+22.94,Almonds,21,579
+42.8,Tofu,8,76
+13.13,Tofu,8,76
+30.03,Eggs,13,155
+35.63,Beef,27,250
+17.04,Whey Protein,80,400
+23.35,Almonds,21,579
+45.01,Whey Protein,80,400
+40.83,Peanut Butter,25,588
+5.5,Almonds,21,579
+16.12,Greek Yogurt,10,59
+25.41,Chicken Breast,31,165
+9.51,Almonds,21,579
+46.24,Chicken Breast,31,165
+27.24,Eggs,13,155
+23.98,Peanut Butter,25,588
+8.97,Greek Yogurt,10,59
+44.03,Tofu,8,76
+13.15,Peanut Butter,25,588
+47.83,Whey Protein,80,400
+46.5,Almonds,21,579
+23.76,Greek Yogurt,10,59
+49.95,Lentils,9,116
+15.97,Eggs,13,155
+20.76,Whey Protein,80,400
+31.19,Almonds,21,579
+42.43,Lentils,9,116
+44.84,Greek Yogurt,10,59
+22.5,Greek Yogurt,10,59
+46.98,Greek Yogurt,10,59
+41.79,Lentils,9,116
+41.75,Eggs,13,155
+15.9,Almonds,21,579
+13.69,Lentils,9,116
+39.09,Greek Yogurt,10,59
+22.33,Greek Yogurt,10,59
+30.36,Lentils,9,116
+5.78,Salmon,25,208
+37.69,Beef,27,250
+47.42,Beef,27,250
+40.42,Greek Yogurt,10,59
+47.15,Lentils,9,116
+13.89,Lentils,9,116
+6.85,Whey Protein,80,400
+45.56,Salmon,25,208
+18.69,Chicken Breast,31,165
+13.16,Peanut Butter,25,588
+7.21,Lentils,9,116
+36.24,Chicken Breast,31,165
+45.54,Lentils,9,116
+34.46,Greek Yogurt,10,59
+20.66,Lentils,9,116
+23.5,Lentils,9,116
+39.78,Almonds,21,579
+7.58,Peanut Butter,25,588
+40.64,Beef,27,250
+20.12,Chicken Breast,31,165
+33.19,Beef,27,250
+18.57,Tofu,8,76
+42.3,Whey Protein,80,400
+16.56,Lentils,9,116
+7.77,Salmon,25,208
+22.91,Beef,27,250
+40.91,Greek Yogurt,10,59
+24.4,Almonds,21,579
+15.41,Salmon,25,208
+5.83,Greek Yogurt,10,59
+12.86,Greek Yogurt,10,59
+9.75,Peanut Butter,25,588
+37.17,Salmon,25,208
+42.69,Eggs,13,155
+32.46,Whey Protein,80,400
+8.3,Beef,27,250
+36.58,Lentils,9,116
+10.57,Chicken Breast,31,165
+15.87,Chicken Breast,31,165
+31.64,Salmon,25,208
+42.81,Peanut Butter,25,588
+11.52,Lentils,9,116
+15.72,Eggs,13,155
+7.15,Whey Protein,80,400
+18.88,Whey Protein,80,400
+34.78,Beef,27,250
+45.99,Salmon,25,208
+16.55,Tofu,8,76
+15.36,Eggs,13,155
+8.41,Peanut Butter,25,588
+15.34,Almonds,21,579
+20.83,Whey Protein,80,400
+20.17,Whey Protein,80,400
+39.98,Lentils,9,116
+42.49,Lentils,9,116
+35.66,Beef,27,250
+19.13,Lentils,9,116
+33.6,Greek Yogurt,10,59
+28.37,Greek Yogurt,10,59
+16.63,Chicken Breast,31,165
+29.88,Eggs,13,155
+20.07,Beef,27,250
+27.32,Tofu,8,76
+41.43,Tofu,8,76
+42.6,Whey Protein,80,400
+18.21,Salmon,25,208
+35.98,Almonds,21,579
+46.7,Salmon,25,208
+17.7,Salmon,25,208
+41.18,Whey Protein,80,400
+26.13,Beef,27,250
+45.16,Beef,27,250
+9.1,Whey Protein,80,400
+31.27,Salmon,25,208
+15.14,Whey Protein,80,400
+46.48,Beef,27,250
+30.14,Salmon,25,208
+43.76,Peanut Butter,25,588
+48.13,Tofu,8,76
+6.27,Almonds,21,579
+34.29,Tofu,8,76
+39.46,Chicken Breast,31,165
+7.75,Salmon,25,208
+16.81,Almonds,21,579
+14.28,Greek Yogurt,10,59
+28.94,Lentils,9,116
+16.32,Greek Yogurt,10,59
+37.01,Chicken Breast,31,165
+45.56,Almonds,21,579
+33.81,Whey Protein,80,400
+45.11,Almonds,21,579
+35.31,Almonds,21,579
+21.55,Greek Yogurt,10,59
+49.52,Almonds,21,579
+48.7,Almonds,21,579
+29.34,Chicken Breast,31,165
+30.81,Beef,27,250
+15.05,Eggs,13,155
+7.94,Tofu,8,76
+8.16,Almonds,21,579
+13.26,Whey Protein,80,400
+21.21,Lentils,9,116
+8.78,Lentils,9,116
+25.06,Peanut Butter,25,588
+18.94,Lentils,9,116
+12.53,Eggs,13,155
+25.31,Salmon,25,208
+7.71,Greek Yogurt,10,59
+15.49,Whey Protein,80,400
+21.24,Whey Protein,80,400
+35.65,Eggs,13,155
+23.12,Lentils,9,116
+41.76,Chicken Breast,31,165
+33.03,Almonds,21,579
+30.03,Salmon,25,208
+22.41,Beef,27,250
+23.04,Chicken Breast,31,165
+20.52,Beef,27,250
+49.91,Salmon,25,208
+24.55,Whey Protein,80,400
+47.84,Beef,27,250
+45.39,Eggs,13,155
+39.64,Peanut Butter,25,588
+9.1,Salmon,25,208
+12.83,Tofu,8,76
+43.86,Peanut Butter,25,588
+35.78,Tofu,8,76
+5.85,Almonds,21,579
+16.36,Beef,27,250
+6.56,Greek Yogurt,10,59
+21.72,Tofu,8,76
+39.47,Salmon,25,208
+46.53,Tofu,8,76
+16.58,Almonds,21,579
+39.73,Tofu,8,76
+32.39,Beef,27,250
+48.54,Beef,27,250
+43.14,Beef,27,250
+14.72,Salmon,25,208
+34.22,Chicken Breast,31,165
+43.5,Almonds,21,579
+34.0,Peanut Butter,25,588
+36.18,Salmon,25,208
+28.95,Greek Yogurt,10,59
+26.22,Chicken Breast,31,165
+16.74,Greek Yogurt,10,59
+31.75,Lentils,9,116
+43.82,Lentils,9,116
+34.89,Salmon,25,208
+10.18,Whey Protein,80,400
+21.94,Beef,27,250
+44.34,Eggs,13,155
+24.21,Tofu,8,76
+15.9,Peanut Butter,25,588
+17.31,Almonds,21,579
+26.08,Chicken Breast,31,165
+17.24,Peanut Butter,25,588
+39.44,Lentils,9,116
+18.44,Beef,27,250
+19.18,Whey Protein,80,400
+15.09,Lentils,9,116
+13.18,Tofu,8,76
+22.95,Whey Protein,80,400
+32.72,Tofu,8,76
+38.87,Beef,27,250
+40.72,Lentils,9,116
+13.61,Eggs,13,155
+24.09,Tofu,8,76
+21.84,Chicken Breast,31,165
+10.07,Eggs,13,155
+32.61,Lentils,9,116
+21.49,Chicken Breast,31,165
+49.74,Tofu,8,76
+26.66,Eggs,13,155
+6.08,Almonds,21,579
+41.9,Almonds,21,579
+31.6,Almonds,21,579
+24.61,Almonds,21,579
+20.0,Beef,27,250
+44.57,Eggs,13,155
+23.22,Chicken Breast,31,165
+35.0,Peanut Butter,25,588
+12.46,Lentils,9,116
+37.65,Greek Yogurt,10,59
+33.88,Salmon,25,208
+5.87,Tofu,8,76
+46.09,Eggs,13,155
+11.74,Almonds,21,579
+37.01,Greek Yogurt,10,59
+36.04,Chicken Breast,31,165
+17.05,Almonds,21,579
+21.52,Chicken Breast,31,165
+46.88,Peanut Butter,25,588
+20.42,Salmon,25,208
+22.59,Greek Yogurt,10,59
+43.58,Greek Yogurt,10,59
+20.17,Tofu,8,76
+20.72,Almonds,21,579
+39.47,Peanut Butter,25,588
+8.46,Tofu,8,76
+14.89,Almonds,21,579
+41.58,Tofu,8,76
+34.89,Chicken Breast,31,165
+45.12,Lentils,9,116
+25.22,Chicken Breast,31,165
+19.23,Eggs,13,155
+33.19,Peanut Butter,25,588
+35.2,Chicken Breast,31,165
+17.95,Beef,27,250
+26.36,Eggs,13,155
+27.78,Lentils,9,116
+11.06,Tofu,8,76
+37.44,Chicken Breast,31,165
+19.94,Chicken Breast,31,165
+39.86,Tofu,8,76
+39.09,Almonds,21,579
+13.9,Peanut Butter,25,588
+38.32,Salmon,25,208
+11.45,Tofu,8,76
+26.61,Whey Protein,80,400
+43.17,Almonds,21,579
+35.57,Eggs,13,155
+12.28,Chicken Breast,31,165
+31.3,Eggs,13,155
+22.98,Almonds,21,579
+11.56,Greek Yogurt,10,59
+22.61,Greek Yogurt,10,59
+42.37,Whey Protein,80,400
+40.57,Almonds,21,579
+35.55,Salmon,25,208
+36.51,Chicken Breast,31,165
+46.56,Salmon,25,208
+39.08,Tofu,8,76
+14.58,Eggs,13,155
+19.79,Beef,27,250
+45.34,Greek Yogurt,10,59
+40.61,Tofu,8,76
+27.57,Lentils,9,116
+49.22,Whey Protein,80,400
+47.92,Salmon,25,208
+8.99,Lentils,9,116
+17.18,Almonds,21,579
+31.71,Peanut Butter,25,588
+47.59,Peanut Butter,25,588
+41.26,Chicken Breast,31,165
+16.67,Tofu,8,76
+29.04,Salmon,25,208
+46.91,Whey Protein,80,400
+31.82,Peanut Butter,25,588
+19.49,Almonds,21,579
+13.55,Almonds,21,579
+45.35,Lentils,9,116
+46.97,Almonds,21,579
+46.65,Chicken Breast,31,165
+33.09,Beef,27,250
+44.6,Whey Protein,80,400
+14.59,Peanut Butter,25,588
+10.31,Peanut Butter,25,588
+17.54,Beef,27,250
+25.54,Greek Yogurt,10,59
+39.49,Peanut Butter,25,588
+5.38,Chicken Breast,31,165
+13.26,Almonds,21,579
+19.58,Almonds,21,579
+21.32,Lentils,9,116
+40.71,Eggs,13,155
+10.33,Peanut Butter,25,588
+41.03,Lentils,9,116
+40.83,Beef,27,250
+25.86,Salmon,25,208
+44.07,Beef,27,250
+22.24,Greek Yogurt,10,59
+41.37,Tofu,8,76
+44.8,Whey Protein,80,400
+8.09,Peanut Butter,25,588
+15.27,Chicken Breast,31,165
+44.83,Tofu,8,76
+16.17,Greek Yogurt,10,59
+49.54,Chicken Breast,31,165
+49.72,Tofu,8,76
+42.14,Salmon,25,208
+11.93,Tofu,8,76
+22.42,Eggs,13,155
+16.44,Eggs,13,155
+7.52,Greek Yogurt,10,59
+30.35,Whey Protein,80,400
+27.51,Salmon,25,208
+10.11,Lentils,9,116
+27.7,Greek Yogurt,10,59
+6.45,Eggs,13,155
+8.94,Tofu,8,76
+36.29,Eggs,13,155
+12.04,Greek Yogurt,10,59
+25.02,Salmon,25,208
+47.16,Almonds,21,579
+26.73,Whey Protein,80,400
+17.67,Eggs,13,155
+34.95,Lentils,9,116
+28.02,Salmon,25,208
+26.33,Whey Protein,80,400
+19.46,Almonds,21,579
+29.91,Whey Protein,80,400
+32.6,Whey Protein,80,400
+28.53,Greek Yogurt,10,59
+21.4,Almonds,21,579
+13.39,Lentils,9,116
+24.76,Whey Protein,80,400
+17.36,Chicken Breast,31,165
+34.69,Peanut Butter,25,588
+11.2,Tofu,8,76
+19.88,Eggs,13,155
+43.07,Peanut Butter,25,588
+24.76,Eggs,13,155
+31.29,Greek Yogurt,10,59
+43.83,Almonds,21,579
+5.47,Greek Yogurt,10,59
+6.71,Beef,27,250
+43.11,Whey Protein,80,400
+43.79,Peanut Butter,25,588
+49.93,Greek Yogurt,10,59
+28.32,Peanut Butter,25,588
+15.55,Peanut Butter,25,588
+20.56,Tofu,8,76
+29.28,Beef,27,250
+30.02,Beef,27,250
+42.79,Peanut Butter,25,588
+40.03,Peanut Butter,25,588
+22.74,Salmon,25,208
+46.88,Greek Yogurt,10,59
+36.14,Greek Yogurt,10,59
+49.54,Tofu,8,76
+29.94,Beef,27,250
+18.5,Almonds,21,579
+48.14,Chicken Breast,31,165
+27.32,Tofu,8,76
+36.8,Tofu,8,76
+9.98,Lentils,9,116
+6.48,Almonds,21,579
+44.68,Eggs,13,155
+26.51,Greek Yogurt,10,59
+24.96,Beef,27,250
+11.66,Eggs,13,155
+5.41,Beef,27,250
+31.47,Eggs,13,155
+20.39,Tofu,8,76
+46.2,Almonds,21,579
+17.92,Eggs,13,155
+23.28,Almonds,21,579
+27.42,Eggs,13,155
+42.39,Chicken Breast,31,165
+34.2,Greek Yogurt,10,59
+45.24,Beef,27,250
+41.4,Lentils,9,116
+34.85,Chicken Breast,31,165
+38.25,Peanut Butter,25,588
+33.74,Almonds,21,579
+47.71,Beef,27,250
+14.23,Whey Protein,80,400
+19.18,Eggs,13,155
+34.96,Almonds,21,579
+27.69,Almonds,21,579
+9.07,Almonds,21,579
+29.55,Eggs,13,155
+18.26,Beef,27,250
+33.1,Tofu,8,76
+49.56,Peanut Butter,25,588
+22.83,Chicken Breast,31,165
+27.4,Salmon,25,208
+23.52,Salmon,25,208
+42.43,Eggs,13,155
+44.48,Almonds,21,579
+10.23,Greek Yogurt,10,59
+40.61,Eggs,13,155
+18.58,Almonds,21,579
+42.44,Beef,27,250
+49.35,Chicken Breast,31,165
+47.3,Whey Protein,80,400
+18.91,Whey Protein,80,400
+33.42,Lentils,9,116
+48.59,Whey Protein,80,400
+38.02,Salmon,25,208
+36.65,Chicken Breast,31,165
+14.65,Tofu,8,76
+31.19,Almonds,21,579
+13.56,Eggs,13,155
+45.83,Chicken Breast,31,165
+21.23,Almonds,21,579
+9.55,Peanut Butter,25,588
+22.57,Chicken Breast,31,165
+9.0,Peanut Butter,25,588
+31.17,Eggs,13,155
+38.59,Lentils,9,116
+42.95,Peanut Butter,25,588
+16.87,Lentils,9,116
+30.57,Tofu,8,76
+13.57,Greek Yogurt,10,59
+19.67,Chicken Breast,31,165
+5.04,Eggs,13,155
+32.71,Whey Protein,80,400
+29.72,Eggs,13,155
+22.5,Peanut Butter,25,588
+9.26,Almonds,21,579
+47.86,Tofu,8,76
+22.36,Tofu,8,76
+12.79,Lentils,9,116
+26.2,Chicken Breast,31,165
+22.01,Beef,27,250
+27.62,Lentils,9,116
+40.12,Chicken Breast,31,165
+24.19,Whey Protein,80,400
+21.71,Tofu,8,76
+29.34,Tofu,8,76
+14.61,Tofu,8,76
+21.1,Tofu,8,76
+8.3,Beef,27,250
+32.75,Greek Yogurt,10,59
+5.52,Chicken Breast,31,165
+44.85,Peanut Butter,25,588
+32.67,Beef,27,250
+22.8,Peanut Butter,25,588
+37.71,Chicken Breast,31,165
+30.72,Peanut Butter,25,588
+45.76,Greek Yogurt,10,59
+38.34,Beef,27,250
+15.71,Eggs,13,155
+35.94,Eggs,13,155
+7.31,Lentils,9,116
+46.91,Whey Protein,80,400
+17.34,Beef,27,250
+41.9,Tofu,8,76
+27.52,Peanut Butter,25,588
+31.53,Beef,27,250
+41.82,Almonds,21,579
+33.86,Eggs,13,155
+33.71,Whey Protein,80,400
+8.0,Chicken Breast,31,165
+27.29,Whey Protein,80,400
+45.83,Tofu,8,76
+26.09,Eggs,13,155
+29.02,Lentils,9,116
+48.69,Almonds,21,579
+14.12,Eggs,13,155
+9.64,Chicken Breast,31,165
+33.99,Almonds,21,579
+22.62,Almonds,21,579
+20.27,Chicken Breast,31,165
+13.86,Beef,27,250
+22.1,Peanut Butter,25,588
+16.26,Salmon,25,208
+45.5,Beef,27,250
+32.22,Eggs,13,155
+28.49,Eggs,13,155
+23.39,Peanut Butter,25,588
+14.19,Eggs,13,155
+9.86,Beef,27,250
+46.76,Tofu,8,76
+10.5,Chicken Breast,31,165
+21.62,Chicken Breast,31,165
+5.01,Beef,27,250
+33.62,Peanut Butter,25,588
+36.58,Lentils,9,116
+23.1,Whey Protein,80,400
+41.59,Almonds,21,579
+39.65,Tofu,8,76
+11.33,Peanut Butter,25,588
+9.54,Tofu,8,76
+5.95,Eggs,13,155
+7.33,Greek Yogurt,10,59
+23.53,Lentils,9,116
+13.53,Whey Protein,80,400
+8.76,Greek Yogurt,10,59
+31.27,Lentils,9,116
+11.66,Salmon,25,208
+28.13,Tofu,8,76
+16.37,Greek Yogurt,10,59
+44.87,Eggs,13,155
+19.0,Tofu,8,76
+12.3,Beef,27,250
+44.0,Peanut Butter,25,588
+30.47,Almonds,21,579
+42.35,Lentils,9,116
+10.99,Tofu,8,76
+33.06,Almonds,21,579
+17.15,Tofu,8,76
+36.46,Chicken Breast,31,165
+7.07,Peanut Butter,25,588
+10.62,Lentils,9,116
+48.79,Lentils,9,116
+21.09,Beef,27,250
+27.68,Salmon,25,208
+35.81,Chicken Breast,31,165
+47.93,Beef,27,250
+5.91,Salmon,25,208
+5.88,Whey Protein,80,400
+47.94,Tofu,8,76
+27.52,Salmon,25,208
+36.52,Whey Protein,80,400
+17.68,Lentils,9,116
+37.4,Lentils,9,116
+6.11,Salmon,25,208
+16.67,Salmon,25,208
+25.88,Salmon,25,208
+49.32,Beef,27,250
+13.31,Greek Yogurt,10,59
+20.22,Lentils,9,116
+45.44,Peanut Butter,25,588
+18.75,Tofu,8,76
+39.92,Peanut Butter,25,588
+39.88,Whey Protein,80,400
+32.68,Tofu,8,76
+39.26,Beef,27,250
+22.05,Almonds,21,579
+43.38,Almonds,21,579
+16.31,Whey Protein,80,400
+10.53,Chicken Breast,31,165
+25.86,Peanut Butter,25,588
+31.77,Tofu,8,76
+22.39,Chicken Breast,31,165
+27.54,Chicken Breast,31,165
+22.0,Chicken Breast,31,165
+42.81,Salmon,25,208
+37.08,Whey Protein,80,400
+9.96,Chicken Breast,31,165
+5.08,Greek Yogurt,10,59
+34.69,Whey Protein,80,400
+32.23,Almonds,21,579
+41.85,Lentils,9,116
+12.85,Eggs,13,155
+5.93,Beef,27,250
+25.74,Beef,27,250
+27.48,Salmon,25,208
+34.92,Eggs,13,155
+31.99,Greek Yogurt,10,59
+6.79,Almonds,21,579
+46.3,Beef,27,250
+43.15,Whey Protein,80,400
+36.51,Peanut Butter,25,588
+28.83,Almonds,21,579
+26.01,Greek Yogurt,10,59
+36.86,Eggs,13,155
+12.78,Peanut Butter,25,588
+11.91,Eggs,13,155
+17.44,Beef,27,250
+19.14,Tofu,8,76
+20.67,Whey Protein,80,400
+22.69,Beef,27,250
+48.52,Eggs,13,155
+30.5,Chicken Breast,31,165
+8.6,Beef,27,250
+18.14,Greek Yogurt,10,59
+10.61,Greek Yogurt,10,59
+28.3,Tofu,8,76
+49.19,Tofu,8,76
+28.98,Peanut Butter,25,588
+16.47,Chicken Breast,31,165
+22.12,Tofu,8,76
+40.17,Beef,27,250
+16.8,Greek Yogurt,10,59
+10.04,Greek Yogurt,10,59
+32.86,Salmon,25,208
+14.1,Eggs,13,155
+8.01,Greek Yogurt,10,59
+26.21,Beef,27,250
+35.16,Whey Protein,80,400
+27.47,Eggs,13,155
+6.21,Peanut Butter,25,588
+16.95,Beef,27,250
+6.83,Eggs,13,155
+42.16,Salmon,25,208
+13.91,Almonds,21,579
+38.4,Tofu,8,76
+39.28,Greek Yogurt,10,59
+40.93,Whey Protein,80,400
+47.38,Beef,27,250
+31.54,Chicken Breast,31,165
+48.8,Chicken Breast,31,165
+14.43,Chicken Breast,31,165
+43.24,Almonds,21,579
+21.63,Peanut Butter,25,588
+42.23,Tofu,8,76
+13.74,Eggs,13,155
+48.16,Whey Protein,80,400
+44.38,Greek Yogurt,10,59
+20.54,Salmon,25,208
+42.49,Lentils,9,116
+10.18,Almonds,21,579
+38.19,Chicken Breast,31,165
+11.73,Eggs,13,155
+21.0,Eggs,13,155
+13.47,Beef,27,250
+23.18,Salmon,25,208
+11.04,Chicken Breast,31,165
+22.93,Beef,27,250
+25.66,Salmon,25,208
+30.44,Salmon,25,208
+28.25,Peanut Butter,25,588
+31.62,Beef,27,250
+9.89,Tofu,8,76
+39.71,Salmon,25,208
+13.98,Eggs,13,155
+40.87,Peanut Butter,25,588
+44.11,Salmon,25,208
+13.82,Peanut Butter,25,588
+25.95,Whey Protein,80,400
+18.34,Chicken Breast,31,165
+44.3,Salmon,25,208
+48.67,Salmon,25,208
+31.41,Tofu,8,76
+7.73,Almonds,21,579
+11.51,Chicken Breast,31,165
+28.01,Lentils,9,116
+41.6,Almonds,21,579
+25.93,Beef,27,250
+48.64,Peanut Butter,25,588
+19.81,Almonds,21,579
+27.44,Salmon,25,208
+46.94,Salmon,25,208
+34.73,Salmon,25,208
+8.94,Beef,27,250
+17.95,Almonds,21,579
+46.27,Eggs,13,155
+30.57,Salmon,25,208
+45.61,Salmon,25,208
+42.52,Eggs,13,155
+46.13,Tofu,8,76
+28.68,Tofu,8,76
+44.56,Tofu,8,76
+31.71,Lentils,9,116
+39.29,Peanut Butter,25,588
+18.62,Eggs,13,155
+17.04,Almonds,21,579
+26.98,Greek Yogurt,10,59
+6.2,Whey Protein,80,400
+15.11,Salmon,25,208
+25.56,Eggs,13,155
+20.97,Almonds,21,579
+17.33,Peanut Butter,25,588
+39.49,Eggs,13,155
+21.02,Beef,27,250
+21.75,Peanut Butter,25,588
+26.77,Beef,27,250
+19.67,Salmon,25,208
+24.62,Almonds,21,579
+24.2,Tofu,8,76
+24.11,Lentils,9,116
+17.03,Salmon,25,208
+49.92,Salmon,25,208
+48.39,Greek Yogurt,10,59
+19.72,Beef,27,250
+46.82,Eggs,13,155
+8.86,Tofu,8,76
+38.03,Almonds,21,579
+16.03,Peanut Butter,25,588
+48.78,Almonds,21,579
+15.25,Greek Yogurt,10,59
+37.53,Beef,27,250
+30.87,Beef,27,250
+49.04,Peanut Butter,25,588
+5.05,Peanut Butter,25,588
+37.7,Whey Protein,80,400
+45.01,Lentils,9,116
+20.69,Eggs,13,155
+31.42,Greek Yogurt,10,59
+48.41,Lentils,9,116
+48.63,Greek Yogurt,10,59
+31.34,Chicken Breast,31,165
+44.35,Tofu,8,76
+26.34,Peanut Butter,25,588
+18.97,Beef,27,250
+13.18,Chicken Breast,31,165
+10.8,Chicken Breast,31,165
+46.89,Eggs,13,155
+42.68,Chicken Breast,31,165
+42.77,Lentils,9,116
+22.16,Whey Protein,80,400
+42.88,Lentils,9,116
+27.18,Salmon,25,208
+18.06,Peanut Butter,25,588
+37.75,Tofu,8,76
+27.08,Tofu,8,76
+9.88,Salmon,25,208
+22.95,Eggs,13,155
+43.47,Salmon,25,208
+47.16,Whey Protein,80,400
+23.81,Tofu,8,76
+35.89,Beef,27,250
+37.31,Eggs,13,155
+44.05,Whey Protein,80,400
+11.94,Greek Yogurt,10,59
+10.31,Salmon,25,208
+37.81,Whey Protein,80,400
+23.05,Greek Yogurt,10,59
+48.25,Eggs,13,155
+44.14,Whey Protein,80,400
+44.03,Eggs,13,155
+39.77,Lentils,9,116
+32.94,Salmon,25,208
+14.94,Tofu,8,76
+23.27,Chicken Breast,31,165
+24.45,Salmon,25,208
+12.85,Almonds,21,579
+45.64,Beef,27,250
+35.87,Lentils,9,116
+11.54,Peanut Butter,25,588
+22.01,Almonds,21,579
+34.21,Lentils,9,116
+16.15,Eggs,13,155
+23.91,Whey Protein,80,400
+20.84,Beef,27,250
+33.31,Lentils,9,116
+9.09,Lentils,9,116
+34.49,Peanut Butter,25,588
+42.42,Peanut Butter,25,588
+17.61,Chicken Breast,31,165
+35.45,Lentils,9,116
+16.92,Eggs,13,155
+20.23,Tofu,8,76
+11.44,Salmon,25,208
+14.99,Lentils,9,116
+9.44,Peanut Butter,25,588
+44.35,Chicken Breast,31,165
+6.97,Almonds,21,579
+14.57,Lentils,9,116
+20.62,Lentils,9,116
+9.06,Greek Yogurt,10,59
+17.73,Peanut Butter,25,588
+47.64,Beef,27,250
+29.23,Salmon,25,208
+43.24,Peanut Butter,25,588
+22.44,Salmon,25,208
+38.48,Whey Protein,80,400
+14.34,Greek Yogurt,10,59
+31.03,Beef,27,250
+47.16,Almonds,21,579
+18.34,Almonds,21,579
+6.82,Beef,27,250
+16.47,Beef,27,250
+48.13,Tofu,8,76
+38.78,Eggs,13,155
+27.77,Chicken Breast,31,165
+8.52,Chicken Breast,31,165
+22.72,Whey Protein,80,400
+5.1,Salmon,25,208
+11.92,Almonds,21,579
+25.98,Eggs,13,155
+41.63,Peanut Butter,25,588
+7.26,Chicken Breast,31,165
+15.96,Peanut Butter,25,588
+48.75,Tofu,8,76
+7.64,Salmon,25,208
+5.79,Eggs,13,155
+37.13,Beef,27,250
+27.97,Whey Protein,80,400
+8.05,Peanut Butter,25,588
+40.92,Almonds,21,579
+7.21,Whey Protein,80,400
+48.75,Whey Protein,80,400
+15.05,Salmon,25,208
+16.64,Almonds,21,579
+11.29,Peanut Butter,25,588
+8.66,Chicken Breast,31,165
+46.22,Chicken Breast,31,165
+30.67,Whey Protein,80,400
+30.27,Greek Yogurt,10,59
+25.79,Almonds,21,579
+31.57,Lentils,9,116
+33.57,Whey Protein,80,400
+48.71,Lentils,9,116
+42.6,Tofu,8,76
+16.97,Peanut Butter,25,588
+22.51,Tofu,8,76
+37.84,Eggs,13,155
+18.24,Lentils,9,116
+34.93,Peanut Butter,25,588
+42.76,Almonds,21,579
+40.5,Peanut Butter,25,588
+19.42,Whey Protein,80,400
+9.19,Greek Yogurt,10,59
+38.38,Lentils,9,116
+7.37,Greek Yogurt,10,59
+25.02,Whey Protein,80,400
+11.79,Greek Yogurt,10,59
+16.26,Whey Protein,80,400
+40.9,Almonds,21,579
+42.53,Peanut Butter,25,588
+15.25,Lentils,9,116
+34.1,Lentils,9,116
+15.62,Almonds,21,579
+16.2,Lentils,9,116
+30.79,Beef,27,250
+5.78,Almonds,21,579
+5.22,Almonds,21,579
+22.69,Almonds,21,579
+8.62,Peanut Butter,25,588
+18.22,Beef,27,250
+11.31,Beef,27,250
+6.54,Tofu,8,76
+5.16,Salmon,25,208
+31.36,Whey Protein,80,400
+18.92,Greek Yogurt,10,59
+48.66,Lentils,9,116
+49.79,Greek Yogurt,10,59
+38.51,Eggs,13,155
+22.23,Peanut Butter,25,588
+35.95,Almonds,21,579
+16.3,Greek Yogurt,10,59
+23.56,Lentils,9,116
+18.57,Tofu,8,76
+31.74,Greek Yogurt,10,59
+42.19,Eggs,13,155
+6.65,Lentils,9,116
+30.39,Chicken Breast,31,165
+15.18,Beef,27,250
+45.43,Chicken Breast,31,165
+45.53,Lentils,9,116
+45.76,Peanut Butter,25,588
+37.42,Eggs,13,155
+47.54,Beef,27,250
+40.52,Whey Protein,80,400
+32.19,Peanut Butter,25,588
+18.99,Lentils,9,116
+42.47,Eggs,13,155
+20.03,Greek Yogurt,10,59
+37.01,Greek Yogurt,10,59
+25.04,Eggs,13,155
+36.79,Peanut Butter,25,588
+8.82,Almonds,21,579
+6.2,Lentils,9,116
+6.78,Lentils,9,116
+48.61,Salmon,25,208
+7.3,Eggs,13,155
+23.09,Eggs,13,155
+6.97,Beef,27,250
+14.27,Chicken Breast,31,165
+42.53,Eggs,13,155
+41.19,Almonds,21,579
+18.48,Peanut Butter,25,588
+13.99,Whey Protein,80,400
+19.23,Salmon,25,208
+10.49,Lentils,9,116
+12.41,Lentils,9,116
+22.35,Peanut Butter,25,588
+29.13,Tofu,8,76
+48.66,Peanut Butter,25,588
+47.68,Salmon,25,208
+26.43,Greek Yogurt,10,59
+38.75,Lentils,9,116
+17.27,Salmon,25,208
+33.86,Whey Protein,80,400
+14.26,Almonds,21,579
+23.08,Lentils,9,116
+30.85,Almonds,21,579
+9.37,Beef,27,250
+48.53,Salmon,25,208
+14.69,Eggs,13,155
+38.6,Greek Yogurt,10,59
+44.03,Peanut Butter,25,588
+12.2,Greek Yogurt,10,59
+33.51,Lentils,9,116
+23.61,Eggs,13,155
+43.24,Tofu,8,76
+29.63,Peanut Butter,25,588
+35.37,Tofu,8,76
+6.87,Tofu,8,76
+34.47,Salmon,25,208
+24.69,Salmon,25,208
+36.99,Almonds,21,579
+22.45,Whey Protein,80,400
+42.82,Almonds,21,579
+25.71,Tofu,8,76
+47.27,Salmon,25,208
+36.71,Tofu,8,76
+39.33,Peanut Butter,25,588
+46.94,Salmon,25,208
+28.3,Lentils,9,116
+27.73,Tofu,8,76
+18.43,Eggs,13,155
+5.45,Chicken Breast,31,165
+49.6,Greek Yogurt,10,59
+41.33,Greek Yogurt,10,59
+36.98,Whey Protein,80,400
+31.01,Tofu,8,76
+46.24,Greek Yogurt,10,59
+26.74,Eggs,13,155
+43.02,Lentils,9,116
+40.71,Almonds,21,579
+18.95,Lentils,9,116
+42.7,Eggs,13,155
+19.06,Chicken Breast,31,165
+33.04,Chicken Breast,31,165
+25.78,Chicken Breast,31,165
+28.84,Beef,27,250
+21.29,Salmon,25,208
+32.43,Almonds,21,579
+32.25,Almonds,21,579
+46.37,Beef,27,250
+5.4,Whey Protein,80,400
+41.39,Lentils,9,116
+7.26,Peanut Butter,25,588
+6.63,Lentils,9,116
+38.81,Eggs,13,155
+24.23,Whey Protein,80,400
+34.2,Salmon,25,208
+29.24,Salmon,25,208
+44.87,Greek Yogurt,10,59
+24.93,Eggs,13,155
+31.74,Whey Protein,80,400
+10.17,Almonds,21,579
+21.57,Peanut Butter,25,588
+36.55,Eggs,13,155
+30.13,Tofu,8,76
+21.78,Chicken Breast,31,165
+46.46,Eggs,13,155
+27.25,Tofu,8,76
+49.61,Lentils,9,116
+24.49,Chicken Breast,31,165
+48.84,Chicken Breast,31,165
+5.17,Tofu,8,76
+15.61,Almonds,21,579
+49.36,Eggs,13,155
+9.36,Salmon,25,208
+9.02,Peanut Butter,25,588
+13.88,Lentils,9,116
+8.56,Almonds,21,579
+13.87,Chicken Breast,31,165
+40.5,Salmon,25,208
+42.79,Tofu,8,76
+12.35,Eggs,13,155
+13.34,Almonds,21,579
+33.31,Greek Yogurt,10,59
+29.23,Greek Yogurt,10,59
+6.05,Almonds,21,579
+7.85,Lentils,9,116
+38.25,Chicken Breast,31,165
+13.36,Lentils,9,116
+42.69,Eggs,13,155
+29.93,Peanut Butter,25,588
+36.71,Greek Yogurt,10,59
+8.19,Eggs,13,155
+35.69,Beef,27,250
+34.53,Greek Yogurt,10,59
+26.45,Whey Protein,80,400
+43.6,Almonds,21,579
+33.91,Almonds,21,579
+45.89,Salmon,25,208
+28.73,Chicken Breast,31,165
+8.99,Greek Yogurt,10,59
+16.84,Salmon,25,208
+43.19,Beef,27,250
+48.92,Beef,27,250
+37.74,Whey Protein,80,400
+25.57,Lentils,9,116
+44.29,Peanut Butter,25,588
+13.65,Whey Protein,80,400
+20.07,Tofu,8,76
+49.31,Chicken Breast,31,165
+22.26,Whey Protein,80,400
+26.02,Tofu,8,76
+47.37,Chicken Breast,31,165
+17.34,Salmon,25,208
+20.06,Peanut Butter,25,588
+16.75,Beef,27,250
+24.14,Lentils,9,116
+8.41,Beef,27,250
+28.0,Whey Protein,80,400
+28.89,Peanut Butter,25,588
+6.9,Tofu,8,76
+49.45,Beef,27,250
+14.07,Almonds,21,579
+44.67,Peanut Butter,25,588
+33.68,Beef,27,250
+41.6,Beef,27,250
+19.41,Greek Yogurt,10,59
+40.31,Eggs,13,155
+42.68,Greek Yogurt,10,59
+26.41,Beef,27,250
+8.58,Lentils,9,116
+26.97,Salmon,25,208
+46.1,Chicken Breast,31,165
+38.82,Almonds,21,579
+46.95,Tofu,8,76
+41.89,Whey Protein,80,400
+6.96,Chicken Breast,31,165
+22.24,Almonds,21,579
+38.7,Almonds,21,579
+32.1,Chicken Breast,31,165
+12.52,Eggs,13,155
+12.99,Lentils,9,116
+24.05,Eggs,13,155
+36.71,Whey Protein,80,400
+17.26,Eggs,13,155
+46.61,Tofu,8,76
+33.89,Peanut Butter,25,588
+37.63,Tofu,8,76
+39.09,Almonds,21,579
+29.98,Tofu,8,76
+20.93,Peanut Butter,25,588
+7.27,Peanut Butter,25,588
+37.17,Chicken Breast,31,165
+45.34,Salmon,25,208
+34.3,Almonds,21,579
+23.07,Peanut Butter,25,588
+37.32,Beef,27,250
+7.88,Peanut Butter,25,588
+32.01,Beef,27,250
+5.37,Almonds,21,579
+8.73,Tofu,8,76
+34.38,Chicken Breast,31,165
+38.49,Tofu,8,76
+14.58,Tofu,8,76
+24.13,Almonds,21,579
+27.29,Eggs,13,155
+10.38,Chicken Breast,31,165
+14.08,Greek Yogurt,10,59
+28.73,Salmon,25,208
+8.85,Greek Yogurt,10,59
+24.52,Greek Yogurt,10,59
+21.54,Lentils,9,116
+6.11,Salmon,25,208
+41.15,Salmon,25,208
+18.75,Lentils,9,116
+28.16,Beef,27,250
+36.27,Beef,27,250
+40.34,Whey Protein,80,400
+29.92,Lentils,9,116
+24.51,Tofu,8,76
+33.67,Almonds,21,579
+8.78,Lentils,9,116
+43.16,Salmon,25,208
+16.45,Salmon,25,208
+47.79,Eggs,13,155
+21.51,Tofu,8,76
+37.58,Whey Protein,80,400
+9.28,Salmon,25,208
+17.24,Chicken Breast,31,165
+11.62,Whey Protein,80,400
+39.98,Eggs,13,155
+40.17,Whey Protein,80,400
+31.34,Lentils,9,116
+16.05,Eggs,13,155
+16.56,Beef,27,250
+5.55,Greek Yogurt,10,59
+43.75,Salmon,25,208
+29.48,Almonds,21,579
+44.99,Peanut Butter,25,588
+30.58,Chicken Breast,31,165
+20.11,Almonds,21,579
+40.25,Beef,27,250
+16.72,Salmon,25,208
+39.79,Chicken Breast,31,165
+40.09,Tofu,8,76
+37.85,Greek Yogurt,10,59
+14.54,Lentils,9,116
+16.78,Almonds,21,579
+20.3,Greek Yogurt,10,59
+11.31,Chicken Breast,31,165
+9.08,Eggs,13,155
+25.32,Almonds,21,579
+21.72,Beef,27,250
+38.75,Peanut Butter,25,588
+16.33,Greek Yogurt,10,59
+33.23,Chicken Breast,31,165
+24.47,Lentils,9,116
+37.96,Peanut Butter,25,588
+37.01,Chicken Breast,31,165
+39.37,Tofu,8,76
+41.39,Greek Yogurt,10,59
+40.26,Greek Yogurt,10,59
+37.19,Peanut Butter,25,588
+19.03,Peanut Butter,25,588
+40.15,Greek Yogurt,10,59
+32.51,Eggs,13,155
+48.7,Beef,27,250
+18.74,Greek Yogurt,10,59
+8.56,Peanut Butter,25,588
+9.98,Beef,27,250
+7.39,Almonds,21,579
+16.13,Eggs,13,155
+37.13,Beef,27,250
+36.69,Peanut Butter,25,588
+10.93,Chicken Breast,31,165
+10.89,Salmon,25,208
+35.72,Beef,27,250
+20.95,Greek Yogurt,10,59
+43.95,Salmon,25,208
+38.44,Tofu,8,76
+44.92,Almonds,21,579
+38.46,Salmon,25,208
+13.38,Almonds,21,579
+47.75,Eggs,13,155
+33.84,Salmon,25,208
+42.07,Greek Yogurt,10,59
+8.92,Whey Protein,80,400
+40.63,Peanut Butter,25,588
+38.56,Peanut Butter,25,588
+10.91,Tofu,8,76
+31.53,Peanut Butter,25,588
+46.71,Peanut Butter,25,588
+38.41,Greek Yogurt,10,59
+33.97,Greek Yogurt,10,59
+45.58,Salmon,25,208
+43.98,Salmon,25,208
+31.87,Eggs,13,155
+41.59,Tofu,8,76
+49.57,Greek Yogurt,10,59
+14.57,Tofu,8,76
+27.25,Beef,27,250
+42.08,Lentils,9,116
+12.11,Tofu,8,76
+9.42,Peanut Butter,25,588
+39.0,Beef,27,250
+6.09,Salmon,25,208
+27.56,Greek Yogurt,10,59
+28.34,Peanut Butter,25,588
+17.46,Salmon,25,208
+28.83,Greek Yogurt,10,59
+26.84,Almonds,21,579
+6.02,Eggs,13,155
+7.34,Chicken Breast,31,165
+46.19,Almonds,21,579
+8.8,Salmon,25,208
+38.65,Lentils,9,116
+40.33,Lentils,9,116
+6.4,Tofu,8,76
+26.15,Salmon,25,208
+24.07,Beef,27,250
+47.26,Salmon,25,208
+37.58,Salmon,25,208
+26.56,Peanut Butter,25,588
+41.89,Peanut Butter,25,588
+32.99,Chicken Breast,31,165
+34.03,Chicken Breast,31,165
+9.05,Peanut Butter,25,588
+5.9,Eggs,13,155
+9.04,Whey Protein,80,400
+20.48,Eggs,13,155
+40.87,Almonds,21,579
+19.42,Chicken Breast,31,165
+44.63,Lentils,9,116
+23.28,Lentils,9,116
+27.7,Greek Yogurt,10,59
+37.68,Tofu,8,76
+19.53,Greek Yogurt,10,59
+27.73,Greek Yogurt,10,59
+41.08,Almonds,21,579
+41.43,Beef,27,250
+32.38,Greek Yogurt,10,59
+36.79,Beef,27,250
+44.08,Eggs,13,155
+45.94,Almonds,21,579
+22.74,Chicken Breast,31,165
+34.43,Beef,27,250
+48.3,Almonds,21,579
+27.39,Salmon,25,208
+20.2,Salmon,25,208
+16.4,Tofu,8,76
+18.96,Almonds,21,579
+49.43,Peanut Butter,25,588
+28.39,Peanut Butter,25,588
+13.23,Almonds,21,579
+20.7,Salmon,25,208
+17.4,Beef,27,250
+24.18,Whey Protein,80,400
+13.13,Beef,27,250
+28.95,Beef,27,250
+16.45,Eggs,13,155
+20.22,Whey Protein,80,400
+14.54,Beef,27,250
+39.96,Peanut Butter,25,588
+33.31,Lentils,9,116
+36.74,Beef,27,250
+22.16,Almonds,21,579
+25.26,Whey Protein,80,400
+6.14,Lentils,9,116
+39.12,Eggs,13,155
+27.28,Almonds,21,579
+36.41,Eggs,13,155
+6.39,Lentils,9,116
+44.36,Almonds,21,579
+25.98,Greek Yogurt,10,59
+10.51,Almonds,21,579
+12.32,Lentils,9,116
+24.75,Eggs,13,155
+35.75,Peanut Butter,25,588
+28.03,Tofu,8,76
+43.91,Lentils,9,116
+5.31,Salmon,25,208
+7.35,Salmon,25,208
+9.34,Salmon,25,208
+12.09,Salmon,25,208
+41.95,Eggs,13,155
+6.88,Greek Yogurt,10,59
+10.8,Beef,27,250
+22.27,Lentils,9,116
+42.41,Peanut Butter,25,588
+41.8,Chicken Breast,31,165
+36.87,Peanut Butter,25,588
+6.86,Peanut Butter,25,588
+48.23,Salmon,25,208
+19.97,Peanut Butter,25,588
+16.37,Lentils,9,116
+23.3,Salmon,25,208
+6.17,Lentils,9,116
+37.51,Salmon,25,208
+31.66,Tofu,8,76
+24.58,Almonds,21,579
+10.6,Almonds,21,579
+14.01,Lentils,9,116
+24.86,Chicken Breast,31,165
+7.77,Chicken Breast,31,165
+9.05,Whey Protein,80,400
+39.63,Eggs,13,155
+44.06,Tofu,8,76
+7.51,Whey Protein,80,400
+17.86,Beef,27,250
+44.61,Beef,27,250
+46.67,Beef,27,250
+11.44,Lentils,9,116
+22.94,Lentils,9,116
+23.91,Chicken Breast,31,165
+14.6,Salmon,25,208
+16.87,Tofu,8,76
+16.62,Eggs,13,155
+20.22,Chicken Breast,31,165
+49.35,Peanut Butter,25,588
+32.93,Eggs,13,155
+46.04,Salmon,25,208
+6.77,Eggs,13,155
+29.68,Beef,27,250
+41.31,Beef,27,250
+26.84,Greek Yogurt,10,59
+13.11,Salmon,25,208
+41.07,Whey Protein,80,400
+14.74,Peanut Butter,25,588
+28.19,Chicken Breast,31,165
+49.08,Whey Protein,80,400
+43.66,Peanut Butter,25,588
+22.46,Almonds,21,579
+23.13,Eggs,13,155
+19.94,Greek Yogurt,10,59
+39.25,Whey Protein,80,400
+42.76,Whey Protein,80,400
+24.23,Eggs,13,155
+41.61,Eggs,13,155
+22.0,Lentils,9,116
+9.21,Lentils,9,116
+38.62,Eggs,13,155
+38.51,Greek Yogurt,10,59
+45.57,Beef,27,250
+8.96,Tofu,8,76
+19.81,Greek Yogurt,10,59
+16.58,Eggs,13,155
+22.29,Lentils,9,116
+36.02,Tofu,8,76
+7.98,Chicken Breast,31,165
+44.03,Eggs,13,155
+37.13,Chicken Breast,31,165
+42.74,Peanut Butter,25,588
+36.51,Salmon,25,208
+34.15,Almonds,21,579
+5.42,Greek Yogurt,10,59
+49.76,Eggs,13,155
+10.28,Greek Yogurt,10,59
+46.45,Whey Protein,80,400
+14.28,Salmon,25,208
+45.14,Peanut Butter,25,588
+7.49,Salmon,25,208
+25.64,Salmon,25,208
+34.1,Greek Yogurt,10,59
+34.7,Lentils,9,116
+38.1,Almonds,21,579
+23.32,Chicken Breast,31,165
+34.99,Almonds,21,579
+6.62,Greek Yogurt,10,59
+16.19,Salmon,25,208
+21.15,Almonds,21,579
+10.92,Salmon,25,208
+22.84,Chicken Breast,31,165
+11.63,Tofu,8,76
+10.09,Tofu,8,76
+23.79,Whey Protein,80,400
+42.71,Tofu,8,76
+47.38,Almonds,21,579
+22.73,Eggs,13,155
+5.32,Lentils,9,116
+24.31,Lentils,9,116
+6.47,Chicken Breast,31,165
+24.95,Chicken Breast,31,165
+20.72,Beef,27,250
+28.44,Peanut Butter,25,588
+24.38,Peanut Butter,25,588
+8.19,Beef,27,250
+36.73,Peanut Butter,25,588
+44.86,Beef,27,250
+30.63,Eggs,13,155
+42.53,Beef,27,250
+23.7,Whey Protein,80,400
+27.8,Beef,27,250
+6.15,Beef,27,250
+6.62,Chicken Breast,31,165
+41.02,Peanut Butter,25,588
+48.12,Tofu,8,76
+25.58,Beef,27,250
+39.51,Beef,27,250
+15.31,Lentils,9,116
+36.52,Salmon,25,208
+35.28,Lentils,9,116
+49.41,Whey Protein,80,400
+15.14,Tofu,8,76
+5.45,Lentils,9,116
+43.5,Whey Protein,80,400
+42.3,Greek Yogurt,10,59
+48.77,Whey Protein,80,400
+40.25,Beef,27,250
+45.03,Tofu,8,76
+16.65,Whey Protein,80,400
+14.97,Lentils,9,116
+47.25,Tofu,8,76
+10.08,Greek Yogurt,10,59
+22.18,Almonds,21,579
+32.46,Peanut Butter,25,588
+48.47,Lentils,9,116
+17.54,Salmon,25,208
+42.7,Beef,27,250
+46.24,Almonds,21,579
+19.12,Chicken Breast,31,165
+6.88,Beef,27,250
+16.5,Whey Protein,80,400
+11.7,Almonds,21,579
+32.12,Eggs,13,155
+35.02,Almonds,21,579
+31.16,Peanut Butter,25,588
+25.96,Lentils,9,116
+37.96,Beef,27,250
+19.87,Greek Yogurt,10,59
+21.28,Lentils,9,116
+31.39,Beef,27,250
+24.03,Peanut Butter,25,588
+47.24,Almonds,21,579
+48.47,Peanut Butter,25,588
+18.54,Peanut Butter,25,588
+15.14,Salmon,25,208
+15.84,Whey Protein,80,400
+49.95,Salmon,25,208
+22.37,Salmon,25,208
+31.22,Beef,27,250
+33.83,Chicken Breast,31,165
+8.47,Almonds,21,579
+49.56,Greek Yogurt,10,59
+6.61,Peanut Butter,25,588
+5.93,Tofu,8,76
+18.32,Lentils,9,116
+32.01,Beef,27,250
+47.28,Beef,27,250
+6.1,Tofu,8,76
+47.32,Eggs,13,155
+22.24,Lentils,9,116
+19.25,Salmon,25,208
+35.78,Tofu,8,76
+15.44,Chicken Breast,31,165
+21.44,Salmon,25,208
+22.07,Greek Yogurt,10,59
+11.41,Tofu,8,76
+12.16,Almonds,21,579
+27.88,Whey Protein,80,400
+5.81,Greek Yogurt,10,59
+5.41,Almonds,21,579
+18.79,Beef,27,250
+7.18,Greek Yogurt,10,59
+35.91,Chicken Breast,31,165
+5.6,Eggs,13,155
+36.7,Chicken Breast,31,165
+45.91,Salmon,25,208
+15.41,Eggs,13,155
+32.16,Salmon,25,208
+31.75,Tofu,8,76
+9.13,Whey Protein,80,400
+11.61,Greek Yogurt,10,59
+48.2,Almonds,21,579
+39.08,Tofu,8,76
+28.49,Beef,27,250
+23.4,Eggs,13,155
+28.58,Tofu,8,76
+18.32,Lentils,9,116
+13.35,Whey Protein,80,400
+30.69,Peanut Butter,25,588
+12.1,Peanut Butter,25,588
+32.47,Greek Yogurt,10,59
+30.64,Lentils,9,116
+33.89,Tofu,8,76
+25.66,Whey Protein,80,400
+15.75,Salmon,25,208
+23.72,Eggs,13,155
+17.32,Beef,27,250
+46.06,Tofu,8,76
+33.63,Lentils,9,116
+26.05,Chicken Breast,31,165
+29.41,Almonds,21,579
+27.37,Peanut Butter,25,588
+31.72,Whey Protein,80,400
+27.88,Lentils,9,116
+44.4,Whey Protein,80,400
+28.19,Tofu,8,76
+7.9,Lentils,9,116
+45.71,Peanut Butter,25,588
+5.55,Almonds,21,579
+42.28,Lentils,9,116
+43.8,Chicken Breast,31,165
+16.52,Greek Yogurt,10,59
+9.11,Beef,27,250
+23.13,Eggs,13,155
+25.04,Lentils,9,116
+29.62,Salmon,25,208
+48.54,Beef,27,250
+6.51,Salmon,25,208
+42.19,Chicken Breast,31,165
+5.64,Lentils,9,116
+46.98,Beef,27,250
+44.46,Lentils,9,116
+6.8,Greek Yogurt,10,59
+30.78,Peanut Butter,25,588
+27.45,Tofu,8,76
+8.77,Lentils,9,116
+35.95,Beef,27,250
+40.61,Lentils,9,116
+48.89,Beef,27,250
+14.42,Chicken Breast,31,165
+15.76,Eggs,13,155
+31.11,Whey Protein,80,400
+24.22,Salmon,25,208
+7.08,Chicken Breast,31,165
+6.47,Tofu,8,76
+24.64,Peanut Butter,25,588
+28.63,Tofu,8,76
+49.39,Beef,27,250
+16.03,Salmon,25,208
+17.63,Beef,27,250
+28.04,Peanut Butter,25,588
+24.8,Whey Protein,80,400
+25.85,Eggs,13,155
+25.28,Eggs,13,155
+13.62,Tofu,8,76
+19.58,Chicken Breast,31,165
+27.72,Whey Protein,80,400
+10.89,Eggs,13,155
+33.2,Salmon,25,208
+38.11,Chicken Breast,31,165
+25.21,Lentils,9,116
+17.13,Tofu,8,76
+45.98,Almonds,21,579
+38.86,Peanut Butter,25,588
+43.01,Eggs,13,155
+39.04,Greek Yogurt,10,59
+21.81,Beef,27,250
+26.23,Almonds,21,579
+10.1,Greek Yogurt,10,59
+33.72,Almonds,21,579
+34.22,Lentils,9,116
+46.86,Peanut Butter,25,588
+20.82,Lentils,9,116
+6.41,Tofu,8,76
+29.64,Whey Protein,80,400
+18.77,Eggs,13,155
+20.57,Salmon,25,208
+44.61,Greek Yogurt,10,59
+13.49,Peanut Butter,25,588
+5.62,Peanut Butter,25,588
+9.66,Whey Protein,80,400
+46.06,Greek Yogurt,10,59
+7.84,Salmon,25,208
+47.09,Whey Protein,80,400
+10.97,Tofu,8,76
+29.66,Lentils,9,116
+38.5,Eggs,13,155
+31.26,Tofu,8,76
+30.16,Peanut Butter,25,588
+30.68,Greek Yogurt,10,59
+17.42,Whey Protein,80,400
+41.83,Lentils,9,116
+22.24,Almonds,21,579
+6.98,Eggs,13,155
+8.59,Eggs,13,155
+47.43,Whey Protein,80,400
+18.2,Eggs,13,155
+38.67,Peanut Butter,25,588
+15.55,Lentils,9,116
+48.07,Salmon,25,208
+14.86,Beef,27,250
+22.95,Salmon,25,208
+35.44,Salmon,25,208
+16.84,Whey Protein,80,400
+9.6,Whey Protein,80,400
+25.28,Salmon,25,208
+46.9,Lentils,9,116
+42.56,Chicken Breast,31,165
+35.11,Beef,27,250
+16.07,Peanut Butter,25,588
+15.53,Tofu,8,76
+38.32,Salmon,25,208
+19.46,Beef,27,250
+47.73,Eggs,13,155
+9.5,Whey Protein,80,400
+17.76,Chicken Breast,31,165
+26.66,Tofu,8,76
+31.45,Salmon,25,208
+24.99,Lentils,9,116
+46.27,Salmon,25,208
+8.8,Greek Yogurt,10,59
+45.91,Peanut Butter,25,588
+38.77,Tofu,8,76
+37.2,Eggs,13,155
+14.17,Lentils,9,116
+11.13,Chicken Breast,31,165
+43.79,Beef,27,250
+25.13,Salmon,25,208
+37.11,Peanut Butter,25,588
+34.24,Almonds,21,579
+19.03,Chicken Breast,31,165
+30.37,Eggs,13,155
+19.8,Peanut Butter,25,588
+20.04,Eggs,13,155
+42.15,Peanut Butter,25,588
+14.26,Tofu,8,76
+28.31,Lentils,9,116
+42.93,Eggs,13,155
+6.19,Whey Protein,80,400
+39.54,Chicken Breast,31,165
+6.75,Salmon,25,208
+20.23,Lentils,9,116
+10.1,Almonds,21,579
+25.18,Tofu,8,76
+15.87,Beef,27,250
+18.89,Tofu,8,76
+35.44,Peanut Butter,25,588
+5.22,Peanut Butter,25,588
+33.5,Beef,27,250
+17.77,Eggs,13,155
+40.59,Salmon,25,208
+33.37,Salmon,25,208
+45.58,Almonds,21,579
+21.6,Almonds,21,579
+18.52,Whey Protein,80,400
+18.01,Eggs,13,155
+18.76,Whey Protein,80,400
+18.33,Salmon,25,208
+26.37,Chicken Breast,31,165
+31.29,Eggs,13,155
+41.59,Whey Protein,80,400
+19.84,Whey Protein,80,400
+19.36,Tofu,8,76
+41.98,Almonds,21,579
+41.33,Chicken Breast,31,165
+14.37,Whey Protein,80,400
+49.02,Whey Protein,80,400
+38.07,Greek Yogurt,10,59
+10.8,Lentils,9,116
+40.71,Greek Yogurt,10,59
+33.63,Whey Protein,80,400
+41.57,Beef,27,250
+21.51,Tofu,8,76
+44.64,Chicken Breast,31,165
+32.21,Almonds,21,579
+49.75,Chicken Breast,31,165
+26.64,Salmon,25,208
+19.99,Whey Protein,80,400
+46.59,Chicken Breast,31,165
+46.83,Salmon,25,208
+38.57,Peanut Butter,25,588
+24.29,Peanut Butter,25,588
+40.3,Tofu,8,76
+34.85,Eggs,13,155
+26.63,Tofu,8,76
+34.43,Lentils,9,116
+36.25,Beef,27,250
+49.34,Chicken Breast,31,165
+24.09,Beef,27,250
+24.28,Eggs,13,155
+19.87,Almonds,21,579
+35.86,Greek Yogurt,10,59
+38.24,Almonds,21,579
+26.05,Beef,27,250
+48.94,Tofu,8,76
+47.2,Almonds,21,579
+20.99,Tofu,8,76
+12.64,Tofu,8,76
+25.93,Almonds,21,579
+31.68,Greek Yogurt,10,59
+25.79,Salmon,25,208
+46.54,Greek Yogurt,10,59
+8.33,Whey Protein,80,400
+33.26,Chicken Breast,31,165
+14.3,Almonds,21,579
+37.37,Whey Protein,80,400
+23.4,Whey Protein,80,400
+27.82,Lentils,9,116
+41.88,Chicken Breast,31,165
+20.41,Greek Yogurt,10,59
+25.69,Greek Yogurt,10,59
+21.9,Tofu,8,76
+28.18,Chicken Breast,31,165
+7.51,Chicken Breast,31,165
+15.55,Peanut Butter,25,588
+23.97,Eggs,13,155
+16.01,Lentils,9,116
+9.81,Almonds,21,579
+12.46,Chicken Breast,31,165
+38.9,Whey Protein,80,400
+21.79,Greek Yogurt,10,59
+38.63,Whey Protein,80,400
+21.6,Greek Yogurt,10,59
+19.33,Peanut Butter,25,588
+5.3,Greek Yogurt,10,59
+30.17,Peanut Butter,25,588
+38.22,Almonds,21,579
+26.81,Eggs,13,155
+37.6,Chicken Breast,31,165
+49.3,Whey Protein,80,400
+33.99,Almonds,21,579
+41.74,Eggs,13,155
+5.03,Eggs,13,155
+19.86,Salmon,25,208
+45.49,Chicken Breast,31,165
+31.24,Chicken Breast,31,165
+28.39,Lentils,9,116
+12.92,Greek Yogurt,10,59
+46.84,Greek Yogurt,10,59
+48.21,Almonds,21,579
+19.32,Whey Protein,80,400
+14.94,Almonds,21,579
+9.42,Beef,27,250
+25.27,Beef,27,250
+40.12,Peanut Butter,25,588
+28.31,Almonds,21,579
+17.86,Tofu,8,76
+24.64,Eggs,13,155
+29.05,Chicken Breast,31,165
+47.06,Whey Protein,80,400
+41.84,Almonds,21,579
+40.13,Beef,27,250
+35.93,Salmon,25,208
+49.71,Chicken Breast,31,165
+27.68,Almonds,21,579
+20.03,Eggs,13,155
+7.58,Tofu,8,76
+36.31,Tofu,8,76
+29.65,Chicken Breast,31,165
+24.8,Greek Yogurt,10,59
+20.36,Salmon,25,208
+32.21,Tofu,8,76
+48.61,Whey Protein,80,400
+12.71,Greek Yogurt,10,59
+48.8,Eggs,13,155
+10.93,Greek Yogurt,10,59
+7.71,Peanut Butter,25,588
+29.68,Beef,27,250
+44.98,Tofu,8,76
+40.29,Greek Yogurt,10,59
+38.86,Whey Protein,80,400
+14.57,Greek Yogurt,10,59
+46.73,Greek Yogurt,10,59
+43.81,Almonds,21,579
+29.5,Greek Yogurt,10,59
+41.76,Peanut Butter,25,588
+18.99,Tofu,8,76
+24.58,Greek Yogurt,10,59
+22.94,Beef,27,250
+32.49,Salmon,25,208
+45.59,Salmon,25,208
+35.4,Whey Protein,80,400
+40.1,Whey Protein,80,400
+27.69,Beef,27,250
+31.83,Salmon,25,208
+21.83,Greek Yogurt,10,59
+15.98,Tofu,8,76
+41.36,Greek Yogurt,10,59
+11.63,Greek Yogurt,10,59
+45.8,Peanut Butter,25,588
+48.28,Tofu,8,76
+47.07,Chicken Breast,31,165
+32.81,Peanut Butter,25,588
+22.62,Beef,27,250
+40.33,Salmon,25,208
+7.24,Tofu,8,76
+5.59,Chicken Breast,31,165
+45.45,Tofu,8,76
+11.09,Beef,27,250
+36.28,Whey Protein,80,400
+23.11,Lentils,9,116
+8.31,Peanut Butter,25,588
+28.26,Tofu,8,76
+6.62,Chicken Breast,31,165
+31.24,Almonds,21,579
+42.84,Eggs,13,155
+41.36,Greek Yogurt,10,59
+17.09,Almonds,21,579
+32.24,Lentils,9,116
+49.39,Tofu,8,76
+42.98,Whey Protein,80,400
+36.61,Whey Protein,80,400
+28.94,Chicken Breast,31,165
+9.24,Greek Yogurt,10,59
+15.26,Eggs,13,155
+5.98,Whey Protein,80,400
+12.22,Beef,27,250
+16.18,Tofu,8,76
+30.71,Peanut Butter,25,588
+40.87,Salmon,25,208
+40.1,Eggs,13,155
+19.09,Peanut Butter,25,588
+47.91,Eggs,13,155
+12.3,Greek Yogurt,10,59
+28.16,Lentils,9,116
+7.26,Salmon,25,208
+29.45,Almonds,21,579
+10.5,Beef,27,250
+9.45,Almonds,21,579
+16.12,Whey Protein,80,400
+15.07,Whey Protein,80,400
+27.63,Eggs,13,155
+16.11,Tofu,8,76
+28.55,Eggs,13,155
+14.39,Whey Protein,80,400
+24.18,Eggs,13,155
+9.88,Lentils,9,116
+47.28,Whey Protein,80,400
+34.87,Eggs,13,155
+25.77,Lentils,9,116
+45.5,Almonds,21,579
+13.5,Chicken Breast,31,165
+20.18,Whey Protein,80,400
+48.46,Whey Protein,80,400
+35.36,Chicken Breast,31,165
+6.69,Almonds,21,579
+44.98,Beef,27,250
+40.94,Beef,27,250
+40.05,Peanut Butter,25,588
+38.71,Tofu,8,76
+43.54,Peanut Butter,25,588
+10.31,Chicken Breast,31,165
+26.18,Tofu,8,76
+34.98,Whey Protein,80,400
+34.74,Lentils,9,116
+5.37,Salmon,25,208
+25.47,Whey Protein,80,400
+38.44,Eggs,13,155
+27.85,Beef,27,250
+46.94,Tofu,8,76
+29.69,Lentils,9,116
+42.09,Whey Protein,80,400
+8.58,Peanut Butter,25,588
+39.97,Greek Yogurt,10,59
+11.23,Salmon,25,208
+21.1,Whey Protein,80,400
+8.43,Greek Yogurt,10,59
+5.68,Lentils,9,116
+41.24,Almonds,21,579
+23.96,Tofu,8,76
+38.44,Whey Protein,80,400
+34.5,Almonds,21,579
+39.45,Almonds,21,579
+18.71,Chicken Breast,31,165
+14.36,Beef,27,250
+33.97,Whey Protein,80,400
+18.15,Beef,27,250
+14.32,Peanut Butter,25,588
+42.99,Tofu,8,76
+24.46,Chicken Breast,31,165
+40.25,Almonds,21,579
+6.79,Greek Yogurt,10,59
+13.16,Salmon,25,208
+47.95,Beef,27,250
+40.26,Peanut Butter,25,588
+31.69,Chicken Breast,31,165
+16.79,Beef,27,250
+39.26,Beef,27,250
+27.3,Chicken Breast,31,165
+23.85,Whey Protein,80,400
+49.79,Almonds,21,579
+29.84,Almonds,21,579
+43.46,Tofu,8,76
+31.88,Beef,27,250
+22.12,Eggs,13,155
+13.46,Peanut Butter,25,588
+49.17,Lentils,9,116
+28.19,Chicken Breast,31,165
+38.29,Greek Yogurt,10,59
+13.3,Chicken Breast,31,165
+16.82,Tofu,8,76
+22.75,Eggs,13,155
+17.26,Tofu,8,76
+31.23,Greek Yogurt,10,59
+19.04,Whey Protein,80,400
+44.67,Almonds,21,579
+32.29,Peanut Butter,25,588
+44.46,Almonds,21,579
+17.52,Tofu,8,76
+45.78,Greek Yogurt,10,59
+47.45,Almonds,21,579
+18.8,Beef,27,250
+20.94,Peanut Butter,25,588
+24.54,Tofu,8,76
+40.33,Beef,27,250
+17.59,Almonds,21,579
+37.93,Chicken Breast,31,165
+19.58,Beef,27,250
+36.94,Whey Protein,80,400
+11.72,Beef,27,250
+38.74,Tofu,8,76
+12.51,Salmon,25,208
+46.28,Salmon,25,208
+26.74,Almonds,21,579
+30.23,Beef,27,250
+15.35,Peanut Butter,25,588
+12.39,Beef,27,250
+29.13,Eggs,13,155
+15.25,Salmon,25,208
+38.03,Salmon,25,208
+13.37,Whey Protein,80,400
+9.91,Peanut Butter,25,588
+27.35,Whey Protein,80,400
+47.09,Chicken Breast,31,165
+20.94,Almonds,21,579
+25.41,Peanut Butter,25,588
+16.7,Salmon,25,208
+45.72,Peanut Butter,25,588
+45.6,Peanut Butter,25,588
+20.59,Whey Protein,80,400
+19.06,Eggs,13,155
+28.33,Whey Protein,80,400
+19.98,Lentils,9,116
+40.15,Whey Protein,80,400
+40.31,Peanut Butter,25,588
+19.44,Whey Protein,80,400
+47.85,Chicken Breast,31,165
+42.19,Almonds,21,579
+13.72,Chicken Breast,31,165
+30.29,Beef,27,250
+30.15,Lentils,9,116
+44.87,Greek Yogurt,10,59
+49.79,Lentils,9,116
+33.95,Salmon,25,208
+38.56,Almonds,21,579
+17.08,Greek Yogurt,10,59
+47.62,Peanut Butter,25,588
+40.11,Chicken Breast,31,165
+24.45,Whey Protein,80,400
+33.86,Whey Protein,80,400
+8.04,Whey Protein,80,400
+47.74,Lentils,9,116
+39.58,Greek Yogurt,10,59
+10.77,Tofu,8,76
+11.21,Whey Protein,80,400
+13.23,Beef,27,250
+7.79,Peanut Butter,25,588
+30.23,Lentils,9,116
+44.82,Whey Protein,80,400
+45.26,Chicken Breast,31,165
+18.62,Tofu,8,76
+14.68,Lentils,9,116
+15.21,Chicken Breast,31,165
+42.03,Chicken Breast,31,165
+5.54,Whey Protein,80,400
+45.23,Peanut Butter,25,588
+35.63,Beef,27,250
+33.07,Tofu,8,76
+35.15,Tofu,8,76
+23.18,Beef,27,250
+34.58,Greek Yogurt,10,59
+7.93,Whey Protein,80,400
+6.55,Salmon,25,208
+39.83,Greek Yogurt,10,59
+41.35,Chicken Breast,31,165
+35.76,Beef,27,250
+43.42,Greek Yogurt,10,59
+33.31,Almonds,21,579
+35.06,Beef,27,250
+47.8,Greek Yogurt,10,59
+45.56,Almonds,21,579
+19.19,Lentils,9,116
+13.64,Chicken Breast,31,165
+10.42,Lentils,9,116
+35.76,Peanut Butter,25,588
+43.35,Almonds,21,579
+31.78,Greek Yogurt,10,59
+14.27,Tofu,8,76
+46.38,Whey Protein,80,400
+27.32,Tofu,8,76
+37.43,Almonds,21,579
+24.56,Tofu,8,76
+33.07,Salmon,25,208
+22.24,Whey Protein,80,400
+11.1,Eggs,13,155
+7.42,Whey Protein,80,400
+32.45,Peanut Butter,25,588
+29.53,Salmon,25,208
+16.22,Lentils,9,116
+37.08,Beef,27,250
+39.78,Peanut Butter,25,588
+6.38,Eggs,13,155
+13.29,Whey Protein,80,400
+36.84,Salmon,25,208
+39.87,Chicken Breast,31,165
+47.46,Beef,27,250
+17.62,Eggs,13,155
+18.44,Tofu,8,76
+13.94,Lentils,9,116
+32.24,Eggs,13,155
+20.81,Salmon,25,208
+25.13,Greek Yogurt,10,59
+19.0,Greek Yogurt,10,59
+20.7,Salmon,25,208
+9.18,Salmon,25,208
+27.33,Whey Protein,80,400
+21.35,Beef,27,250
+36.05,Tofu,8,76
+41.56,Tofu,8,76
+36.66,Beef,27,250
+42.93,Chicken Breast,31,165
+41.42,Salmon,25,208
+9.43,Eggs,13,155
+39.01,Eggs,13,155
+10.42,Salmon,25,208
+37.41,Salmon,25,208
+49.52,Greek Yogurt,10,59
+30.08,Eggs,13,155
+38.51,Tofu,8,76
+26.69,Whey Protein,80,400
+38.34,Tofu,8,76
+28.59,Chicken Breast,31,165
+8.53,Tofu,8,76
+32.25,Peanut Butter,25,588
+12.02,Lentils,9,116
+20.94,Almonds,21,579
+43.6,Eggs,13,155
+5.45,Lentils,9,116
+24.21,Beef,27,250
+37.97,Peanut Butter,25,588
+21.75,Almonds,21,579
+22.71,Peanut Butter,25,588
+11.96,Lentils,9,116
+17.55,Whey Protein,80,400
+27.99,Salmon,25,208
+44.57,Eggs,13,155
+19.02,Whey Protein,80,400
+42.82,Chicken Breast,31,165
+6.52,Eggs,13,155
+45.41,Greek Yogurt,10,59
+34.12,Peanut Butter,25,588
+14.98,Whey Protein,80,400
+26.82,Lentils,9,116
+40.41,Greek Yogurt,10,59
+35.9,Beef,27,250
+42.36,Greek Yogurt,10,59
+12.69,Eggs,13,155
+29.44,Whey Protein,80,400
+22.8,Greek Yogurt,10,59
+41.47,Tofu,8,76
+23.78,Salmon,25,208
+15.37,Whey Protein,80,400
+47.26,Greek Yogurt,10,59
+44.31,Beef,27,250
+49.76,Tofu,8,76
+49.14,Tofu,8,76
+8.4,Greek Yogurt,10,59
+28.21,Beef,27,250
+26.13,Salmon,25,208
+18.34,Whey Protein,80,400
+42.68,Salmon,25,208
+29.2,Lentils,9,116
+22.55,Eggs,13,155
+17.33,Almonds,21,579
+32.6,Beef,27,250
+39.28,Lentils,9,116
+35.38,Almonds,21,579
+32.95,Beef,27,250
+41.59,Lentils,9,116
+28.82,Eggs,13,155
+44.49,Lentils,9,116
+32.85,Chicken Breast,31,165
+13.42,Lentils,9,116
+47.97,Eggs,13,155
+5.14,Tofu,8,76
+20.37,Whey Protein,80,400
+30.61,Greek Yogurt,10,59
+43.1,Peanut Butter,25,588
+14.45,Beef,27,250
+47.45,Eggs,13,155
+22.51,Whey Protein,80,400
+24.8,Almonds,21,579
+16.26,Almonds,21,579
+9.19,Tofu,8,76
+40.51,Peanut Butter,25,588
+13.17,Greek Yogurt,10,59
+35.91,Chicken Breast,31,165
+28.32,Chicken Breast,31,165
+12.01,Tofu,8,76
+14.44,Whey Protein,80,400
+32.03,Greek Yogurt,10,59
+9.31,Eggs,13,155
+8.99,Salmon,25,208
+42.16,Salmon,25,208
+31.17,Almonds,21,579
+40.7,Almonds,21,579
+42.24,Chicken Breast,31,165
+18.87,Tofu,8,76
+19.92,Almonds,21,579
+31.08,Peanut Butter,25,588
+32.29,Whey Protein,80,400
+43.62,Peanut Butter,25,588
+47.46,Peanut Butter,25,588
+18.38,Greek Yogurt,10,59
+5.54,Chicken Breast,31,165
+40.37,Eggs,13,155
+8.84,Tofu,8,76
+5.23,Beef,27,250
+43.27,Lentils,9,116
+17.3,Chicken Breast,31,165
+31.52,Lentils,9,116
+49.14,Peanut Butter,25,588
+10.26,Greek Yogurt,10,59
+33.32,Eggs,13,155
+29.38,Tofu,8,76
+27.8,Chicken Breast,31,165
+49.86,Beef,27,250
+29.19,Eggs,13,155
+34.62,Chicken Breast,31,165
+15.5,Tofu,8,76
+9.03,Peanut Butter,25,588
+47.36,Peanut Butter,25,588
+38.01,Peanut Butter,25,588
+41.52,Greek Yogurt,10,59
+45.59,Chicken Breast,31,165
+23.9,Peanut Butter,25,588
+48.51,Whey Protein,80,400
+45.15,Almonds,21,579
+5.03,Chicken Breast,31,165
+20.13,Peanut Butter,25,588
+47.09,Whey Protein,80,400
+42.62,Salmon,25,208
+27.35,Whey Protein,80,400
+29.3,Tofu,8,76
+18.01,Almonds,21,579
+7.42,Almonds,21,579
+31.26,Peanut Butter,25,588
+31.45,Eggs,13,155
+18.5,Salmon,25,208
+7.77,Greek Yogurt,10,59
+36.67,Chicken Breast,31,165
+45.54,Almonds,21,579
+38.17,Greek Yogurt,10,59
+41.3,Tofu,8,76
+32.67,Eggs,13,155
+11.96,Beef,27,250
+11.8,Almonds,21,579
+9.86,Tofu,8,76
+35.53,Beef,27,250
+20.84,Tofu,8,76
+6.46,Whey Protein,80,400
+25.16,Salmon,25,208
+45.34,Salmon,25,208
+10.31,Almonds,21,579
+14.3,Greek Yogurt,10,59
+8.69,Whey Protein,80,400
+34.6,Salmon,25,208
+36.39,Greek Yogurt,10,59
+43.18,Peanut Butter,25,588
+39.14,Chicken Breast,31,165
+18.31,Tofu,8,76
+30.86,Eggs,13,155
+13.74,Greek Yogurt,10,59
+40.59,Greek Yogurt,10,59
+20.67,Whey Protein,80,400
+34.64,Tofu,8,76
+20.56,Salmon,25,208
+23.99,Salmon,25,208
+8.52,Beef,27,250
+46.26,Greek Yogurt,10,59
+12.01,Peanut Butter,25,588
+6.31,Almonds,21,579
+25.28,Chicken Breast,31,165
+12.45,Chicken Breast,31,165
+46.68,Tofu,8,76
+24.65,Almonds,21,579
