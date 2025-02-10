@@ -1,0 +1,165 @@
+{% extends "base.html" %} {% block title %}Home{% endblock %}
+
+{% block content %} 
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap" rel="stylesheet">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        nav{
+            width: 100%;
+        }
+        body{
+            font-family: "Playfair Display", serif;
+            color: black;
+            min-height: 100vh;
+            background-repeat: repeat;
+            line-height: 1.6;
+            margin: 0;
+        }
+        #title{
+            font-size: 7rem;
+            font-style: normal;
+            font-weight: 500;
+            padding: 5px 5px;
+
+        }
+        h3{
+            font-size: 2rem;
+            font-style: normal;
+            font-weight: 500;
+            padding: 5px 5px;
+        }
+        .heading{
+            display: flex;
+            justify-content: center;
+            align-items:first baseline;
+        }
+        .intro-desc{
+            padding: 5px;
+            text-align: left;
+            margin: 5px 10px;
+        }
+
+        .try-product{
+            display: flex;
+            justify-content: center;
+            align-items: flex-end; 
+        }
+
+        h1{
+            margin-right: 10px;
+        }
+
+        a{
+            text-decoration: none;
+        }
+
+        @media(max-width: 450px){
+            #title{
+            font-size:  0px;
+            font-style: normal;
+            font-weight: 500;
+            padding: 5px 5px;
+            } 
+        h3{
+            font-size: 25px;
+            font-style: normal;
+            font-weight: 500;
+            padding: 5px 5px;
+            }
+        .heading{
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            width: 100%;
+            }
+        }
+
+        @media(max-width: 900px){
+            #title{
+            font-size: 5rem;
+            font-style: normal;
+            font-weight: 500;
+            padding: 5px 5px;
+        } 
+        h3{
+            font-size: 1rem;
+            font-style: normal;
+            font-weight: 500;
+            padding: 5px 5px;
+        }
+        nav{
+            width: 100%;
+        }
+        .heading{
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+        }
+
+        
+    </style>
+</head>
+<body>
+    <div class="heading">
+        <h1 id="title">Pose and Perfect</h1>
+        <h3>Yoga for One. Yoga for All</h3>
+    </div>
+    
+
+    <div class="intro-desc">
+        <h1 class="animate-character">What is Pose and Perfect?</h1>
+        <p>Our Web-Application is aimed to empower individuals in their fitness journey by providing real-time 
+            feedback on their yoga and exercise poses.</p>
+      
+        <p>Using cutting-edge AI pose estimation technology, Pose and Perfect analyzes your movements 
+            through your device's camera, identifying areas where your form can be improved.</p>
+      
+        <p>Whether you're a beginner looking to learn the correct techniques 
+            or an experienced practitioner striving for perfection, our application offers 
+            personalized guidance to help you achieve your fitness goals safely and effectively.</p> 
+    </div>
+
+    <div class="intro-desc">
+        <h1 class="animate-character">Our Commitment to Well-being</h1>
+        <p>
+            At Pose & Perfect, we're passionate about democratizing access to effective fitness and yoga training.  
+            We believe that everyone deserves the opportunity to improve their physical and mental well-being, 
+            regardless of location, income, or experience level. Our platform leverages technology to break down traditional 
+            barriers to fitness, making personalized guidance accessible and affordable. We're committed to empowering individuals to take 
+            control of their health and live healthier, more fulfilling lives.
+        </p>
+    </div>
+    
+    <div class="intro-desc">
+        <h1 class="animate-character">Why Choose Pose & Perfect?</h1>
+        <p>
+            Pose & Perfect offers a unique blend of AI-powered form analysis and personalized feedback, 
+            creating a truly effective and engaging fitness experience.  Our key advantages include:
+            <ul>
+                <li><strong>Personalized Guidance:</strong> Receive real-time feedback on your form, tailored to your body and goals.</li>
+                <li><strong>Accessible Expertise:</strong>  Our AI chatbot provides expert-level answers to your fitness and yoga questions, anytime, anywhere.</li>
+                <li><strong>Affordable Solution:</strong>  Enjoy the benefits of personalized training at a fraction of the cost of traditional coaching.</li>
+                <li><strong>Convenient & Flexible:</strong>  Train from the comfort of your home, on your own schedule.</li>
+                <li><strong>Motivating Community:</strong>  Track your progress, compete on leaderboards, and connect with others on a similar journey.</li>
+            </ul>
+            We plan to continuously improve our platform by incorporating new exercises, 
+            refining our AI models, and adding features like personalized workout plans and integration 
+            with wearable devices, ensuring Pose & Perfect remains your ultimate fitness companion.
+        </p>
+    </div>
+    
+</body>
+</html>
+
+{% endblock %}
+
