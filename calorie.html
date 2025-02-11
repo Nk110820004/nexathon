@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Healthyfy App</title>
+    <link rel="stylesheet" href="calorie.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <div class="container">
+        <h1>Healthyfy App</h1>
+        <div id="streak">Streak: 0 days</div>
+        
+        <div id="foodInput">
+            <select id="foodSelect">
+                <option value="">Select a food</option>
+            </select>
+            
+            <input type="number" id="quantity" placeholder="Quantity" min="1" value="1">
+            <button onclick="addFood()">Add Food</button>
+        </div>
+
+        <div id="dailyLog">
+            <h2>Today's Food Log</h2>
+            <ul id="foodList"></ul>
+            <p>Total Calories: <span id="totalCalories">0</span></p>
+        </div>
+
+        <div class="chart-container">
+            <canvas id="comparisonChart"></canvas>
+        </div>
+
+        <div class="chart-container">
+            <canvas id="historyChart"></canvas>
+        </div>
+    </div>
+
+    <script src="calorie.js"></script>
+</body>
+</html>
+

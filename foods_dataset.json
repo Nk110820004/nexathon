@@ -1,0 +1,12 @@
+[
+    { "id": "apple", "name": "Apple", "calories": 95 },
+    { "id": "banana", "name": "Banana", "calories": 105 },
+    { "id": "chicken", "name": "Chicken Breast", "calories": 165 },
+    { "id": "rice", "name": "Rice", "calories": 206 },
+    { "id": "bread", "name": "Bread", "calories": 79 },
+    { "id": "pasta", "name": "Pasta", "calories": 131 },
+    { "id": "cheese", "name": "Cheese", "calories": 402 },
+    { "id": "milk", "name": "Milk", "calories": 103 },
+    { "id": "eggs", "name": "Eggs", "calories": 68 },
+    { "id": "steak", "name": "Steak", "calories": 271 }
+]
