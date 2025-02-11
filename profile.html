@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+
+{% block title %}Profile{% endblock %}
+
+{% block content %}
+<div class="row justify-content-center">
+    <div class="col-md-6">
+        <div class="card">
+            <div class="card-body">
+                <h2 class="card-title text-center mb-4">{{ session.get('username') }}'s Profile</h2>
+                <p class="text-center">Points: {{ points }}</p>
+                <p class="text-center">Available Discount: {{ discount }}%</p>
+                <div class="d-grid gap-2">
+                    <a href="{{ url_for('chat') }}" class="btn btn-primary">Go to Chat</a>
+                    {% if discount > 0 %}
+                    <button class="btn btn-success" onclick="alert('Coupon applied: {{ discount }}% off your next purchase!')">Claim Discount</button>
+                    {% endif %}
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
