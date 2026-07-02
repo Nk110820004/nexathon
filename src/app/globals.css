@@ -1,0 +1,122 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand-cyan: #06b6d4;
+  --color-brand-cyan-light: #22d3ee;
+  --color-brand-emerald: #10b981;
+  --color-brand-emerald-light: #34d399;
+  --color-brand-violet: #8b5cf6;
+  --color-brand-violet-light: #a78bfa;
+  --color-brand-red: #f43f5e;
+  --color-brand-dark-950: #020617;
+  --color-brand-dark-900: #0f172a;
+  --color-brand-dark-800: #1e293b;
+  --color-brand-dark-700: #334155;
+  
+  --animate-fade-in: fade-in 0.5s ease-out;
+  --animate-slide-up: slide-up 0.6s cubic-bezier(0.16, 1, 0.3, 1);
+  --animate-slide-in-right: slide-in-right 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+  --animate-pulse-glow: pulse-glow 2s infinite alternate;
+  --animate-float: float 4s ease-in-out infinite;
+
+  @keyframes fade-in {
+    from { opacity: 0; }
+    to { opacity: 1; }
+  }
+  @keyframes slide-up {
+    from { transform: translateY(24px); opacity: 0; }
+    to { transform: translateY(0); opacity: 1; }
+  }
+  @keyframes slide-in-right {
+    from { transform: translateX(30px); opacity: 0; }
+    to { transform: translateX(0); opacity: 1; }
+  }
+  @keyframes pulse-glow {
+    0% { box-shadow: 0 0 5px rgba(6, 182, 212, 0.2), 0 0 0 1px rgba(6, 182, 212, 0.1); }
+    100% { box-shadow: 0 0 20px rgba(6, 182, 212, 0.6), 0 0 0 1px rgba(6, 182, 212, 0.3); }
+  }
+  @keyframes float {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-8px); }
+  }
+}
+
+:root {
+  --background: #020617;
+  --foreground: #f8fafc;
+}
+
+body {
+  background-color: var(--background);
+  color: var(--foreground);
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  overflow-x: hidden;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #020617;
+}
+::-webkit-scrollbar-thumb {
+  background: #1e293b;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #334155;
+}
+
+/* Glassmorphism Classes */
+.glass-panel {
+  background: rgba(15, 23, 42, 0.65);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.glass-panel-glow {
+  background: rgba(15, 23, 42, 0.7);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(6, 182, 212, 0.2);
+  box-shadow: 0 0 15px rgba(6, 182, 212, 0.1);
+  transition: all 0.3s ease;
+}
+
+.glass-panel-glow:hover {
+  border-color: rgba(6, 182, 212, 0.4);
+  box-shadow: 0 0 25px rgba(6, 182, 212, 0.2);
+}
+
+/* Red Glow for SOS */
+.sos-glow {
+  animation: red-glow-pulse 1.5s infinite alternate;
+}
+
+@keyframes red-glow-pulse {
+  0% {
+    box-shadow: 0 0 10px rgba(244, 63, 94, 0.4), inset 0 0 5px rgba(244, 63, 94, 0.2);
+    border-color: rgba(244, 63, 94, 0.4);
+  }
+  100% {
+    box-shadow: 0 0 25px rgba(244, 63, 94, 0.8), inset 0 0 15px rgba(244, 63, 94, 0.4);
+    border-color: rgba(244, 63, 94, 0.8);
+  }
+}
+
+/* Utility Animations */
+.animate-delay-100 {
+  animation-delay: 100ms;
+}
+.animate-delay-200 {
+  animation-delay: 200ms;
+}
+.animate-delay-300 {
+  animation-delay: 300ms;
+}
+.animate-delay-500 {
+  animation-delay: 500ms;
+}
